@@ -62,6 +62,7 @@ public class DataHolder {
 					continue;
 				if (!isTitle(splitLine[4]))
 					continue;
+				types.put(splitLine[4], splitLine[3]);
 			}
 		}
 		catch (IOException e) {
