@@ -162,17 +162,8 @@ public class DataHolder {
 	}
 	
 	public String toString() {
-//		String to_return = "";
-//		for (int i = 0; i < titles.length; i++) {
-//			to_return += titles[i] + "\t" + averages[i] + "\n";
-//		}
-//		return to_return;
-//		String to_return = "";
-//		for (int i = 0; i < titles.length; i++) {
-//			to_return += titles[i] + " " + types.get(titles[i]) + "\n";
-//		}
-//		return to_return;
-		String to_return = data.size() + "\n";
+		//String to_return = data.size() + "\n";
+		String to_return = "";
 		for (int i = 0; i < data.size(); i++) {
 			to_return += data.get(i).toString()+"\n";
 		}

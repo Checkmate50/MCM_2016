@@ -15,25 +15,14 @@ public class Main {
 		DataHolder data = new DataHolder(pos, dat, dic, matrices);
 		
 		data.removeTrait("hcm2", 1);
+		//data.generateCompMatrix("ugds");
+		
 		try {
-			BufferedWriter bw = new BufferedWriter(new FileWriter(new File("data/universities.txt")));
+			BufferedWriter bw = new BufferedWriter(new FileWriter(new File("data/results.txt")));
 			bw.write(data.toString());
 			bw.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		
-		//data.generateCompMatrix("ugds");
-		//matrices.getMatrix("comp_ugds").Write("data/comp_ugds.txt");
-		
-		/*try {
-			BufferedWriter bw = new BufferedWriter(new FileWriter(new File("data/comp_ugds.txt")));
-			bw.write(matrices.getMatrix("comp_ugds").toString());
-			bw.close();
-		} catch (IOException e) 	{
-			e.printStackTrace();
-		}*/
-			
-		//System.out.println(data);
 	}
 }

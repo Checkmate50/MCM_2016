@@ -82,17 +82,17 @@ public class Matrix {
 		return matrix;
 	}
 	
-	public void write(String path) {
+	public void write(String path, Boolean verbose) {
 		BufferedWriter bw;
 		try {
-			bw = new BufferedWriter(new FileWriter(new File("data/comp_ugds.txt")));
+			bw = new BufferedWriter(new FileWriter(new File(path)));
 			for (int i = 0; i < matrix.length; i++) {
 				for (int j = 0; j < matrix[0].length-1; j++) {
 					bw.write(((Double)matrix[i][j]).toString() + " ");
-					System.out.println(((Double)matrix[i][j]).toString() + " ");
 				}
 				bw.write(((Double)matrix[i][matrix[0].length-1]).toString());
-				System.out.println(((Double)matrix[i][matrix[0].length-1]).toString());
+				if (verbose)
+					System.out.println(i);
 			}
 			bw.close();
 		} catch (IOException e) {
@@ -102,13 +102,10 @@ public class Matrix {
 	
 	public String toString() {
 		String to_return = "";
-		System.out.println(matrix.length);
-		System.out.println(matrix[0].length);
 		for (int i = 0; i < matrix.length; i++) {
 			for (int j = 0; j < matrix[0].length-1; j++) {
 				to_return += ((Double)matrix[i][j]).toString() + " ";
 			}
-			System.out.println(i);
 			to_return += ((Double)matrix[i][matrix[0].length-1]) + "\n";
 		}
 		return to_return;

@@ -44,6 +44,6 @@ public class University implements Comparable<University> {
 	}
 	
 	public String toString() {
-		return fields.get("unitid") + "\t" + fields.get("instnm");
+		return fields.get("unitid") + "\t" + fields.get("instnm") + "\t" + score;
 	}
 }
