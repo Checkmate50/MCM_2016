@@ -1,5 +1,9 @@
 package data;
 
-public class DataHolder {
+import java.util.ArrayList;
 
+public class DataHolder {
+	ArrayList<University> data;
+	
+	
 }
