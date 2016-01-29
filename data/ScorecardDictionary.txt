@@ -2,15 +2,15 @@ NAME OF DATA ELEMENT	dev-category	developer-friendly name	API data type	VARIABLE
 Unit ID for institution	root	id	integer	UNITID			IPEDS	
 8-digit OPE ID for institution	root	ope8_id	integer	OPEID			IPEDS	
 6-digit OPE ID for institution	root	ope6_id	integer	opeid6			IPEDS	
-Institution name	school	name	autocomplete	INSTNM			IPEDS	
-City	school	city	autocomplete	CITY			IPEDS	
+Institution name	school	name	string	INSTNM			IPEDS	
+City	school	city	string	CITY			IPEDS	
 State postcode	school	state	string	STABBR			IPEDS	
 ZIP code	school	zip	integer	ZIP			IPEDS	
 Accreditor for institution	school	accreditor	string	AccredAgency			OPE	
 URL for institution's homepage	school	school_url	string	INSTURL			IPEDS	
 URL for institution's net price calculator	school	price_calculator_url	string	NPCURL			IPEDS	
 Predominant degree awarded (recoded 0s and 4s)	school	degrees_awarded.predominant_recoded	integer	sch_deg	 		IPEDS/NSLDS	"Missing values, 0s, and 4s from PREDDEG recoded according to NSLDS program length"
-Flag for main campus	school	main_campus	boolean	main	0	Not main campus	IPEDS	
+Flag for main campus	school	main_campus	integer	main	0	Not main campus	IPEDS	
 	school				1	Main campus		
 Number of branch campuses	school	branches	integer	NUMBRANCH			IPEDS	
 	school	degrees_awarded.predominant	integer	PREDDEG	0	Not classified	IPEDS	
@@ -182,23 +182,23 @@ Carnegie Classification -- size and setting	school	carnegie_size_setting	integer
 					16	"Large 4-year, primarily residential (confers bachelor's degrees, FTE enrollment over 9,999, 25 to 49 percent of degree-seeking undergraduates live on campus and at least 50 percent attend full time)"		
 					17	"Large 4-year, highly residential (confers bachelor's degrees, FTE enrollment over 9,999, at least 50 percent of degree-seeking undergraduates live on campus and at least 80 percent attend full time)"		
 					18	"Not applicable, special-focus institution"		
-Flag for Historically Black College and University	school	minority_serving.historically_black	boolean	HBCU	0	No	OPE	
+Flag for Historically Black College and University	school	minority_serving.historically_black	integer	HBCU	0	No	OPE	
 					1	Yes		
-Flag for predominantly black institution	school	minority_serving.predominantly_black	boolean	PBI	0	No	OPE	
+Flag for predominantly black institution	school	minority_serving.predominantly_black	integer	PBI	0	No	OPE	
 					1	Yes		
-Flag for Alaska Native Native Hawaiian serving institution	school	minority_serving.annh	boolean	ANNHI	0	No	OPE	
+Flag for Alaska Native Native Hawaiian serving institution	school	minority_serving.annh	integer	ANNHI	0	No	OPE	
 					1	Yes		
-Flag for tribal college and university	school	minority_serving.tribal	boolean	TRIBAL	0	No	OPE	
+Flag for tribal college and university	school	minority_serving.tribal	integer	TRIBAL	0	No	OPE	
 					1	Yes		
-Flag for Asian American Native American Pacific Islander-serving institution	school	minority_serving.aanipi	boolean	AANAPII	0	No	OPE	
+Flag for Asian American Native American Pacific Islander-serving institution	school	minority_serving.aanipi	integer	AANAPII	0	No	OPE	
 					1	Yes		
-Flag for Hispanic-serving institution	school	minority_serving.hispanic	boolean	HSI	0	No	OPE	
+Flag for Hispanic-serving institution	school	minority_serving.hispanic	integer	HSI	0	No	OPE	
 					1	Yes		
-Flag for Native American non-tribal institution	school	minority_serving.nant	boolean	NANTI	0	No	OPE	
+Flag for Native American non-tribal institution	school	minority_serving.nant	integer	NANTI	0	No	OPE	
 					1	Yes		
-Flag for men-only college	school	men_only	boolean	MENONLY	0	No	IPEDS	
+Flag for men-only college	school	men_only	integer	MENONLY	0	No	IPEDS	
 					1	Yes		
-Flag for women-only college	school	women_only	boolean	WOMENONLY	0	No	IPEDS	
+Flag for women-only college	school	women_only	integer	WOMENONLY	0	No	IPEDS	
 					1	Yes		
 Religous affiliation of the institution	school	religious_affiliation	integer	RELAFFIL	-1	Not reported	IPEDS	
 					-2	Not applicable		
@@ -518,7 +518,7 @@ Certificate of at least one but less than two academic years in History.	academi
 Associate degree in History.	academics	program.assoc.history	integer	CIP54ASSOC			IPEDS	
 Award of more than two but less than four academic years in History.	academics	program.certificate_lt_4_yr.history	integer	CIP54CERT4			IPEDS	
 Bachelor's degree in History.	academics	program.bachelors.history	integer	CIP54BACHL			IPEDS	
-Flag for distance-education-only education	school	online_only	boolean	DISTANCEONLY	0	Not distance-education only	IPEDS	
+Flag for distance-education-only education	school	online_only	integer	DISTANCEONLY	0	Not distance-education only	IPEDS	
 					1	Distance-education only		
 Enrollment of undergraduate degree-seeking students	student	size	integer	UGDS	 		IPEDS	"To be bucketed into size categories (College Navigator: <2k, 2-15k, >15k)"
 Enrollment of all undergraduate students	student	enrollment.all	integer	UG			IPEDS	
@@ -546,7 +546,7 @@ Total share of enrollment of undergraduate students who are Hispanic	student	dem
 "Share of undergraduate, degree-/certificate-seeking students who are part-time"	student	part_time_share	float	PPTUG_EF	 		IPEDS	"The proportion of degree/certificate-seeking undergraduates enrolled part time in the fall term, calculated from the IPEDS Fall Enrollment component. This metric does not apply during 2000-01, when degree/certificate-seeking status was not collected. It is calculated as the number of part-time, degree/certificate-seeking undergraduates divided by the number of degree/certificate-seeking undergraduates. It includes non-first-time undergraduates. Proportions are expressed as decimals rounded to four decimal places, so, for example, 0.1234 equals 12.34 percent.
 "
 "Share of undergraduate, degree-/certificate-seeking students who are part-time"	student	part_time_share	float	PPTUG_EF2			IPEDS	Not after 2000
-"Flag for currently operating institution, 0=closed, 1=operating"	school	operating	boolean	CURROPER	0	Not currently certified as an operating institution	FSA	
+"Flag for currently operating institution, 0=closed, 1=operating"	school	operating	integer	CURROPER	0	Not currently certified as an operating institution	FSA	
 					1	Currently certified as operating		
 Average net price for Title IV institutions (public institutions)	cost	avg_net_price.public	integer	NPT4_PUB			IPEDS	"The average annual total cost of attendance (CostT4_A, CostT4_P), including tuition and fees, books and supplies, and living expenses, minus the average grant/scholarship aid. It is calculated for all full-time, first-time, degree/certificate-seeking undergraduates who receive Title IV aid. It is included in the IPEDS Student Financial Aid component. Separate metrics are calculated for public institutions and private institutions. For academic-year institutions, net price represents an average of all programs and includes only undergraduates who first enrolled in the fall term. For non-academic-year institutions (program or continuous enrollment), net price represents the program with the largest enrollment at the institution for the length of the full program, regardless of program length (see LProgram), and it includes undergraduates who first enrolled at any time during the academic year. For public institutions, this metric is limited to undergraduates who pay in-state tuition and receive Title IV aid. For private institutions, it includes all undergraduates who receive Title IV aid. The total cost of attendance depends on whether undergraduates live on campus, off campus (not with family), or off campus (with family)."
 Average net price for Title IV institutions (private for-profit and nonprofit institutions)	cost	avg_net_price.private	integer	NPT4_PRIV			IPEDS	
