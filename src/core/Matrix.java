@@ -28,6 +28,48 @@ public class Matrix {
 		matrix = data;
 	}
 	
+	/**
+	 * Multiplies by the constant c internally.  Useful for very large matrices
+	 * @param c
+	 */
+	public void internMul(double c) {
+		for (int i = 0; i < matrix.length; i++)
+			for (int j = 0; j < matrix[0].length; j++)
+				matrix[i][j] *= c;
+	}
+	
+	/**
+	 * Takes ln of each component of the matrix internally.  Useful for very large matrices
+	 * @param c
+	 */
+	public void internln() {
+		for (int i = 0; i < matrix.length; i++)
+			for (int j = 0; j < matrix[0].length; j++)
+				matrix[i][j] = Math.log(matrix[i][j]);
+	}
+	
+	/**
+	 * exponentiates each component of the matrix internally.  Useful for very large matrices
+	 * @param c
+	 */
+	public void interne(double c) {
+		for (int i = 0; i < matrix.length; i++)
+			for (int j = 0; j < matrix[0].length; j++)
+				matrix[i][j] = Math.exp(matrix[i][j]);
+	}
+	
+	/**
+	 * adds the given matrix to this matrix internally.  Useful for very large matrices
+	 * @param m
+	 */
+	public void internAdd(Matrix m) {
+		if (matrix.length != m.matrix.length || matrix[0].length != m.matrix[0].length)
+			System.out.println("Given matrix of incompatible size!");
+		for (int i = 0; i < matrix.length; i++)
+			for (int j = 0; j < matrix[0].length; j++)
+				matrix[i][j] += m.matrix[i][j];
+	}
+	
 	public double sumRow(int row) {
 		double toReturn = 0;
 		for (int i = 0; i < matrix[row].length; i++) {
