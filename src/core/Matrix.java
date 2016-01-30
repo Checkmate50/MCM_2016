@@ -64,7 +64,7 @@ public class Matrix {
 	 */
 	public void internAdd(Matrix m) {
 		if (matrix.length != m.matrix.length || matrix[0].length != m.matrix[0].length)
-			System.out.println("Given matrix of incompatible size!");
+			System.err.println("Given matrix of incompatible size!");
 		for (int i = 0; i < matrix.length; i++)
 			for (int j = 0; j < matrix[0].length; j++)
 				matrix[i][j] += m.matrix[i][j];

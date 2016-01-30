@@ -1,0 +1,6 @@
+110510	California State University-San Bernardino	-Infinity
+110574	California State University-East Bay	-Infinity
+110592	California State University-Los Angeles	-Infinity
+191621	Hilbert College	-Infinity
+192040	Jewish Theological Seminary of America	NaN
+192323	Le Moyne College	-Infinity

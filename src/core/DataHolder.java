@@ -65,22 +65,22 @@ public class DataHolder {
 				splitLine = line.split("\t");
 				for (int i = 0; i < splitLine.length; i++)
 					if (splitLine[i].toLowerCase().equals("null") || splitLine[i].toLowerCase().equals("privacysuppressed"))
-						splitLine[i] = "0";
+						splitLine[i] = "-1";
 				if (possible.contains(Long.parseLong(splitLine[0])))
-					this.data.add(new University(titles, splitLine, matrices));
+					this.data.add(new University(titles, splitLine, types, matrices));
 				//calculate averages
 				for (int i = 0; i < splitLine.length; i++) {
 					if (types.get(titles[i]).equals("float")) {
 						temp1 = Double.parseDouble(splitLine[i]);
 						averages[i] += temp1;
-						if (temp1 != 0)
+						if (temp1 != -1)
 							averageCount[i] += 1;
 					}
 						
 					else if (types.get(titles[i]).equals("integer")) {
 						temp2 = Integer.parseInt(splitLine[i]);
 						averages[i] += temp2;
-						if (temp2 != 0)
+						if (temp2 != -1)
 							averageCount[i] += 1;
 					}
 				}
@@ -88,6 +88,14 @@ public class DataHolder {
 			
 			for (int i = 0; i < averages.length; i++)
 				averages[i] = averages[i]/averageCount[i];
+			
+			for (int i = 0; i < titles.length; i++) {
+				if (types.get(titles[i]).equals("string"))
+					continue;
+				for (int j = 0; j < this.data.size(); j++)
+					if (this.data.get(j).getField(titles[i])==-1.0)
+						this.data.get(j).setField(titles[i], averages[i]);
+			}
 		}
 		catch (IOException e) {
 			e.printStackTrace();
@@ -120,9 +128,83 @@ public class DataHolder {
 		return Boolean.FALSE;
 	}
 	
+	/**
+	 * Create a trait by summing the values of the given traits (must all be real values)
+	 * @param title
+	 * @param titlesToSum
+	 */
+	public void generateSumTrait(String title, String[] titlesToSum) {
+		double sum;
+		for (int i = 0; i < data.size(); i++) {
+			sum = 0;
+			for (int j = 0; i < titlesToSum.length; i++) {
+				sum += data.get(i).getField(titlesToSum[j]);
+			}
+			data.get(i).addField(title, sum);
+		}
+	}
+	
+	/**
+	 * Create a trait by averaging the values of the given traits, ignores 0 values for average since NULL=0
+	 * @param title
+	 * @param titlesToAverage
+	 */
+	public void generateAverageTrait(String title, String[] titlesToAverage) {
+		double sum;
+		double temp;
+		int count;
+		for (int i = 0; i < data.size(); i++) {
+			sum = 0;
+			count = 0;
+			for (int j = 0; j < titlesToAverage.length; j++) {
+				temp = data.get(i).getField(titlesToAverage[j]);
+				count++;
+				sum += temp;
+			}
+			data.get(i).addField(title, sum/count);
+		}
+	}
+	
+	/**
+	 * Create a trait by averaging the values of the given traits, ignores 0 values for average since NULL=0
+	 * Specially converts act scores (values less than 100)
+	 * @param title
+	 * @param titlesToAverage
+	 */
+	public void generateAverageScoreTrait(String title, String[] titlesToAverage) {
+		double sum;
+		double temp;
+		int count;
+		for (int i = 0; i < data.size(); i++) {
+			sum = 0;
+			count = 0;
+			for (int j = 0; j < titlesToAverage.length; j++) {
+				temp = data.get(i).getField(titlesToAverage[j]);
+				count++;
+				if (temp < 100) {
+						temp = actToSat(temp);
+				}
+				sum += temp;
+			}
+			data.get(i).addField(title, sum/count);
+		}
+	}
+	
+	private double actToSat(double value) {
+		return value * 60 + 200;
+	}
+	
+	public void generateRatioTrait(String title, String numerator, String denominator) {
+		University temp;
+		for (int i = 0; i < data.size(); i++) {
+			temp = data.get(i);
+			temp.addField(title, temp.getField(numerator)/temp.getField(denominator));
+		}
+	}
+	
 	public void removeTrait(String title, String value) {
 		for (int i = 0; i < data.size(); i++) {
-			if (data.get(i).getField(title).equals(value)) {
+			if (data.get(i).getStringField(title).equals(value)) {
 				data.remove(i);
 				i--;
 			}
@@ -131,7 +213,7 @@ public class DataHolder {
 	
 	public void removeTrait(String title, double value) {
 		for (int i = 0; i < data.size(); i++) {
-			if (Double.parseDouble(data.get(i).getField(title)) == value) {
+			if (data.get(i).getField(title) == value) {
 				data.remove(i);
 				i--;
 			}
@@ -140,25 +222,56 @@ public class DataHolder {
 	
 	public void removeTrait(String title, int value) {
 		for (int i = 0; i < data.size(); i++) {
-			if (Integer.parseInt(data.get(i).getField(title)) == value) {
+			if ((int)data.get(i).getField(title) == value) {
 				data.remove(i);
 				i--;
 			}
 		}
 	}
 	
-	public void generateCompMatrix(String title) {
+	public void generateEmptyMatrix(String title) {
 		double[][] build = new double[data.size()][data.size()];
 		for(int i = 0; i < data.size(); i++) {
 			for(int j = 0; j < data.size(); j++) {
-				build[i][j] = Double.parseDouble(data.get(i).getField(title))/Double.parseDouble(data.get(j).getField(title));
+				build[i][j] = 0;
 			}
 		}
-		matrices.addMatrix("comp_" + title, new Matrix(build));
+		matrices.addMatrix(title, new Matrix(build));
+	}
+	
+	public void generateCompMatrix(String title) {
+		double[][] build = new double[data.size()][data.size()];
+		double max = 0;
+		double numerator;
+		double denominator;
+		ArrayList<Integer> zeroes;
+		for(int i = 0; i < data.size(); i++) {
+			for(int j = 0; j < data.size(); j++) {
+				numerator = data.get(i).getField(title);
+				denominator = data.get(j).getField(title);
+				build[i][j] = numerator/denominator;
+			}
+		}
+		matrices.addMatrix(title, new Matrix(build));
+	}
+	
+	public void calcScores() {
+		for (int i = 0; i < data.size(); i++)
+			data.get(i).calcScore(i);
 	}
 	
 	public void sort() {
 		Collections.sort(data);
+	}
+	
+	public void printField(String field) {
+		for (int i = 0; i < data.size(); i++)
+			System.out.println(data.get(i).getField(field));
+	}
+	
+	public void printStringField(String field) {
+		for (int i = 0; i < data.size(); i++)
+			System.out.println(data.get(i).getStringField(field));
 	}
 	
 	public String toString() {

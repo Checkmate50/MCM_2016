@@ -1,0 +1,7 @@
+UNITID	INSTNM	CITY	STABBR
+191621	Hilbert College	Hamburg	NY
+192040	Jewish Theological Seminary of America	New York	NY
+192323	Le Moyne College	Syracuse	NY
+110510	California State University-San Bernardino	San Bernardino	CA
+110574	California State University-East Bay	Hayward	CA
+110592	California State University-Los Angeles	Los Angeles	CA
