@@ -1,0 +1,2919 @@
+197027	United States Merchant Marine Academy	8.873622277853158
+192040	Jewish Theological Seminary of America	6.298000301945034
+166027	Harvard University	5.370000668733657
+234207	Washington and Lee University	5.336626165113069
+179265	St Louis College of Pharmacy	5.25123581447396
+188526	Albany College of Pharmacy and Health Sciences	5.127604804570175
+211893	Curtis Institute of Music	5.101626700363908
+115409	Harvey Mudd College	4.754424224428643
+186131	Princeton University	4.497072893298641
+110404	California Institute of Technology	4.449763300194228
+112260	Claremont McKenna College	4.388147647012228
+244190	Widener University-Delaware Campus	4.318650876915351
+164580	Babson College	4.217506069644439
+191597	Helene Fuld College of Nursing	4.214365465539863
+131496	Georgetown University	4.147731663879132
+243744	Stanford University	4.141771943139557
+198385	Davidson College	4.130246032565614
+111966	Charles R Drew University of Medicine and Science	4.076141700265191
+130794	Yale University	4.032649161475837
+166683	Massachusetts Institute of Technology	3.9360236591947686
+160977	Bates College	3.8549745982425683
+190099	Colgate University	3.85431667931725
+213385	Lafayette College	3.837022290937354
+214175	Muhlenberg College	3.8322255290245693
+238324	Bellin College	3.803956027884821
+179867	Washington University in St Louis	3.7877536908735867
+215132	University of the Sciences	3.7876597694571172
+215062	University of Pennsylvania	3.7663676441368543
+191515	Hamilton College	3.7576851660163153
+182670	Dartmouth College	3.7539740352727393
+434937	Yeshiva College of the Nations Capital	3.7188764380120967
+166656	MCPHS University	3.6846830024722688
+166692	Massachusetts Maritime Academy	3.6673507002647487
+230959	Middlebury College	3.6334108223172246
+212911	Haverford College	3.599369115938388
+161004	Bowdoin College	3.589088040867144
+168148	Tufts University	3.579753406927645
+198419	Duke University	3.5741701252381306
+174507	Northwestern Health Sciences University	3.5521485429425605
+152080	University of Notre Dame	3.5328966455589645
+190451	Crouse Hospital College of Nursing	3.508847605530749
+195702	Saint Elizabeth Medical Center School of Radiography	3.495308564467541
+130590	Trinity College	3.4810730093408377
+129686	Lyme Academy College of Fine Arts	3.467023676467099
+197221	Webb Institute	3.465071685817499
+121345	Pomona College	3.4645379836980434
+161086	Colby College	3.4462706476931695
+166124	College of the Holy Cross	3.395510445972436
+164739	Bentley University	3.3695696002255056
+417734	Southeast Missouri Hospital College of Nursing and Health Sciences	3.3467049781223475
+233356	Bon Secours Memorial College of Nursing	3.346244117498403
+213543	Lehigh University	3.3417083385869213
+166407	Lawrence Memorial Hospital School of Nursing	3.312606776415641
+211291	Bucknell University	3.306586184668224
+168342	Williams College	3.2959498121756843
+152798	Allen College	3.2896926355797484
+260947	Christian Life College	3.285782007532221
+198109	Cabarrus College of Health Sciences	3.2594059786455998
+162928	Johns Hopkins University	3.2237981232304977
+190372	Cooper Union for the Advancement of Science and Art	3.221451999016003
+161299	Maine Maritime Academy	3.2176246351021063
+212577	Franklin and Marshall College	3.2062880915902046
+216597	Villanova University	3.2001797121281528
+151962	Mid-America College of Funeral Service	3.1846161701432583
+190150	Columbia University in the City of New York	3.177704936877809
+154174	Palmer College of Chiropractic-Davenport	3.1565049943894565
+164465	Amherst College	3.1378212146477984
+461236	Georgia Christian University	3.099204233053301
+221999	Vanderbilt University	3.0911266073011654
+401223	World Mission University	3.079703145298996
+137272	Saint John Vianney College Seminary	3.0430612683115768
+204176	Mount Carmel College of Nursing	3.0356890353694923
+168218	Wellesley College	3.0173256941263427
+111188	California Maritime Academy	2.9916645160258803
+117557	Lincoln University	2.9913914919481046
+167996	Stonehill College	2.987443323214675
+130448	St Vincent's College	2.9564796712590997
+441982	Franklin W Olin College of Engineering	2.9437089105061442
+203535	Kenyon College	2.937191533739757
+196440	Talmudical Institute of Upstate New York	2.9342818512223356
+195191	St Joseph's College of Nursing at St Joseph's Hospital Health Center	2.928952508698699
+212674	Gettysburg College	2.92672358296351
+129242	Fairfield University	2.9203326365290536
+144050	University of Chicago	2.9118459113208597
+227757	Rice University	2.90423811425661
+212009	Dickinson College	2.901944727474338
+233374	University of Richmond	2.899856238135078
+128902	Connecticut College	2.898873206171154
+217156	Brown University	2.8969918545077897
+209241	Mount Angel Seminary	2.891996691788735
+174792	Saint Johns University	2.8916780485574005
+189097	Barnard College	2.8876102182336516
+196866	Union College	2.8872994402474634
+203544	Kettering College	2.8788326302381995
+481410	Yeshiva Gedolah Kesser Torah	2.8559600761107333
+480754	Manthano Christian College	2.850797543164693
+123165	Scripps College	2.838811107002792
+168421	Worcester Polytechnic Institute	2.8378397781015
+460075	California University of Management and Sciences	2.83691840472836
+121257	Pitzer College	2.8272636882347135
+194824	Rensselaer Polytechnic Institute	2.8237013693037567
+399911	Soka University of America	2.8204677323918528
+160409	Saint Joseph Seminary College	2.7963760427944053
+199847	Wake Forest University	2.7962234400602126
+190415	Cornell University	2.7906912923304086
+122931	Santa Clara University	2.788063356935843
+120838	Pacific States University	2.782622667377134
+186867	Stevens Institute of Technology	2.7789149875359005
+121150	Pepperdine University	2.772264241741347
+113537	Dell'Arte International School of Physical Theatre	2.767749593948514
+173258	Carleton College	2.7589594276964697
+229267	Trinity University	2.7511529276829263
+216287	Swarthmore College	2.749374289126387
+217402	Providence College	2.742283703366367
+197133	Vassar College	2.7309228933819445
+102580	Alaska Bible College	2.7224039332300363
+161022	Central Maine Medical Center College of Nursing and Health Professions	2.7044428671019407
+234085	Virginia Military Institute	2.6797619997473
+167677	Saint John's Seminary	2.678978148711169
+164924	Boston College	2.6718510689638824
+197708	Yeshiva University	2.66924208349918
+449348	Huntsville Bible College	2.6537564043318125
+192165	Kehilath Yakov Rabbinical Seminary	2.63601359010633
+163046	Loyola University Maryland	2.6355155165820383
+194657	Rabbinical Academy Mesivta Rabbi Chaim Berlin	2.630294590879644
+152673	Wabash College	2.629460150424054
+476692	Yeshiva Gedolah Zichron Leyma	2.627484037460512
+219833	Christian Brothers University	2.621613893502269
+152099	Oakland City University	2.6213511612598164
+476601	Bais HaMedrash and Mesivta of Baltimore	2.6200710190367538
+115083	Golden Gate University-San Francisco	2.6088294006728328
+219639	Baptist Memorial College of Health Sciences	2.6017131935656073
+480985	Midwives College of Utah	2.5849995489356012
+202523	Denison University	2.5841372477767828
+177816	Kenrick Glennon Seminary	2.5797181431691607
+173452	Martin Luther College	2.5753197804790826
+215381	Pittsburgh Institute of Aeronautics	2.567566950008477
+181297	Nebraska Methodist College of Nursing & Allied Health	2.560813927930789
+147767	Northwestern University	2.5506276876255884
+218070	Furman University	2.549308989205233
+195289	Samaritan Hospital School of Nursing	2.545738083462499
+217165	Bryant University	2.544408083319108
+145646	Illinois Wesleyan University	2.5394331899687397
+436827	University of Connecticut-Avery Point	2.538364634561938
+211440	Carnegie Mellon University	2.5327188330236643
+152318	Rose-Hulman Institute of Technology	2.5283598496893642
+183239	Saint Anselm College	2.528092161826963
+476717	Be'er Yaakov Talmudic Seminary	2.520495045789602
+170532	Kalamazoo College	2.519117633078774
+211273	Bryn Mawr College	2.518428313298468
+110468	Alliant International University	2.5109274062831752
+190752	Yeshiva of Far Rockaway Derech Ayson Rabbinical Seminary	2.509990676781952
+436836	University of Connecticut-Stamford	2.503376688310299
+455770	Providence Christian College	2.4992713634919
+143084	Augustana College	2.4926668836148878
+156408	Centre College	2.489959211206642
+165015	Brandeis University	2.486309533013442
+176336	Southeastern Baptist College	2.4761378549578597
+221351	Rhodes College	2.473874112395117
+130697	Wesleyan University	2.473185104137983
+212984	Holy Family University	2.4686350655252216
+110060	Bethesda University of California	2.466369774523019
+201177	Aultman College of Nursing and Health Sciences	2.4658550776721864
+201645	Case Western Reserve University	2.448939807456137
+146755	Trinity College of Nursing & Health Sciences	2.4307530775358352
+481225	Mid-South Christian College	2.4194956624818715
+216667	Washington & Jefferson College	2.414689648098401
+199971	Carolina Christian College	2.409374044276759
+481438	Yeshiva Yesodei Hatorah	2.396484822232642
+129534	Holy Apostles College and Seminary	2.395473577236348
+198516	Elon University	2.3904963423986696
+131469	George Washington University	2.3850235369131036
+205027	Pontifical College Josephinum	2.3837500794015045
+446394	Maple Springs Baptist Bible College and Seminary	2.3816125417254876
+216047	Saint Charles Borromeo Seminary-Overbrook	2.3805297924149733
+164562	Assumption College	2.37942383418578
+139755	Georgia Institute of Technology-Main Campus	2.3725373211353564
+219505	American Baptist College	2.3699178135334265
+116846	American Jewish University	2.3687233546211393
+215770	Saint Joseph's University	2.367958986922623
+449870	University of the West	2.3609845891605103
+183248	St Joseph School of Nursing	2.357826807178675
+181002	Creighton University	2.353797972099784
+196291	SUNY Maritime College	2.3452402211583117
+433174	Carolinas College of Health Sciences	2.344108785767806
+126678	Colorado College	2.3387023716993216
+216311	Talmudical Yeshiva of Philadelphia	2.337193992418126
+195544	Saint Joseph's College-New York	2.3362280819443226
+232256	Hampden-Sydney College	2.33478311674012
+174747	College of Saint Benedict	2.3317387674252386
+231624	College of William and Mary	2.3304658163816447
+234076	University of Virginia-Main Campus	2.328880659876122
+179043	Rockhurst University	2.3285355460460426
+237057	Whitman College	2.322553550447784
+153384	Grinnell College	2.311675813192994
+152390	Saint Mary's College	2.3030623637712404
+218973	Wofford College	2.297574800792684
+164216	Washington College	2.296502649045481
+153269	Drake University	2.294232362997526
+235769	Trinity Lutheran College	2.2907501388058087
+137777	Talmudic College of Florida	2.290650437118912
+173902	Macalester College	2.2905171308923338
+176770	Cox College	2.2893644585752266
+173647	Gustavus Adolphus College	2.288063716662749
+216524	Ursinus College	2.2880370058627317
+190044	Clarkson University	2.2864466386188202
+120254	Occidental College	2.283241604784125
+174844	St Olaf College	2.281039502350371
+163912	St Mary's College of Maryland	2.2720864821502262
+213251	Juniata College	2.271009701428172
+215743	Saint Francis University	2.2693210221819067
+172033	Sacred Heart Major Seminary	2.2689590495331178
+204635	Ohio Northern University	2.2621088161879697
+195216	St Lawrence University	2.2546246729038044
+154262	St Luke's College	2.2542264540569965
+218539	Presbyterian College	2.2515371011850833
+216278	Susquehanna University	2.247851830433013
+195526	Skidmore College	2.24672992243518
+150400	DePauw University	2.24552548687842
+215929	University of Scranton	2.2427423860495077
+216807	Westminster College	2.2395491970795844
+192703	Manhattan College	2.235502806060427
+222983	Austin College	2.2342046783656735
+439899	Rosedale Bible College	2.232341092541318
+187134	The College of New Jersey	2.230836217255073
+165334	Clark University	2.2271275985460983
+192110	The Juilliard School	2.2257027414578903
+175980	Millsaps College	2.2250307978978516
+231059	Saint Michael's College	2.217611476606073
+214157	Moravian College	2.217537144634326
+239716	Saint Norbert College	2.2127058019648547
+193292	Molloy College	2.2113650181149866
+219000	Augustana College	2.2102153309003802
+195474	Siena College	2.202576585297795
+117575	Southern California Seminary	2.1973765687632456
+228343	Southwestern University	2.193118314155344
+457402	University of Fort Lauderdale	2.1927938626860457
+212197	Elizabethtown College	2.1919728200781314
+102049	Samford University	2.1916293716374313
+458140	Northwest School of Wooden Boat Building	2.189524153518348
+235316	Gonzaga University	2.1843575428860027
+443058	Family of Faith College	2.183796781069457
+145725	Illinois Institute of Technology	2.1830089418740415
+191630	Hobart William Smith Colleges	2.1776977214334305
+131283	Catholic University of America	2.1710547406355705
+149639	VanderCook College of Music	2.1691123732696944
+245777	Bais Medrash Elyon	2.168746590336865
+209065	Linfield College-McMinnville Campus	2.1684625160752704
+233408	Riverside School of Health Careers	2.1635409966814776
+180878	Bryan College of Health Sciences	2.1633492205524214
+202480	University of Dayton	2.161951728720266
+190956	Belanger School of Nursing	2.1610674648059374
+197197	Wagner College	2.1573939236692294
+195438	Sh'or Yoshuv Rabbinical College	2.155143465209814
+181765	Nebraska College of Technical Agriculture	2.1547778858491333
+167835	Smith College	2.1412068619361295
+130226	Quinnipiac University	2.141144149279831
+168281	Wheaton College	2.138541810006384
+163462	Mount St Mary's University	2.132252715520677
+212106	Duquesne University	2.130337300600776
+169983	Kettering University	2.1276394166528614
+239628	Ripon College	2.127465187695487
+442356	Pennsylvania College of Health Sciences	2.1187813246756186
+243823	Parker University	2.1161891065703733
+215798	Saint Vincent College	2.1143036116351457
+192819	Marist College	2.1140504759571694
+139658	Emory University	2.113699425554429
+204501	Oberlin College	2.1126738158691643
+180832	Clarkson College	2.1097221769285373
+168546	Albion College	2.1053567197636274
+166939	Mount Holyoke College	2.1038293081172705
+457226	Horizon University	2.1033004512440474
+164270	McDaniel College	2.1017592220301546
+130943	University of Delaware	2.1009185074835686
+122506	San Francisco Conservatory of Music	2.1000823077276385
+246789	Unification Theological Seminary	2.0994126840305682
+206589	The College of Wooster	2.0948404141862316
+195030	University of Rochester	2.084776730377253
+384254	Beacon College	2.0836743293083217
+153302	Emmaus Bible College	2.0830389091743067
+192961	Memorial School of Nursing	2.0830188421666875
+210492	Bryn Athyn College of the New Church	2.0802875655469686
+125727	Westmont College	2.079591534528761
+212832	Gwynedd Mercy University	2.077183349500157
+200217	University of Mary	2.07510072935653
+146427	Knox College	2.0707017437393196
+239017	Lawrence University	2.070499827094805
+209825	University of Portland	2.0692912343543752
+213507	Lebanon Valley College	2.0684980666884054
+189282	Phillips Beth Israel School of Nursing	2.0660554758254492
+238078	Wheeling Jesuit University	2.060659903979116
+442897	Ottawa University-Jeffersonville	2.0552251800680392
+167783	Simmons College	2.054057765695014
+141325	Wesleyan College	2.053270873532422
+179946	Westminster College	2.052411861506508
+210669	Allegheny College	2.050218120441087
+182908	Lebanon College	2.0443451600189584
+458113	Bethel College	2.0395598175814196
+153825	Loras College	2.0386475882516004
+221519	Sewanee-The University of the South	2.033295375694745
+436614	International Baptist College and Seminary	2.031951427397178
+144962	Elmhurst College	2.031899361297092
+203368	John Carroll University	2.030705275854715
+434584	Ilisagvik College	2.0293016603602814
+130314	University of Saint Joseph	2.022623131973997
+107141	John Brown University	2.0215249117294696
+167358	Northeastern University	2.0204776158783666
+167394	College of Our Lady of the Elms	2.018699054312377
+101453	Heritage Christian University	2.0172866292202736
+232681	University of Mary Washington	2.0148585456485684
+148496	Dominican University	2.012019606553833
+180106	Carroll College	2.010742098567896
+154350	Simpson College	2.0051373344366987
+150163	Butler University	2.0038566013768775
+426314	Embry-Riddle Aeronautical University-Worldwide	2.0029226872125943
+121691	University of Redlands	2.0011432014154042
+202073	Cleveland Institute of Music	1.9955676825939306
+184348	Drew University	1.9947297210693764
+149781	Wheaton College	1.992571978296486
+150756	Hanover College	1.9892144024352763
+126775	Colorado School of Mines	1.988352304523385
+161208	The Landing School	1.983146726410905
+238333	Beloit College	1.9798006929829775
+210401	Willamette University	1.9788728596580143
+188687	American Academy McAllister Institute of Funeral Service	1.9784855438682203
+124292	Thomas Aquinas College	1.969598193162616
+177083	Conception Seminary College	1.9661082071349534
+153144	Coe College	1.9637629889778523
+157030	Kentucky Mountain Bible College	1.9613091328345889
+154013	Mount Mercy University	1.9589687879444375
+162654	Goucher College	1.9581725994883676
+181446	Nebraska Wesleyan University	1.95717772602124
+157809	Thomas More College	1.956801258998951
+122436	University of San Diego	1.9559492414556512
+436818	University of Connecticut-Tri-Campus	1.9554209556340123
+157818	Transylvania University	1.9545626477844995
+170976	University of Michigan-Ann Arbor	1.952550657324558
+153108	Central College	1.945788454385282
+456959	University of Minnesota-Rochester	1.9451498780483818
+214069	Misericordia University	1.9423409903149114
+214740	Pennsylvania State University-Penn State Dubois	1.936911499391901
+174899	The College of Saint Scholastica	1.9352004635722233
+239318	Milwaukee School of Engineering	1.9343800459122942
+232423	James Madison University	1.9315079317530521
+131159	American University	1.9313287237097774
+155636	Ottawa University-Kansas City	1.9306006489858936
+474863	Azusa Pacific Online University	1.9284224377873842
+152530	Taylor University	1.928284315458149
+154527	Wartburg College	1.9263225621937627
+217864	Citadel Military College of South Carolina	1.9249088576763103
+167057	The New England Conservatory of Music	1.9237087589135722
+222105	William Moore College of Technology	1.9234844808063618
+192323	Le Moyne College	1.920099199567468
+165699	Endicott College	1.9184757871883893
+231837	Jefferson College of Health Sciences	1.9172150407264736
+223117	Baptist Missionary Association Theological Seminary	1.9169556592395804
+163286	University of Maryland-College Park	1.9161525463905253
+143358	Bradley University	1.916128254778877
+163532	Ner Israel Rabbinical College	1.9148918407869548
+167899	Springfield College	1.9132379993807542
+206154	Tri-State Bible College	1.9128380941499645
+145691	Illinois College	1.9121689656754453
+150668	Goshen College	1.9106095625175703
+224323	University of Dallas	1.9098540765256085
+193973	Niagara University	1.9081730187277128
+239105	Marquette University	1.9077555790318759
+147660	North Central College	1.9072019149135258
+213321	King's College	1.906897795495152
+232043	Eastern Mennonite University	1.9040149468074037
+195243	St Thomas Aquinas College	1.9039100588884468
+164988	Boston University	1.9028834294930133
+220464	John A Gupton College	1.9012594720731304
+228875	Texas Christian University	1.89996928460385
+211468	Cedar Crest College	1.899894544762916
+215390	Pittsburgh Institute of Mortuary Science Inc	1.8984560703488935
+162061	Capitol College	1.8978783831012247
+388520	College of Biblical Studies-Houston	1.8959526445204324
+215309	University of Pittsburgh-Titusville	1.8949561687349448
+130253	Sacred Heart University	1.89461196945521
+441511	Apex School of Theology	1.8939999797035685
+177038	Cleveland University-Kansas City	1.892088425647349
+217493	Rhode Island School of Design	1.8908716105135857
+153834	Luther College	1.8885803589155543
+170301	Hope College	1.8885742732670887
+166850	Merrimack College	1.8878966159726276
+168591	Alma College	1.8856046627068803
+168254	Western New England University	1.881789274808414
+152600	Valparaiso University	1.8811158672809263
+197744	Yeshivath Zichron Moshe	1.875383141668592
+180984	Concordia University-Nebraska	1.873922947326098
+152822	AIB College of Business	1.869873879892344
+212452	Faith Theological Seminary	1.8682380827577405
+206622	Xavier University	1.8679834190054494
+233295	Randolph-Macon College	1.8673178011612253
+236328	University of Puget Sound	1.8658610599512486
+194189	Ohr Hameir Theological Seminary	1.8648832083837779
+173300	Concordia College at Moorhead	1.8629376745030495
+216694	Waynesburg University	1.8598086507739937
+153162	Cornell College	1.8589026914414697
+179955	William Jewell College	1.8578761941327449
+181020	Doane College-Crete	1.8578207270827207
+377555	University of Washington-Bothell Campus	1.856442144360886
+163578	Notre Dame of Maryland University	1.8557198235265235
+123961	University of Southern California	1.8546337722697233
+236595	Seattle University	1.854065671331821
+156745	Georgetown College	1.8518600650265176
+183211	Rivier University	1.8504373317155758
+206349	Ursuline College	1.8454547799817966
+187912	New Mexico Military Institute	1.8440366032623512
+200873	Allegheny Wesleyan College	1.8427652131144059
+231581	Bridgewater College	1.840059514423482
+100937	Birmingham Southern College	1.8398934575000427
+210739	DeSales University	1.8393301109927944
+213367	La Salle University	1.838497977186374
+154749	Bethel College-North Newton	1.837473472387038
+213668	Lycoming College	1.8360981305948818
+200156	University of Jamestown	1.8354250661825904
+403487	Wabash Valley College	1.8353543335587723
+228246	Southern Methodist University	1.8330922293649887
+237136	Appalachian Bible College	1.8330081268220204
+217536	Salve Regina University	1.832777344769401
+202912	Good Samaritan College of Nursing and Health Science	1.8326071567369844
+195164	St Bonaventure University	1.8320688848761915
+154235	Saint Ambrose University	1.8272319266875627
+102669	Alaska Pacific University	1.8253369874850913
+214643	Pennsylvania State University-Penn State Wilkes-Barre	1.8246245146051978
+451370	Yeshivas Be'er Yitzchok	1.8240230218893534
+153320	Faith Baptist Bible College and Theological Seminary	1.823699871689497
+153126	Clarke University	1.8221233954022258
+186618	College of Saint Elizabeth	1.8219003925973958
+148584	University of St Francis	1.8216022207305251
+147396	Morrison Institute of Technology	1.8210027392566241
+457697	City Vision College	1.818844817937557
+214670	Pennsylvania State University-Penn State Lehigh Valley	1.8185548860074217
+212601	Gannon University	1.8166545636455915
+191931	Iona College	1.8116463040165227
+201821	The Christ College of Nursing and Health Sciences	1.8086686465062056
+204200	College of Mount St Joseph	1.8062238360778993
+127918	Regis University	1.804241609323067
+194569	Davis College	1.8037696858006156
+237066	Whitworth University	1.8013664906944908
+195173	St Francis College	1.8012747155607614
+176789	Calvary Bible College and Theological Seminary	1.799037058446566
+165936	Gordon College	1.7957087639378586
+154688	Baker University	1.7956151875895396
+146481	Lake Forest College	1.794592343185942
+136206	Northwood University-Florida	1.7935749286359304
+142294	The College of Idaho	1.792627386064476
+239743	Silver Lake College of the Holy Family	1.7913215083436278
+195720	Saint John Fisher College	1.7905996942175717
+166054	Hellenic College-Holy Cross Greek Orthodox School of Theology	1.7900391605318782
+193399	College of Mount Saint Vincent	1.789662146822588
+117946	Loyola Marymount University	1.7891597169522444
+194116	New York School of Interior Design	1.7890995357735844
+191968	Ithaca College	1.7873652763944234
+217882	Clemson University	1.7846052181768004
+110413	California Lutheran University	1.7844596002642137
+199120	University of North Carolina at Chapel Hill	1.783722765565442
+103787	American Indian College of the Assemblies of God Inc	1.781329771723734
+459727	Touro University Worldwide	1.7803441567948357
+213996	Messiah College	1.780205506859655
+102234	Spring Hill College	1.7797806735892987
+221254	O'More College of Design	1.7786870206261411
+158477	Centenary College of Louisiana	1.7786525320300623
+156295	Berea College	1.7782172952049984
+107080	Hendrix College	1.7778028094688318
+233921	Virginia Polytechnic Institute and State University	1.77729169203265
+178891	Ranken Technical College	1.7770081496931645
+417752	Messenger College	1.7700523623007498
+169327	Cleary University	1.7666401362642057
+128498	Albertus Magnus College	1.765289017537287
+232706	Marymount University	1.763791285067598
+189705	Canisius College	1.7625143164992094
+441609	Yeshiva Shaarei Torah of Rockland	1.7622845388762634
+101648	Marion Military Institute	1.7614949845207775
+441070	Saginaw Chippewa Tribal College	1.7544531908100058
+142090	Boise Bible College	1.753531750424757
+366003	South Florida Bible College and Theological Seminary	1.752420186384971
+127060	University of Denver	1.7504374130436267
+174914	University of St Thomas	1.75009066475557
+230038	Brigham Young University-Provo	1.7499395095739436
+155335	Newman University	1.7497977378186413
+193584	Nazareth College	1.7494571651233526
+236452	Saint Martin's University	1.748198003349369
+194958	Roberts Wesleyan College	1.7465694197840207
+231554	Bluefield College	1.7463861674256003
+138600	Agnes Scott College	1.7451247577142122
+430810	New Hampshire Institute of Art	1.7431886549018545
+168786	Aquinas College	1.7387553309035675
+217925	Columbia International University	1.733763681287566
+215691	Rosemont College	1.7317184371521124
+475608	Criswell College	1.7313403500118525
+191676	Houghton College	1.7312463115503989
+181127	Hastings College	1.726893001036506
+217998	Erskine College	1.7265163909800187
+179159	Saint Louis University	1.7253937092335632
+442523	Alaska Christian College	1.7247513563380465
+150604	Franklin College	1.7241247207365122
+196079	SUNY at Binghamton	1.72346289867259
+233718	Sweet Briar College	1.7231104237426593
+196167	SUNY College at Geneseo	1.7229320772722994
+203775	Malone University	1.722732831810644
+141981	University of Hawaii-West Oahu	1.7213515841561196
+129020	University of Connecticut	1.7206999637563989
+122612	University of San Francisco	1.7195186237931899
+190983	Elmira College	1.7182302305025638
+149505	Trinity Christian College	1.7181802754382018
+201195	Baldwin Wallace University	1.7160292750133401
+414878	Trine University-Regional/Non-Traditional Campuses	1.7138254778851345
+178411	Missouri University of Science and Technology	1.7131727257993856
+139393	Covenant College	1.710778088915807
+462354	John Paul the Great Catholic University	1.7107126060126505
+121309	Point Loma Nazarene University	1.710598301670613
+443340	Williamson Christian College	1.7099723540829965
+156286	Bellarmine University	1.7084868094639831
+162760	Hood College	1.7082970722318669
+144971	Eureka College	1.7075806056285388
+107512	Ouachita Baptist University	1.7073539191654907
+133809	Florida College	1.703260475509063
+140696	Oglethorpe University	1.7023872949100494
+428259	Ottawa University-Milwaukee	1.7018009349746348
+217059	York College Pennsylvania	1.7014060783684426
+367839	Colorado Heights University	1.6998863549295047
+227243	Northwood University-Texas	1.6986320605234047
+147341	Monmouth College	1.6980010764376259
+171492	Northwood University-Michigan	1.6965494421863638
+153977	Mercy College of Health Sciences	1.6938017718117555
+167792	Bard College at Simon's Rock	1.6929012994701995
+200192	Lake Region State College	1.690386006388224
+186584	Seton Hall University	1.686552297426496
+236230	Pacific Lutheran University	1.683345299736386
+163976	St John's College	1.6820361031430757
+434751	White Earth Tribal and Community College	1.6814574791912478
+201654	Cedarville University	1.6789599070482912
+196103	SUNY College of Environmental Science and Forestry	1.6756166028781572
+173665	Hamline University	1.6747340289037067
+207157	Hillsdale Free Will Baptist College	1.6746900373521456
+155618	Northwest Kansas Technical College	1.6737957046831293
+146612	Lewis University	1.6728134641583754
+226231	LeTourneau University	1.6727980606715427
+237969	West Virginia Wesleyan College	1.6721818690870835
+213400	Lancaster Bible College	1.6699798320756618
+123280	Shasta Bible College and Graduate School	1.6687414701648018
+230807	Westminster College	1.6683071449721694
+448284	Doane College-Lincoln Grand Island and Master	1.6666074734802312
+199458	Mid-Atlantic Christian University	1.6658878943521045
+155812	University of Saint Mary	1.663884159273976
+211431	Carlow University	1.6621478600406192
+206437	Walsh University	1.6620566974024684
+178615	Truman State University	1.661622946553256
+123554	Saint Mary's College of California	1.6576710083860284
+191241	Fordham University	1.6548812879890018
+190503	Culinary Institute of America	1.6542957883468865
+240338	Wisconsin Lutheran College	1.6483104859557183
+197601	Yeshiva Karlin Stolin	1.6464828572734482
+480967	College of the Muscogee Nation	1.644994365118755
+449931	Averett University-Non-Traditional Programs	1.64300387102997
+177542	Hannibal-LaGrange University	1.6416137744774448
+196413	Syracuse University	1.640333660091854
+154101	Northwestern College	1.6376097536402814
+203960	Mercy College of Ohio	1.63712776660705
+449764	Visible Music College	1.63666279791872
+224271	Dallas Institute of Funeral Service	1.633611898558232
+175430	Blue Mountain College	1.63322076099571
+106342	Lyon College	1.6314978309771155
+216931	Wilkes University	1.6308226973736153
+130989	Goldey-Beacom College	1.6294229764177712
+240444	University of Wisconsin-Madison	1.6293780261260207
+214625	Pennsylvania State University-Penn State New Kensington	1.628307116516182
+197647	Yeshiva Derech Chaim	1.6258448530305625
+174817	Saint Mary's University of Minnesota	1.6237867091540066
+165264	Laboure College	1.6234894224844285
+164173	Stevenson University	1.6221385319799482
+173160	Bethel University	1.6211212412563083
+193052	Mesivta Torah Vodaath Rabbinical Seminary	1.620535857394296
+209056	Lewis & Clark College	1.6200971341632455
+217518	Roger Williams University	1.6200632623613063
+114716	Foothill College	1.6195537231393196
+155520	MidAmerica Nazarene University	1.6188684184431668
+113698	Dominican University of California	1.6188422094526242
+220631	Lincoln Memorial University	1.618249404313736
+221014	Milligan College	1.6172540041915786
+233426	Roanoke College	1.6169060760657583
+232308	Hollins University	1.614629316941669
+186201	Ramapo College of New Jersey	1.6141711439228466
+111948	Chapman University	1.6140263553416607
+171128	Michigan Technological University	1.6112692221645817
+110422	California Polytechnic State University-San Luis Obispo	1.6098692521257936
+191126	Fashion Institute of Technology	1.6098114556771426
+117751	The Master's College and Seminary	1.608574346106737
+227863	University of St Thomas	1.6076824887477565
+177117	Cottey College	1.6072732694947693
+183910	Caldwell College	1.606985216392203
+178059	Maryville University of Saint Louis	1.6051989228290795
+155177	Hesston College	1.6050647859822704
+105367	Ottawa University-Phoenix	1.6049888838887882
+204909	Ohio Wesleyan University	1.604493578934262
+192749	Manhattanville College	1.6031599231430484
+120184	Notre Dame de Namur University	1.6026365949079635
+181093	Grace University	1.6004436970310423
+150534	University of Evansville	1.6002175884905554
+190248	Concordia College-New York	1.600058472606841
+240107	Viterbo University	1.597650271775334
+170000	Grace Bible College	1.597280676568134
+135726	University of Miami	1.5960822260153742
+110635	University of California-Berkeley	1.5953635111589017
+173328	Concordia University-Saint Paul	1.5937490280847553
+481058	Grace Mission University	1.5936797777090428
+215114	Cairn University-Langhorne	1.5900126472540885
+209922	Reed College	1.588938787243227
+230047	Brigham Young University-Hawaii	1.5877582785101223
+213011	Immaculata University	1.5872645045027458
+214759	Pennsylvania State University-Penn State Fayette- Eberly	1.5850716287828146
+173045	Augsburg College	1.5846337488593392
+154129	Northwest Iowa Community College	1.5839081479365673
+112446	Coleman University	1.5833820251501842
+160755	Tulane University of Louisiana	1.5832870768296792
+195304	Sarah Lawrence College	1.5831672750060737
+150941	Huntington University	1.5828709168885995
+206835	Oklahoma Wesleyan University	1.5788917489402314
+155900	Southwestern College	1.5777365147514777
+166601	Marian Court College	1.5762203247958195
+439613	Crossroads Bible College	1.5759393345451853
+235671	Bates Technical College	1.5751452452978416
+219790	Bryan College-Dayton	1.5748117770506533
+165662	Emerson College	1.574098451736351
+169080	Calvin College	1.5738961927662034
+216852	Widener University-Main Campus	1.5712280555808404
+201371	Bluffton University	1.570812150991808
+152336	University of Saint Francis-Fort Wayne	1.5687673014043693
+154712	Benedictine College	1.5683330038431558
+153250	Dordt College	1.56584405885085
+202763	The University of Findlay	1.565775876927807
+214829	Pennsylvania State University-Penn State York	1.5652665172197366
+228981	Texas Lutheran University	1.5650014830188321
+203845	Marietta College	1.564773700041668
+200341	Williston State College	1.564539001355929
+186371	Rutgers University-Camden	1.564219972180409
+227845	Saint Edward's University	1.5628410957159544
+207971	University of Tulsa	1.5622971259478478
+211556	Chatham University	1.5622464335901292
+187967	New Mexico Institute of Mining and Technology	1.5614543137553265
+183071	University of New Hampshire at Manchester	1.5609755708057103
+189088	Bard College	1.5576729847253084
+455257	Yeshiva of Machzikai Hadas	1.5560448801789504
+104586	Embry-Riddle Aeronautical University-Prescott	1.555134167973669
+147679	North Park University	1.5499142972320428
+209409	Northwest Christian University	1.5497169345036352
+231077	College of St Joseph	1.5494094362218143
+454582	Ottawa University-Online	1.5490768619057145
+186283	Rider University	1.5478084211014536
+442781	Tohono O'Odham Community College	1.5464362687860616
+238458	Carroll University	1.546162449306179
+159568	Louisiana College	1.5460579384419473
+444778	New Life Theological Seminary	1.5438010480392628
+208822	George Fox University	1.5421577120067818
+214795	Pennsylvania State University-Penn State Mont Alto	1.5414590754568538
+193900	New York University	1.5413698728934926
+185572	Monmouth University	1.5391972239423384
+190725	Daemen College	1.538725526105152
+199759	Southeastern Baptist Theological Seminary	1.5362168921953754
+100690	Amridge University	1.5358478868747438
+233301	Randolph College	1.5354129328605473
+191533	Hartwick College	1.5354107524774474
+147244	Millikin University	1.534569279543311
+134510	Hobe Sound Bible College	1.5318423181677006
+126562	University of Colorado Denver	1.5310017229920332
+154004	Morningside College	1.5294853295554556
+118693	Menlo College	1.528935264183922
+228723	Texas A & M University-College Station	1.5288975663578708
+206525	Wittenberg University	1.5284781371960134
+155593	North Central Kansas Technical College	1.5281034255340558
+150455	Earlham College	1.5275148674580559
+186399	Rutgers University-Newark	1.527181411538304
+163851	Salisbury University	1.5259509644322335
+160959	College of the Atlantic	1.525262912270742
+236896	Walla Walla University	1.5249723128532575
+239503	Northland International University	1.5244390174140017
+155496	Manhattan Christian College	1.5233710604873605
+459417	Compass College of Cinematic Arts	1.5227509241488728
+215099	Philadelphia University	1.522467700395908
+200572	Valley City State University	1.5218701350303472
+198950	Meredith College	1.5216222008360283
+102711	AVTEC-Alaska's Institute of Technology	1.5200921175299538
+120883	University of the Pacific	1.5192863314991645
+237118	Alderson Broaddus University	1.5188716728767973
+188641	Alfred University	1.518717770545852
+167260	Nichols College	1.5170159113054138
+169363	Concordia University-Ann Arbor	1.5163115807321708
+207403	Oklahoma Baptist University	1.5158849216471435
+229832	Western Texas College	1.5158632902619604
+184773	Georgian Court University	1.5155383789430739
+211149	Bidwell Training Center Inc	1.5154396270414552
+461759	Simmons College of Kentucky	1.5141829571298753
+183275	Thomas More College of Liberal Arts	1.5140653742850383
+110662	University of California-Los Angeles	1.5136018586787512
+173142	Bethany Lutheran College	1.5130730261457346
+220473	Johnson University	1.511346306578667
+205957	Franciscan University of Steubenville	1.5108148727297497
+201061	Art Academy of Cincinnati	1.5103854210576813
+132408	The Baptist College of Florida	1.507310460045908
+133872	Adventist University of Health Sciences	1.5073058970535118
+165884	Benjamin Franklin Institute of Technology	1.5049625230430006
+213358	La Roche College	1.5002633590709213
+214698	Pennsylvania State University-Penn State Beaver	1.4997840377887017
+446048	Ave Maria University	1.4997452157049749
+155830	Salina Area Technical College	1.4996225900688942
+232025	Emory & Henry College	1.499288540624577
+236577	Seattle Pacific University	1.4976736680599063
+170675	Lawrence Technological University	1.4968078899644413
+143288	Blackburn College	1.4953368926087782
+461795	North American University	1.4943460485140327
+403469	Frontier Community College	1.493963521809466
+216551	Valley Forge Military College	1.4938223364341268
+150677	Grace College and Theological Seminary	1.493172991170274
+145637	University of Illinois at Urbana-Champaign	1.4918951223738528
+126748	Colorado Northwestern Community College	1.491167688353058
+182458	Sierra Nevada College	1.4910385612861412
+236948	University of Washington-Seattle Campus	1.4896576000020896
+232609	Lynchburg College	1.488515202519857
+120865	Pacific Union College	1.4880696854418278
+190716	D'Youville College	1.4870486002213283
+148627	Saint Xavier University	1.4870474596084065
+196149	SUNY College at Cortland	1.4830390794420303
+195234	The College of Saint Rose	1.4812017464929417
+177144	Culver-Stockton College	1.480317697380156
+151786	Marian University	1.478249586882618
+139959	University of Georgia	1.477888783420182
+444398	Baptist University of the Americas	1.4776772175657016
+213826	Marywood University	1.476819357280701
+193070	Mesivtha Tifereth Jerusalem of America	1.4766513232202358
+221892	Trevecca Nazarene University	1.4764306028322605
+212054	Drexel University	1.4764118386248257
+151777	Manchester University	1.476234668872602
+220710	Maryville College	1.4759925142923858
+211352	Cabrini College	1.475797217141229
+156417	Clear Creek Baptist Bible College	1.4753681718321467
+153241	Divine Word College	1.4743030433274904
+168227	Wentworth Institute of Technology	1.473922529533599
+161457	University of New England	1.473683775737919
+203128	Hiram College	1.4736206394858027
+211981	Delaware Valley College	1.473344300170101
+180595	Rocky Mountain College	1.4732426666949179
+140447	Mercer University	1.4713051296995552
+147369	Moody Bible Institute	1.4711164009230606
+184694	Fairleigh Dickinson University-College at Florham	1.470542226363869
+148131	Quincy University	1.4703658335268603
+262129	New College of Florida	1.4692384170635322
+377564	University of Washington-Tacoma Campus	1.4687503901004388
+187976	University of New Mexico-Los Alamos Campus	1.4686118786474203
+199315	Piedmont International University	1.4685097772078173
+140988	Shorter University	1.4684920379395054
+366261	Commonwealth Institute of Funeral Service	1.4673733090460752
+145372	Greenville College	1.4667778575764447
+174491	University of Northwestern-St Paul	1.4659095410044758
+195128	The Sage Colleges	1.464344927625381
+231712	Christopher Newport University	1.4642027638901638
+217776	Southern Wesleyan University	1.463755516852277
+209612	Pacific University	1.462787838545839
+133553	Embry-Riddle Aeronautical University-Daytona Beach	1.4614232634823807
+184603	Fairleigh Dickinson University-Metropolitan Campus	1.4597555436673986
+213774	Manor College	1.4573626522680299
+238661	Edgewood College	1.4569210689541323
+145619	Benedictine University	1.456672874072688
+221971	Union University	1.4562185472995712
+204185	University of Mount Union	1.4558749954647379
+210571	Albright College	1.4550484375850414
+153366	Graceland University-Lamoni	1.4540845855641618
+152567	Trine University	1.4535809711259722
+143118	Aurora University	1.4528197221242303
+231174	University of Vermont	1.4524808797348292
+180151	Dawson Community College	1.451867854372154
+214768	Pennsylvania State University-Penn State Hazleton	1.451309872042253
+219383	University of Sioux Falls	1.4492268705305866
+193353	Mount Saint Mary College	1.4491332026088801
+182634	Colby-Sawyer College	1.4486566595733261
+112075	Concordia University-Irvine	1.4484247315323862
+153658	University of Iowa	1.4481015764141851
+237312	University of Charleston	1.4448240465816544
+403478	Lincoln Trail College	1.4424989761297429
+147013	McKendree University	1.441138721904404
+144351	Concordia University-Chicago	1.4410121854046338
+165671	Emmanuel College	1.4406801425742943
+115773	Humphreys College-Stockton and Modesto Campuses	1.4393551552932946
+110653	University of California-Irvine	1.4392423448032585
+220215	Freed-Hardeman University	1.4387004473601839
+106810	Crowley's Ridge College	1.4378691388744236
+211088	Arcadia University	1.4362677414272005
+213987	Mercyhurst University	1.4351145320584109
+110680	University of California-San Diego	1.4351112728046191
+212656	Geneva College	1.4348754448238565
+214786	Pennsylvania State University-Penn State Greater Allegheny	1.4347622944764342
+134130	University of Florida	1.4347121855017402
+212133	Eastern University	1.4336616469931966
+200305	North Dakota State College of Science	1.4319446478110325
+150145	Bethel College-Indiana	1.4315597524751753
+208488	Concordia University-Portland	1.431514591420829
+161518	Saint Joseph's College of Maine	1.4314139811444513
+160074	Our Lady of the Lake College	1.4311081794793603
+186432	Saint Peter's University	1.4304971362065855
+187046	Thomas Edison State College	1.429959738795399
+214731	Pennsylvania State University-Penn State Brandywine	1.4288272478716177
+177418	Fontbonne University	1.4282773242728368
+240329	University of Wisconsin-La Crosse	1.428054268196956
+213233	Johnson College	1.4263785057684626
+210331	Corban University	1.4242640265263076
+196176	State University of New York at New Paltz	1.4236251501552586
+204194	Mount Vernon Nazarene University	1.4212558394189396
+219347	South Dakota School of Mines and Technology	1.420718743049652
+176628	Avila University	1.4180838803394142
+183974	Centenary College	1.4144733229693762
+418533	Lancaster County Career and Technology Center	1.4138168839552765
+214652	Pennsylvania State University-Penn State Worthington Scranton	1.4137383162305965
+207458	Oklahoma City University	1.4136409615195076
+190512	CUNY Bernard M Baruch College	1.4109407711908675
+230995	Norwich University	1.4096966702890714
+201548	Capital University	1.4090488061770556
+199032	Montreat College	1.4086637908653643
+117140	University of La Verne	1.4082995487496823
+142461	Northwest Nazarene University	1.4078272584545666
+140818	Piedmont College	1.4078077330168328
+237181	Bethany College	1.4075560571153338
+192925	Medaille College	1.407175006680152
+204936	Otterbein University	1.4070382749192833
+181330	Midland University	1.406512734914135
+122728	William Jessup University	1.4063466260163826
+155715	Pratt Community College	1.406041648982832
+192712	Manhattan School of Music	1.4054247233889696
+199962	Wingate University	1.4041304640399193
+231095	Sterling College	1.4040956112204335
+236382	Renton Technical College	1.4035625237639406
+164614	Boston Baptist College	1.4024862767303277
+215947	Seton Hill University	1.402379041769557
+215266	University of Pittsburgh-Bradford	1.4022584446275397
+239080	Marian University	1.401759129154701
+204024	Miami University-Oxford	1.401308744722591
+381945	Los Angeles ORT College-Van Nuys Campus	1.4003983955612855
+245652	St John's College	1.399861629075514
+382911	Southwest Collegiate Institute for the Deaf	1.3997979653104768
+204264	Muskingum University	1.3981673238111425
+107877	Williams Baptist College	1.397970448342424
+118888	Mills College	1.3978004178583727
+201104	Ashland University	1.3965633742863413
+224226	Dallas Baptist University	1.3957993250167346
+228149	St Mary's University	1.3949492500105096
+152381	Saint Mary-of-the-Woods College	1.3938878842768843
+164076	Towson University	1.3933169427238357
+125763	Whittier College	1.3929734757150878
+191649	Hofstra University	1.3920757745692558
+168290	Wheelock College	1.391870790362926
+231165	Vermont Technical College	1.3910965483177915
+133085	Clearwater Christian College	1.3906251997985684
+176053	Mississippi College	1.3901073884877508
+204662	Ohio State University Agricultural Technical Institute	1.3896599304204935
+204699	Ohio State University-Marion Campus	1.3884420102743766
+150774	Holy Cross College	1.388253312272816
+174251	University of Minnesota-Morris	1.3859798198068212
+114813	Fresno Pacific University	1.3858093010858772
+194310	Pace University-New York	1.3854542393258558
+221731	Tennessee Wesleyan College	1.3852058574716581
+155070	Barclay College	1.3850127534807766
+222877	Arlington Baptist College	1.3849179799890292
+220206	Welch College	1.3840348993888718
+185828	New Jersey Institute of Technology	1.3837203685826676
+217961	Converse College	1.3834569669260515
+133711	Flagler College-St Augustine	1.3825897970694045
+461315	Keweenaw Bay Ojibwa Community College	1.382115498690599
+219578	Aquinas College	1.3820458364516839
+168740	Andrews University	1.3809185283293515
+199607	Salem College	1.3805339541097477
+188429	Adelphi University	1.3790410318660316
+139199	Brenau University	1.3782261669226148
+200059	Dickinson State University	1.3761886600296285
+199184	University of North Carolina School of the Arts	1.376084309778763
+461032	Carolina College of Biblical Studies	1.3745288401548947
+195003	Rochester Institute of Technology	1.374126599307555
+214689	Pennsylvania State University-Penn State Altoona	1.3728690644008972
+109651	Art Center College of Design	1.3722268462818998
+197230	Wells College	1.3717517794738117
+214704	Pennsylvania State University-Penn State Berks	1.3711442761451524
+393180	Chicago ORT Technical Institute	1.3687296099943114
+183044	University of New Hampshire-Main Campus	1.3678808004166216
+214591	Pennsylvania State University-Penn State Erie-Behrend College	1.3653337164775252
+215655	Robert Morris University	1.3642041193598293
+206613	Wright State University-Lake Campus	1.3628803087632555
+171881	Kuyper College	1.3620295882608855
+117104	Life Pacific College	1.3618789660083972
+137962	Trinity College of Florida	1.3610808808206782
+232566	Longwood University	1.3604995522370016
+224244	Dallas Christian College	1.3600820886912484
+161563	Thomas College	1.3571565945135975
+174525	Oak Hills Christian College	1.3563356345578441
+123952	Southern California Institute of Architecture	1.3560391507139784
+148849	Shimer College	1.3559251531745822
+154934	Colby Community College	1.3554349643872197
+111638	Casa Loma College-Van Nuys	1.3554167684645646
+155973	Tabor College	1.354611104823807
+192624	Machzikei Hadath Rabbinical College	1.3533453995419722
+199412	Queens University of Charlotte	1.3531319024718194
+196185	SUNY Oneonta	1.3528737800079462
+220516	King University	1.3505655997724828
+152363	Saint Josephs College	1.3500550886616467
+233541	Shenandoah University	1.3498794911466976
+119173	Mount St Mary's College	1.3489216674414541
+151351	Indiana University-Bloomington	1.3486447347390944
+239390	Mount Mary University	1.3486353626101202
+174075	University of Minnesota-Crookston	1.3485003045342685
+164632	Bay Path College	1.3484535032282774
+137546	Stetson University	1.3462801817533647
+153375	Grand View University	1.3456620496677427
+215275	University of Pittsburgh-Greensburg	1.3441415260770992
+177977	Linn State Technical College	1.343823946406885
+219091	Dakota Wesleyan University	1.3431678133355127
+180081	Highlands College of Montana Tech	1.3421854183543191
+117168	Laguna College of Art and Design	1.3419914385930765
+208035	Western Oklahoma State College	1.3418428279800634
+175005	St Catherine University	1.3414204822732487
+155627	Ottawa University-Ottawa	1.3412361487684108
+232186	George Mason University	1.3412083176892688
+154721	Bethany College	1.3411640200401032
+214810	Pennsylvania State University-Penn State Schuylkill	1.3408958453542141
+432524	Delaware College of Art and Design	1.3397065150530736
+139144	Berry College	1.3391272384647759
+163268	University of Maryland-Baltimore County	1.3374193257109086
+109785	Azusa Pacific University	1.3373487639977741
+142522	Brigham Young University-Idaho	1.3355881855044631
+209533	Oregon College of Art and Craft	1.335038196957366
+385619	Everglades University	1.3344004797093658
+232265	Hampton University	1.3330479923028096
+203085	Heidelberg University	1.3327172065335817
+221661	Southern Adventist University	1.3314321424163673
+206862	Southern Nazarene University	1.3312694262173592
+178697	College of the Ozarks	1.3303682941260957
+215053	Pennsylvania College of Art and Design	1.328843600739455
+216296	Thaddeus Stevens College of Technology	1.3287531228220282
+215284	University of Pittsburgh-Johnstown	1.3270648596931387
+236133	Northwest University	1.325909631121223
+217606	Northpoint Bible College	1.3253227717657523
+222178	Abilene Christian University	1.3238417490301326
+141060	Spelman College	1.323183129703588
+454184	The Kingâ??s College	1.3224632443522861
+225247	Hardin-Simmons University	1.322441926673525
+240268	University of Wisconsin-Eau Claire	1.3223819099841374
+159391	Louisiana State University and Agricultural & Mechanical College	1.3218939066082467
+149514	Trinity International University-Illinois	1.321478927691656
+159656	Loyola University New Orleans	1.3214344415667798
+176910	Central Christian College of the Bible	1.3208239745490307
+236610	Shoreline Community College	1.3197895584642116
+110644	University of California-Davis	1.3183815035095119
+178244	Missouri Baptist University	1.3173937041914552
+199193	North Carolina State University at Raleigh	1.3171756586097045
+196088	University at Buffalo	1.3170038975745617
+155511	McPherson College	1.315971825015717
+156356	Brescia University	1.3150550912511332
+214634	Pennsylvania State University-Penn State Shenango	1.3148143144432083
+168263	Westfield State University	1.3140256155941963
+125897	Woodbury University	1.3139386216444648
+156213	Asbury University	1.3136414699553758
+134945	Jacksonville University	1.3128065140806946
+200314	Dakota College at Bottineau	1.3124999805243591
+234696	Bellingham Technical College	1.3122543798193622
+133492	Eckerd College	1.311095135983977
+172334	Spring Arbor University	1.309499071663429
+219806	Carson-Newman University	1.3080652146783143
+239512	Northland College	1.3051268547667276
+154095	University of Northern Iowa	1.304443129620145
+210775	Alvernia University	1.3023565489966957
+223232	Baylor University	1.3021686390678238
+129941	University of New Haven	1.3015252397978654
+186380	Rutgers University-New Brunswick	1.300103960075386
+190761	Dominican College of Blauvelt	1.2992066433174687
+192448	LIU Post	1.2982819310395122
+238430	Cardinal Stritch University	1.2975573399683948
+152992	Briar Cliff University	1.2974371229269193
+219189	Mitchell Technical Institute	1.2953168363969625
+198561	Gardner-Webb University	1.2937332269570894
+198695	High Point University	1.2922158265493242
+243780	Purdue University-Main Campus	1.2914535302353038
+146339	Judson University	1.2908478667577787
+171100	Michigan State University	1.289100965790731
+162210	Washington Adventist University	1.2888264680268482
+451671	University of South Florida-Sarasota-Manatee	1.2880357103758437
+192785	Maria College of Albany	1.2877470428631013
+231420	Averett University	1.287439173286968
+161165	Husson University	1.2865932096165116
+115728	Holy Names University	1.2849504796693167
+178679	Ozark Christian College	1.2838049992802631
+179964	William Woods University	1.2827083167511506
+146719	Loyola University Chicago	1.282589295496694
+123651	Vanguard University of Southern California	1.281846743750501
+139630	Emmanuel College	1.2814898036133922
+238980	Lakeland College	1.2799426888170753
+100858	Auburn University	1.278605391571634
+191621	Hilbert College	1.278562354428236
+136950	Rollins College	1.2782034713633572
+179894	Webster University	1.2777474809201048
+240727	University of Wyoming	1.2775753810544959
+182795	Franklin Pierce University	1.276463949563568
+202046	Cleveland Institute of Art	1.2755503843412443
+110705	University of California-Santa Barbara	1.2751256944985319
+153603	Iowa State University	1.274336339495193
+199306	Pfeiffer University	1.2732067137987955
+228778	The University of Texas at Austin	1.271856980422132
+214713	Pennsylvania State University-Penn State Harrisburg	1.2710691537806593
+106713	Central Baptist College	1.2700980650272655
+207324	Oklahoma Christian University	1.2699149817885378
+441487	Texas County Technical College	1.2686932765599488
+198835	Lenoir-Rhyne University	1.2685662747806072
+150172	Calumet College of Saint Joseph	1.2680172228005833
+157377	Midway College	1.2675125239939196
+225548	Howard Payne University	1.267170859148485
+192192	Keuka College	1.2670168794741585
+197911	Barton College	1.2663765385661394
+219976	Lipscomb University	1.2649401570847456
+197045	Utica College	1.264813382266221
+196112	SUNY Institute of Technology at Utica-Rome	1.2646224700184103
+179256	Saint Louis Christian College	1.2644963010342578
+138275	Warner University	1.2643525587447249
+202514	Defiance College	1.2639090264547748
+155414	Kansas Wesleyan University	1.2638145814628972
+181604	College of Saint Mary	1.2636645335947476
+174127	Minneapolis College of Art and Design	1.2618126588764094
+168528	Adrian College	1.2616972379357656
+107558	University of the Ozarks	1.25987739534592
+219295	Presentation College	1.2596739162167285
+176479	William Carey University	1.2595176907638286
+199698	St Andrews University	1.2589451826389924
+107840	Shorter College	1.2585424846291275
+202903	Gods Bible School and College	1.258035125943591
+157757	Spalding University	1.2579674673832009
+166629	University of Massachusetts-Amherst	1.257869927644012
+169716	University of Detroit Mercy	1.2576641104605966
+139995	Gupton Jones College of Funeral Service	1.25758030293669
+209506	Oregon Institute of Technology	1.2572970911332062
+165529	Curry College	1.2562352972271023
+211583	Chestnut Hill College	1.2554330843595167
+101435	Huntingdon College	1.2548645683552961
+174862	Crown College	1.2542504257122435
+186876	The Richard Stockton College of New Jersey	1.2539507926764553
+140234	LaGrange College	1.2532158339305774
+211024	Baptist Bible College & Seminary of Pennsylvania	1.2531156232793257
+188003	New Mexico State University-Carlsbad	1.2529511351286393
+137847	The University of Tampa	1.2527910559932067
+155487	Manhattan Area Technical College	1.2527178668846861
+107044	Harding University	1.2520806494565944
+105899	Arizona Christian University	1.2485186979640819
+233277	Radford University	1.2470275259137604
+153001	Buena Vista University	1.246997823946151
+166391	Lasell College	1.24616925364325
+219709	Belmont University	1.242548208211954
+134079	Florida Southern College	1.242381196352107
+451404	Talmudical Seminary of Bobov	1.2416109731266551
+126076	Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary	1.2410169751352322
+200280	University of North Dakota	1.2404640643913591
+238616	Concordia University-Wisconsin	1.239185082744852
+196060	SUNY at Albany	1.238944625453569
+174604	Rainy River Community College	1.2385284429393915
+188340	Vaughn College of Aeronautics and Technology	1.2383820200487734
+225414	University of Houston-Clear Lake	1.2377379221242104
+168005	Suffolk University	1.237063432484092
+238476	Carthage College	1.236926164407002
+146825	MacMurray College	1.2362700310536698
+237358	Davis & Elkins College	1.2356300187576814
+189848	Cazenovia College	1.2351046207450014
+198747	Laurel University	1.2340316522419996
+200226	Mayville State University	1.2337811572909536
+237640	Ohio Valley University	1.2334200513547373
+214801	Pennsylvania State University-Penn State Abington	1.2331631676401376
+216010	Shippensburg University of Pennsylvania	1.2316318177720758
+180373	Miles Community College	1.231546150173004
+218690	University of South Carolina-Sumter	1.2308142715431185
+239071	Maranatha Baptist University	1.2296424793409932
+174066	University of Minnesota-Twin Cities	1.2290702652738097
+168430	Worcester State University	1.229069935291619
+229018	The University of Texas of the Permian Basin	1.2289497091755184
+196097	Stony Brook University	1.228891157883598
+150066	Anderson University	1.228092622936629
+199069	Mount Olive College	1.2261086097714533
+440794	Pillar College	1.2257590922456547
+176947	Central Methodist University-College of Liberal Arts and Sciences	1.225550308714857
+133881	Florida Institute of Technology	1.2254162871000354
+148405	Rockford University	1.2248083213585672
+157076	Kentucky Wesleyan College	1.224486788551579
+239910	Southwest Wisconsin Technical College	1.2239005039822257
+215293	University of Pittsburgh-Pittsburgh Campus	1.223244047878082
+147828	Olivet Nazarene University	1.2221727022827487
+165820	Fitchburg State University	1.221708783529541
+120403	Otis College of Art and Design	1.2205184532120987
+214148	Moore College of Art and Design	1.2194366051588441
+240514	Central Wyoming College	1.2186586131793422
+439190	Cascadia Community College	1.2179073446957942
+240666	Sheridan College	1.217514817525557
+217484	University of Rhode Island	1.217455172660167
+184782	Rowan University	1.2161035580478101
+214777	Pennsylvania State University-Main Campus	1.2160602300791854
+151263	University of Indianapolis	1.2157575083722543
+164492	Anna Maria College	1.2152033540464344
+145813	Illinois State University	1.2140324390094852
+165866	Framingham State University	1.2136227349844666
+239309	Milwaukee Institute of Art & Design	1.2136042293989677
+202170	Columbus College of Art and Design	1.2122206591999176
+190664	CUNY Queens College	1.2121575089989096
+230816	Bennington College	1.2120267289453024
+216764	West Chester University of Pennsylvania	1.2120009327431187
+122791	College of San Mateo	1.211474709508539
+219082	Dakota State University	1.210759916614353
+232672	Mary Baldwin College	1.2090255164070045
+456481	Polytechnic University of Puerto Rico-Miami	1.2081433685519298
+439288	Johnson & Wales University-Denver	1.2076863771875974
+228787	The University of Texas at Dallas	1.2069536045269396
+160065	Our Lady of Holy Cross College	1.2062818421979409
+169442	College for Creative Studies	1.2047721053802707
+178396	University of Missouri-Columbia	1.2038546414055535
+204468	Notre Dame College	1.2023646773339498
+137476	St Thomas University	1.2022668970958579
+218821	Spartanburg Methodist College	1.200618633619929
+181738	Union College	1.1994048064605733
+167598	Regis College	1.199172792514709
+475477	City College-Hollywood	1.1991579742099923
+170967	Rochester College	1.1988258036463495
+200332	North Dakota State University-Main Campus	1.1971930101661847
+155186	Highland Community College	1.1964397929270734
+146667	Lincoln Christian University	1.1961575774618258
+230940	Marlboro College	1.196148992837849
+212115	East Stroudsburg University of Pennsylvania	1.1959019206324164
+224545	Texas A & M University-Texarkana	1.1952770692927095
+139861	Georgia College and State University	1.1947765666127885
+225201	Hallmark College	1.1936753253436703
+161873	University of Baltimore	1.1933378835809256
+203580	Lake Erie College	1.1917492206182914
+164447	American International College	1.1915549927423565
+161572	Unity College	1.1886779652832153
+205124	Rabbinical College Telshe	1.188555102705766
+129215	Eastern Connecticut State University	1.1881099450092154
+129525	University of Hartford	1.1880508497909537
+226383	Lubbock Christian University	1.1879255375807254
+200022	Bismarck State College	1.187524928689663
+160904	Xavier University of Louisiana	1.1859493368813558
+175078	Southwest Minnesota State University	1.1855631419496586
+137953	Trinity Baptist College	1.185506497044988
+119605	National University	1.1849375192070157
+151801	Indiana Wesleyan University	1.1843254736858282
+405872	Carroll Community College	1.1824120618518346
+181464	University of Nebraska-Lincoln	1.1822861770024846
+225399	Houston Baptist University	1.182045544327427
+154590	William Penn University	1.1817653951743583
+230852	Champlain College	1.181711179815825
+144740	DePaul University	1.1802857116476264
+234173	Virginia Wesleyan College	1.180239582154052
+145707	Olney Central College	1.1801786846622457
+174206	Crossroads College	1.180026286734119
+240505	Casper College	1.1796913864516338
+166674	Massachusetts College of Art and Design	1.1790843819486754
+170806	Madonna University	1.1786236024459975
+160913	South Central Louisiana Technical College-Young Memorial Campus	1.178408534678684
+214272	Neumann University	1.1783149303135216
+174233	University of Minnesota-Duluth	1.1779741961322323
+237011	Western Washington University	1.1765614645529419
+210304	Warner Pacific College	1.1765061302399822
+448309	Shorter University-College of Adult & Professional Programs	1.1745705824203578
+117627	La Sierra University	1.1741503017664305
+126614	University of Colorado Boulder	1.1719554618572987
+195809	St John's University-New York	1.1710449798461962
+166984	School of the Museum of Fine Arts-Boston	1.1708067505223225
+441760	Lamar Institute of Technology	1.1701757297790145
+235103	Edmonds Community College	1.1691702898888237
+217013	Wilson College	1.1690409445990233
+231651	Regent University	1.1688409219233626
+233897	The University of Virginia's College at Wise	1.1687334861879564
+230418	Latter-day Saints Business College	1.1658503787031615
+225876	Jacksonville College-Main Campus	1.1656690422488762
+217907	Coker College	1.1647322760412528
+186645	Raritan Valley Community College	1.1632631717742947
+204486	University of Northwestern Ohio	1.1626965840330694
+155858	Seward County Community College and Area Technical School	1.1621088698256061
+225502	University of Houston-Victoria	1.1605161894400378
+204617	Ohio Dominican University	1.160121804751777
+188021	New Mexico State University-Grants	1.15987755727122
+194091	New York Institute of Technology	1.1588737507299838
+414911	Pennsylvania Highlands Community College	1.156928264851589
+166911	Montserrat College of Art	1.1562905517280553
+184612	Felician College	1.1561937828537725
+171137	University of Michigan-Dearborn	1.1543621645110078
+211158	Bloomsburg University of Pennsylvania	1.1542896831777854
+204680	Ohio State University-Mansfield Campus	1.1542670275232605
+383996	Eastern New Mexico University-Ruidoso Campus	1.1540180081210882
+204671	Ohio State University-Lima Campus	1.1534267206597084
+440402	Arkansas State University-Newport	1.153287865368713
+155104	Garden City Community College	1.1514975154248495
+183062	Keene State College	1.1499366143878145
+196042	Farmingdale State College	1.1497154842520723
+228042	Schreiner University	1.1494083380747087
+188225	University of New Mexico-Taos Campus	1.1479561112024426
+135939	Remington College-Tampa Campus	1.1474667771065048
+198598	Greensboro College	1.1468067698186315
+218706	University of South Carolina-Union	1.1430542503679295
+178721	Park University	1.1415097797132234
+159647	Louisiana Tech University	1.140726125444202
+216038	Slippery Rock University of Pennsylvania	1.1407172121114173
+219198	Mount Marty College	1.140431686941892
+194578	Pratt Institute-Main	1.1391604915556215
+438708	Eastern West Virginia Community and Technical College	1.137290614340233
+240189	University of Wisconsin-Whitewater	1.1365584629287693
+206507	Wilmington College	1.1360035931993693
+218441	North Greenville University	1.1357917376839417
+155317	University of Kansas	1.1346276459806373
+207500	University of Oklahoma-Norman Campus	1.1307944518568864
+196246	SUNY College at Plattsburgh	1.1307815174400373
+196158	SUNY at Fredonia	1.1304495528457363
+214041	Millersville University of Pennsylvania	1.1301117360003758
+154907	Cloud County Community College	1.1287613890355261
+201432	Bowling Green State University-Firelands	1.127606308739053
+214166	Mount Aloysius College	1.1259351505990294
+201858	Cincinnati Christian University	1.1256061360176666
+224891	Frank Phillips College	1.1251445606272261
+235343	Green River Community College	1.124382263215945
+155937	Sterling College	1.1241531772039952
+141796	Kapiolani Community College	1.1228502750136353
+110097	Biola University	1.12262184938348
+204592	Ohio College of Massotherapy Inc	1.1224850144580651
+172264	Siena Heights University	1.1223503638769667
+122409	San Diego State University	1.1197205091763256
+141802	Kauai Community College	1.1196089891857361
+200253	Minot State University	1.1185704181243676
+240471	University of Wisconsin-River Falls	1.1181327141615174
+219259	Northern State University	1.1178259934580494
+134097	Florida State University	1.1167074901721727
+204796	Ohio State University-Main Campus	1.1161236098316996
+171599	Olivet College	1.1151260034604553
+204802	Ohio University-Eastern Campus	1.115054892344616
+123572	Sonoma State University	1.1141476403439812
+240125	Waukesha County Technical College	1.11387036469122
+175272	Winona State University	1.1138076087727318
+136330	Palm Beach Atlantic University	1.1133635580038383
+231086	Southern Vermont College	1.1131559714972035
+183080	Plymouth State University	1.1115281527361105
+430795	Carver Career Center	1.1096940043388175
+101693	University of Mobile	1.1088629669149175
+233338	Richard Bland College of the College of William and Mary	1.1084640896239304
+155450	Labette Community College	1.107770990299946
+110918	California Christian College	1.1073645837193724
+131520	Howard University	1.1065853362422131
+217819	College of Charleston	1.1064277886160774
+219143	Lake Area Technical Institute	1.1055578245421371
+228468	Southwestern Adventist University	1.1043026603644526
+226587	McMurry University	1.1036567214016164
+240693	Western Wyoming Community College	1.1028241211264027
+184180	County College of Morris	1.1027788410317845
+131876	Trinity Washington University	1.102163910366722
+220181	Fisk University	1.1021413366951407
+214971	Pennsylvania Academy of the Fine Arts	1.1020476016718208
+162584	Frostburg State University	1.1005626321444442
+418126	New York College of Health Professions	1.1001604125013282
+234827	Central Washington University	1.099868265527609
+444413	Beis Medrash Heichal Dovid	1.0982249258475913
+226152	Texas A & M International University	1.0978034307735143
+207069	Redlands Community College	1.0949661077475
+179326	Southwest Baptist University	1.0942723232978957
+181215	University of Nebraska at Kearney	1.0929663450891693
+147129	Methodist College	1.092933059163909
+175157	Vermilion Community College	1.0927873595259836
+199218	University of North Carolina Wilmington	1.092210722921175
+141574	University of Hawaii at Manoa	1.0919518220601616
+156365	Campbellsville University	1.0919268228712735
+185590	Montclair State University	1.0906120050078747
+154697	Barton County Community College	1.090534371269152
+240462	University of Wisconsin-Platteville	1.0898540450184704
+179548	Stephens College	1.0896236999583713
+106397	University of Arkansas	1.0888414663068922
+217040	Yeshivath Beth Moshe	1.0880420420141372
+245625	Warren County Community College	1.0880279947578761
+399212	Santiago Canyon College	1.08784124748152
+226471	University of Mary Hardin-Baylor	1.0877808288135418
+230764	University of Utah	1.0872878349218107
+120537	Hope International University	1.0871512310791445
+200846	University of Akron Wayne College	1.0862742616439895
+173993	Mesabi Range Community and Technical College	1.0853028473726565
+147800	Oakton Community College	1.0850692685740726
+181853	York College	1.084246849839193
+209287	Multnomah University	1.0835891349809106
+110495	California State University-Stanislaus	1.0832520963511914
+198136	Campbell University	1.083154755607025
+154925	Coffeyville Community College	1.0830287567407433
+240417	University of Wisconsin-Stout	1.0829967091314048
+199111	University of North Carolina at Asheville	1.082816464252624
+222567	Alvin Community College	1.0819540103940424
+174437	North Central University	1.081489373406982
+451705	College America-Cheyenne	1.080888486155853
+110361	California Baptist University	1.0803686262022272
+218663	University of South Carolina-Columbia	1.0803479155732028
+155566	Neosho County Community College	1.0803116755309432
+196121	SUNY College at Brockport	1.0799553407781186
+128577	Asnuntuck Community College	1.0776668661448898
+240596	Eastern Wyoming College	1.075959281448847
+229780	Wayland Baptist University	1.0757354389318907
+148654	University of Illinois at Springfield	1.075221160118652
+236939	Washington State University	1.0741039871374476
+141644	Hawaii Pacific University	1.0738021027457822
+165024	Bridgewater State University	1.073635510130851
+180814	Bellevue University	1.0724729828849293
+449506	SABER College	1.0723348561852206
+141486	Chaminade University of Honolulu	1.0720816762089582
+238193	Alverno College	1.0715069696532882
+166018	Hampshire College	1.0711391878591858
+214582	Pennsylvania Institute of Technology	1.0703270478029447
+172918	Alexandria Technical & Community College	1.069804115417752
+234951	Clover Park Technical College	1.0692767439642448
+436304	River Parishes Community College	1.069200665104179
+104577	Eastern Arizona College	1.0689832813699875
+138761	Andrew College	1.0687992130518318
+158352	Capital Area Technical College	1.0686732297740487
+167455	Pine Manor College	1.0685323260251018
+173115	Northwest Technical College	1.06790621721265
+238032	West Virginia University	1.067587422096763
+213303	Keystone College	1.0674641132058291
+155089	Friends University	1.0671769289629767
+445708	Johnson & Wales University-Charlotte	1.067151181854191
+154998	Dodge City Community College	1.0654301986297103
+167288	Massachusetts College of Liberal Arts	1.0652302171133639
+214883	Peirce College	1.0648678902514093
+215682	Rosedale Technical Institute	1.064595050075756
+219471	University of South Dakota	1.0641261464173397
+477950	Stevens-Henager College-St George	1.0640926578281382
+219949	Cumberland University	1.062614100467139
+456490	Polytechnic University of Puerto Rico-Orlando	1.0621014868532757
+123457	Simpson University	1.0616002749934574
+126818	Colorado State University-Fort Collins	1.0601666075444875
+166513	University of Massachusetts-Lowell	1.0599894112330999
+231873	Dabney S Lancaster Community College	1.0594180291916313
+162557	Frederick Community College	1.0592137586791455
+412173	Academy for Nursing and Health Occupations	1.0588583710669917
+110370	California College of the Arts	1.058473231560295
+220613	Lee University	1.0569446103115725
+145336	Governors State University	1.0569301578528902
+110671	University of California-Riverside	1.0566738834419231
+181491	Northeast Community College	1.0562656708743623
+461528	Grace College of Divinity	1.0552993850149546
+127732	Northeastern Junior College	1.0545632367094195
+198215	Catawba College	1.0533525255526452
+218414	Newberry College	1.0528314139727117
+224527	East Texas Baptist University	1.0523934322241129
+178624	Northwest Missouri State University	1.0505287159002632
+181312	Mid-Plains Community College	1.0504700654919221
+219356	South Dakota State University	1.0498455977637515
+240480	University of Wisconsin-Stevens Point	1.0485193466521388
+164933	The Boston Conservatory	1.0482789292221661
+217934	Columbia College	1.0478006611012267
+224961	Galveston College	1.047201529037274
+190770	Dowling College	1.0442935642487143
+176664	Baptist Bible College	1.0440672610974429
+105589	Prescott College	1.0431265112511816
+197869	Appalachian State University	1.0422201385889442
+235149	Everett Community College	1.0418023218408148
+196699	Ulster County Community College	1.0413743791652585
+141237	Truett-McConnell College	1.0402510779839398
+230621	Stevens-Henager College-Ogden	1.040231609976956
+132879	Johnson University Florida	1.0385083105269208
+163295	Maryland Institute College of Art	1.0379844390187414
+197984	Belmont Abbey College	1.0377146093595466
+480189	Mercyhurst University-North East Campus	1.0376586892393913
+153278	University of Dubuque	1.0376258995872099
+446604	Uta Mesivta of Kiryas Joel	1.0371225129325954
+209551	University of Oregon	1.0370066970493037
+123509	Skyline College	1.0367432589181729
+240365	University of Wisconsin-Oshkosh	1.0361186032891154
+175227	Dunwoody College of Technology	1.035953723130139
+474906	CollegeAmerica-Stevens Henager College	1.03497077324786
+128771	Central Connecticut State University	1.0347521639331132
+190169	Columbia-Greene Community College	1.0346950860321527
+101541	Judson College	1.0346649812597326
+110714	University of California-Santa Cruz	1.0342215785200566
+218672	University of South Carolina-Lancaster	1.0338104218865094
+204866	Ohio University-Zanesville Campus	1.0326284245600843
+420723	Tillamook Bay Community College	1.0325975994916052
+119067	Monterey Peninsula College	1.030091829324764
+180416	Montana Tech of the University of Montana	1.0299951672853882
+155399	Kansas State University	1.0296654951150626
+130776	Western Connecticut State University	1.0291006394837046
+227304	Odessa College	1.0290507546213508
+211079	Community College of Beaver County	1.0288413290130232
+194161	Nyack College	1.0288119127823285
+180948	Chadron State College	1.0284878098079924
+119137	Moorpark College	1.0284433711055043
+447953	SUM Bible College and Theological Seminary	1.0280380421959028
+173920	Minnesota State University-Mankato	1.0279001240726393
+154855	Central Christian College of Kansas	1.0272083366183962
+240277	University of Wisconsin-Green Bay	1.0269411873342962
+235431	Highline Community College	1.0264227561922694
+239008	Lakeshore Technical College	1.025202827380728
+132471	Barry University	1.0241913401010194
+178208	Midwestern Baptist Theological Seminary	1.0239415581343483
+170037	Cornerstone University	1.0238317078989039
+138293	Webber International University	1.02350962756179
+229179	Texas Woman's University	1.0229812575345656
+154493	Upper Iowa University	1.0219168551726314
+190549	CUNY Brooklyn College	1.0212657383735149
+156189	Alice Lloyd College	1.0210573396924674
+239372	Moraine Park Technical College	1.020949035618162
+113333	De Anza College	1.020138712100255
+240657	Northwest College	1.0200259481574647
+127617	Morgan Community College	1.0194047486757944
+413626	Leech Lake Tribal College	1.0190382475677822
+204705	Ohio State University-Newark Campus	1.0173818715625027
+165574	Dean College	1.0162002672189476
+144892	Eastern Illinois University	1.015105035214618
+156541	University of the Cumberlands	1.0134339167869952
+194675	Rabbinical College of Ch'san Sofer New York	1.0131614209837712
+230834	Castleton State College	1.011028657204274
+237792	Shepherd University	1.0106375285944356
+217633	Anderson University	1.0102776158619369
+234137	Virginia University of Lynchburg	1.010205553390337
+215442	Point Park University	1.0089010022138551
+229115	Texas Tech University	1.0087658893055949
+207388	Oklahoma State University-Main Campus	1.0081542894752105
+187903	New Mexico Junior College	1.0074284401486848
+130040	Northwestern Connecticut Community College	1.0063430650082492
+185509	Mercer County Community College	1.0049327273011972
+172440	Finlandia University	1.0046680962319015
+154396	Southwestern Community College	1.0036670987298364
+150048	Ancilla College	1.0030569895961576
+364025	Chandler-Gilbert Community College	1.0024335289083819
+162706	Harford Community College	1.0024294873548145
+181783	Wayne State College	1.0021027205520738
+141361	Young Harris College	1.0018655259998934
+198066	Brevard College	1.0018080203156927
+128391	Western State Colorado University	0.9994332095056971
+226833	Midwestern State University	0.9993315233344021
+213349	Kutztown University of Pennsylvania	0.9990052986597561
+229160	Texas Wesleyan University	0.9987817652059976
+225627	University of the Incarnate Word	0.9983074673996958
+141680	Honolulu Community College	0.9982710670142064
+420556	Columbia Gorge Community College	0.9970166312470752
+120290	Ohlone College	0.9966767203805244
+132657	Lynn University	0.9929720111446452
+207689	Saint Gregory's University	0.9921172046723896
+224004	Concordia University-Texas	0.9917882172839672
+147536	National Louis University	0.99101139138803
+206330	Urbana University	0.9909817845750922
+221759	The University of Tennessee-Knoxville	0.9903747011429193
+177339	Evangel University	0.9891010758683261
+214528	Orleans Technical Institute	0.9890233615535577
+408394	Texas State Technical College-Marshall	0.988279317488131
+110583	California State University-Long Beach	0.9872789296655392
+153861	Maharishi University of Management	0.9871827203994386
+145600	University of Illinois at Chicago	0.9842449775987887
+198613	Guilford College	0.983872160630275
+229841	Wharton County Junior College	0.983015242933993
+161235	University of Maine at Fort Kent	0.982614661109193
+439145	Pierce College at Puyallup	0.9819585613221322
+216542	Valley Forge Christian College	0.9818275481968584
+183123	Lakes Region Community College	0.9801309029282612
+217420	Rhode Island College	0.9792960365087428
+183105	White Mountains Community College	0.9790634821392756
+187994	New Mexico State University-Alamogordo	0.9790542518175397
+194666	Rabbinical College Bobover Yeshiva Bnei Zion	0.9789590764932755
+182290	University of Nevada-Reno	0.9782327162752606
+187666	Eastern New Mexico University-Roswell Campus	0.9776873822300484
+157085	University of Kentucky	0.9763905223493282
+106449	Arkansas State University-Beebe	0.9762506851500193
+192864	Marymount Manhattan College	0.9757491514887106
+455512	Woodland Community College	0.9743847708434987
+110538	California State University-Chico	0.9734685077819943
+167525	Quincy College	0.9734457975387637
+207582	Oral Roberts University	0.9730978959931922
+208725	New Hope Christian College-Eugene	0.9729838888019494
+179919	Wentworth Military Academy & Junior College	0.9727908609814241
+230898	Green Mountain College	0.97151528386696
+116439	Irvine Valley College	0.9709789473155443
+173638	Minnesota West Community and Technical College	0.9700161012874564
+213783	Mansfield University of Pennsylvania	0.9693460799887317
+236887	Walla Walla Community College	0.9690916742105048
+131113	Wilmington University	0.9681090014886913
+173124	Bemidji State University	0.9675436257193828
+127389	Lamar Community College	0.9675190907313119
+207722	University of Science and Arts of Oklahoma	0.9674250952428411
+262031	St Charles Community College	0.9673021566808551
+173735	Hibbing Community College	0.9661174971930531
+200484	Trinity Bible College	0.966078072698533
+100751	The University of Alabama	0.96549853327468
+130493	Southern Connecticut State University	0.9653343422843158
+366711	California State University-San Marcos	0.9649230726871384
+227331	Our Lady of the Lake University	0.9644849303978773
+169974	Glen Oaks Community College	0.9638256689238627
+161226	University of Maine at Farmington	0.9634972950735464
+133021	Chipola College	0.9628571843722967
+227386	Panola College	0.9625247097968502
+194240	Orange County Community College	0.9622780603948343
+113634	Diablo Valley College	0.9620642403841957
+162104	Cecil College	0.9619250058727354
+155681	Pittsburg State University	0.9618852475468403
+216339	Temple University	0.9613453448250743
+183114	River Valley Community College	0.9610361823571639
+366401	Las Positas College	0.9609999280707348
+167987	University of Massachusetts-Dartmouth	0.9609648592430602
+240620	Laramie County Community College	0.9608164070556896
+206491	Wilberforce University	0.9607200291041293
+141811	Leeward Community College	0.9594245733896059
+434061	South Louisiana Community College	0.9586578141243999
+130606	Tunxis Community College	0.9581546727448466
+154059	North Iowa Area Community College	0.9580317989281604
+166647	Massachusetts Bay Community College	0.9579609309414874
+171571	Oakland University	0.9570155846871967
+190594	CUNY Hunter College	0.9549248757376686
+110529	California State Polytechnic University-Pomona	0.9543705800937539
+209542	Oregon State University	0.9525919491296474
+478634	California College San Diego	0.9524432499175376
+229814	West Texas A & M University	0.9522930214888452
+234711	Big Bend Community College	0.9522260685410463
+139205	Brewton-Parker College	0.9520313073340079
+162779	Howard Community College	0.95200482592211
+196194	SUNY College at Oswego	0.95174162251111
+188049	University of New Mexico-Valencia County Campus	0.9516751044980705
+219426	Southeast Technical Institute	0.9515368719573498
+194028	North Country Community College	0.9514883085783787
+105747	Scottsdale Community College	0.9510850365106007
+181534	Peru State College	0.9508696856358343
+174473	Northland Community and Technical College	0.9502395498384539
+407009	Arizona State University-West	0.9498733586174263
+141097	Southern Polytechnic State University	0.9489559334823819
+223524	Brookhaven College	0.9488513887112725
+173799	Inver Hills Community College	0.9487941598088823
+183141	Nashua Community College	0.948773565375962
+207306	Northwestern Oklahoma State University	0.9482488232897597
+177746	Kansas City Art Institute	0.9472926614724033
+157100	Kentucky Christian University	0.9470427594510745
+100706	University of Alabama in Huntsville	0.9461718858038536
+157401	Murray State University	0.9456559963209568
+104179	University of Arizona	0.9445680146808852
+429128	Urban College of Boston	0.9432176817512969
+161581	Washington County Community College	0.9426776981760893
+153524	Iowa Central Community College	0.9421253876858714
+119331	Napa Valley College	0.9420269845476926
+155201	Independence Community College	0.9411073635316023
+218645	University of South Carolina-Aiken	0.9400645656462315
+153296	Ellsworth Community College	0.9399671621846577
+110574	California State University-East Bay	0.9395439930972461
+213613	Lock Haven University	0.9389908156684004
+233310	Rappahannock Community College	0.9387560059286664
+146816	MacCormac College	0.9386727651324727
+176017	University of Mississippi	0.937405375929161
+174783	Saint Cloud State University	0.9370372026923371
+108667	College of Alameda	0.9368379262977578
+111434	Canada College	0.9363629883572696
+238722	Fox Valley Technical College	0.9354773781311705
+162122	College of Southern Maryland	0.934331615280473
+174358	Minnesota State University-Moorhead	0.9342519433490856
+185262	Kean University	0.9341457316183801
+110486	California State University-Bakersfield	0.933850791337032
+196237	SUNY College at Old Westbury	0.9332739956941479
+179715	North Central Missouri College	0.9328251462653948
+187958	University of New Mexico-Gallup Campus	0.9325547869842031
+149329	Telshe Yeshiva-Chicago	0.9324466038540326
+141990	Windward Community College	0.9316220723477528
+198677	Heritage Bible College	0.9313234395108148
+140553	Morehouse College	0.9312344839337123
+373827	New England School of Communications	0.9310637380143084
+110565	California State University-Fullerton	0.9304508769499573
+131450	Gallaudet University	0.9288288277876311
+190053	Clinton Community College	0.9285941842845506
+122755	San Jose State University	0.9283723064268083
+162007	Bowie State University	0.928166593515837
+193654	The New School	0.9277728674406502
+160481	L E Fletcher Technical Community College	0.9277442283990546
+220808	Memphis College of Art	0.9276036015644578
+143613	Carl Sandburg College	0.926970562332852
+198969	Methodist University	0.9256828960886826
+237039	Whatcom Community College	0.9255328285667269
+211307	Bucks County Community College	0.9255245607166218
+196200	SUNY College at Potsdam	0.9251269400315287
+215105	The University of the Arts	0.9250556469162259
+166452	Lesley University	0.9247940834860885
+155210	Johnson County Community College	0.9232248302038859
+141185	Toccoa Falls College	0.923168402744063
+161484	Northern Maine Community College	0.9229236141403466
+235237	Pierce College at Fort Steilacoom	0.9225246359791455
+137564	Southeastern University	0.9215643764793937
+228802	The University of Texas at Tyler	0.9213499217066248
+182306	Great Basin College	0.9203492769370983
+239460	Northcentral Technical College	0.9203125892660815
+122384	San Diego Miramar College	0.9200125520409966
+124113	Taft College	0.9196788153416042
+167729	Salem State University	0.9196276096792289
+204857	Ohio University-Main Campus	0.9193120367971994
+234377	Wytheville Community College	0.9187896605964362
+130916	Delaware Technical Community College-Stanton/Wilmington	0.9184228138279018
+187444	William Paterson University of New Jersey	0.9163823563458163
+173416	Dakota County Technical College	0.916172380462112
+167251	Newbury College	0.9155175596076163
+170082	Grand Valley State University	0.915515089256471
+126580	University of Colorado Colorado Springs	0.9149168173547136
+247603	Sussex County Community College	0.9147942578182747
+178420	University of Missouri-St Louis	0.9147507865942529
+175421	Belhaven University	0.9136385862262596
+232089	Ferrum College	0.9135058688807205
+125499	West Valley College	0.9133787726263779
+227687	Ranger College	0.9128967027001529
+188678	American Academy of Dramatic Arts-New York	0.9127620323290409
+181376	Nebraska Christian College	0.9124846238092866
+217688	Charleston Southern University	0.9114939421049326
+218964	Winthrop University	0.909673040521547
+232867	New River Community College	0.9091791068907396
+240116	Chippewa Valley Technical College	0.9090416911730707
+446774	Blue Ridge Community and Technical College	0.9087296989037141
+201928	Cincinnati State Technical and Community College	0.9085716786591376
+194392	Paul Smiths College of Arts and Science	0.9083048161167987
+136774	Ringling College of Art and Design	0.906880718979417
+178402	University of Missouri-Kansas City	0.9066835839544789
+142285	University of Idaho	0.9063030918673542
+196219	SUNY at Purchase College	0.9061247752929021
+437732	Dallas Nursing Institute	0.905922935189727
+234669	Bellevue College	0.9047516464287888
+153621	Iowa Wesleyan College	0.9046524494638927
+183150	Great Bay Community College	0.9042889109225273
+136172	University of North Florida	0.9022471251160031
+237950	West Virginia University Institute of Technology	0.9022157743076372
+146472	College of Lake County	0.9011872006528058
+211343	Butler County Community College	0.9010127037321991
+199263	Pamlico Community College	0.9001513982233565
+181394	University of Nebraska at Omaha	0.8990425199477762
+180276	Helena College University of Montana	0.8985746731206888
+153533	Iowa Lakes Community College	0.8974672846642109
+113193	Cuesta College	0.8971656830493643
+168607	Alpena Community College	0.8971630373817071
+161253	University of Maine	0.8967234282197978
+104425	Cochise College	0.8963660916931674
+113111	Crafton Hills College	0.8961289406714885
+112084	San Diego Christian College	0.8960585891819128
+176406	Tougaloo College	0.895735724562935
+183132	Manchester Community College	0.8952850606280301
+211644	Clarion University of Pennsylvania	0.8952580332650297
+232195	Germanna Community College	0.8949263943310183
+232450	John Tyler Community College	0.8947204162565312
+216357	Thiel College	0.8939552442194351
+221953	Tusculum College	0.8937414278180277
+163657	Prince George's Community College	0.8936405187439035
+173063	Riverland Community College	0.893538188850138
+102261	Southeastern Bible College	0.8934163107541329
+446233	Ecclesia College	0.8921475402902577
+129808	Three Rivers Community College	0.8914031842003631
+129695	Manchester Community College	0.8912454591596327
+195058	Rockland Community College	0.8910018778471502
+181817	Western Nebraska Community College	0.8890378092725514
+103945	College America-Flagstaff	0.8888311334748024
+155098	Fort Scott Community College	0.8884661949032692
+104151	Arizona State University-Tempe	0.8884206571551213
+174756	St Cloud Technical and Community College	0.8882311562845947
+232982	Old Dominion University	0.8879303489913434
+132903	University of Central Florida	0.8862790464146838
+198808	Lees-McRae College	0.8857150435521677
+120953	Palo Verde College	0.8855765251823166
+188438	Adirondack Community College	0.8850373084912151
+148991	Spoon River College	0.8849472272838879
+148672	Sauk Valley Community College	0.8845317562191655
+126669	Colorado Christian University	0.8843469180158676
+198464	East Carolina University	0.8840953867223939
+170639	Lake Superior State University	0.8837791741108408
+166638	University of Massachusetts-Boston	0.8834558436521058
+111081	California Institute of the Arts	0.8833752398727516
+121619	Santa Ana College	0.8833245452619246
+414823	Johnson & Wales University-North Miami	0.8828656584639842
+448840	University of South Florida-St Petersburg	0.8826600259304622
+101499	Jefferson Davis Community College	0.8826410598789992
+169248	Central Michigan University	0.8823331200991008
+236638	Skagit Valley College	0.8823201655830305
+149772	Western Illinois University	0.881640539210507
+180692	The University of Montana-Western	0.8812615740881028
+162690	Hagerstown Community College	0.881022117387271
+101709	University of Montevallo	0.880108110421739
+409698	California State University-Monterey Bay	0.8799792528709237
+153922	Marshalltown Community College	0.8797729259493343
+173203	Central Lakes College-Brainerd	0.879315177572036
+199272	William Peace University	0.878420898591597
+172954	Anoka Technical College	0.8779685021931046
+155025	Emporia State University	0.8776409181043454
+148256	Rend Lake College	0.8772304430676279
+150136	Ball State University	0.8771684412215663
+112570	Columbia College-Hollywood	0.8760027992006739
+158088	Central Louisiana Technical Community College	0.8758927850830325
+173805	Itasca Community College	0.8758773302510868
+236753	Tacoma Community College	0.8749909613325707
+460464	Norco College	0.8749460978408174
+221847	Tennessee Technological University	0.8748304927776193
+182980	New England College	0.8746625027844166
+136145	North Florida Community College	0.8743121953722383
+189413	Boricua College	0.8739441818915303
+161077	Central Maine Community College	0.8739303495057487
+237932	West Liberty University	0.8720923314411286
+162609	Garrett College	0.8719651045802834
+230603	Southern Utah University	0.8714660068097977
+149842	Harper College	0.8710243614667903
+228459	Texas State University	0.870854904475571
+240198	Wisconsin Indianhead Technical College	0.8706701950556642
+166887	Middlesex Community College	0.870293464912838
+142179	Eastern Idaho Technical College	0.8699492169829607
+155195	Hutchinson Community College	0.8696663377024347
+384421	Rabbi Jacob Joseph School	0.8692540221565579
+236656	South Puget Sound Community College	0.8689608452947645
+392840	Watkins College of Art Design & Film	0.8674827316721481
+146418	Kishwaukee College	0.8670332647608683
+183877	Burlington County College	0.867029927536133
+147411	Morton College	0.8665020245077789
+108852	American Academy of Dramatic Arts-Los Angeles	0.8661714058834388
+159407	Louisiana State University-Eunice	0.8660790568225001
+227191	North Lake College	0.8653802485422899
+215628	Reformed Presbyterian Theological Seminary	0.8648272835934632
+175236	Ridgewater College	0.8630037313585001
+147004	McHenry County College	0.8627338309027869
+140951	Savannah College of Art and Design	0.8621657049443401
+223922	Clarendon College	0.8618616569362442
+179344	Missouri State University-West Plains	0.8614846384200964
+149532	Triton College	0.8607810002123863
+181640	Southeast Community College Area	0.8607636273453628
+236072	Seattle Community College-North Campus	0.8607224217113623
+122205	Saddleback College	0.8591564224031959
+363633	Luna Community College	0.859085466591862
+139153	Beulah Heights University	0.8588058530671718
+159416	Louisiana State University-Shreveport	0.8583163261565404
+217305	New England Institute of Technology	0.8581896419612594
+235097	Eastern Washington University	0.857947738769677
+110556	California State University-Fresno	0.8578170708179566
+234030	Virginia Commonwealth University	0.8574061453233377
+207281	Northern Oklahoma College	0.8570168220646256
+147378	Moraine Valley Community College	0.8563145966900618
+177968	Lindenwood University	0.8547137583500581
+460394	Moreno Valley College	0.8545456366454697
+145831	Illinois Valley Community College	0.8543353952467129
+451857	Remington College-Houston Southeast Campus	0.85393770881487
+166948	Mount Ida College	0.8538280196302772
+139700	Georgia Highlands College	0.8526698190442491
+239488	Northeast Wisconsin Technical College	0.8521454597461285
+186469	Salem Community College	0.8520402966659865
+232575	Lord Fairfax Community College	0.8517132264702731
+213525	Lehigh Carbon Community College	0.8506704917853861
+364016	Paradise Valley Community College	0.8506149354038349
+197294	SUNY Westchester Community College	0.8503831988510528
+110510	California State University-San Bernardino	0.8502253224090821
+200004	Western Carolina University	0.8497296270105951
+190840	Dutchess Community College	0.8495301841133355
+118912	MiraCosta College	0.8493011760511633
+107992	Southern Arkansas University Tech	0.8484789429148392
+130004	Norwalk Community College	0.8476301486798409
+131098	Wesley College	0.8476008324108284
+201441	Bowling Green State University-Main Campus	0.8475834541564132
+173911	South Central College	0.8474745288706086
+133960	Florida Keys Community College	0.847206454791831
+441937	California State University-Channel Islands	0.8460876419098552
+199139	University of North Carolina at Charlotte	0.845826836038305
+180522	Montana State University-Northern	0.8458154954320841
+420574	Arizona State University-Polytechnic	0.8457958760031942
+214111	Montgomery County Community College	0.8456220639091284
+195322	Schenectady County Community College	0.8456095614973814
+208406	Clackamas Community College	0.8446404758874588
+117195	Lake Tahoe Community College	0.844576019765559
+217235	Johnson & Wales University-Providence	0.8441347625669318
+212869	Harcum College	0.8440264889882408
+423652	Oregon Coast Community College	0.8438579217439222
+153445	Hawkeye Community College	0.843699591910072
+213376	Lackawanna College	0.8433499137255145
+230728	Utah State University	0.8431818181213914
+155061	Fort Hays State University	0.8431057867263222
+137351	University of South Florida-Main Campus	0.8426600501440729
+262086	Brandman University	0.8424420535545349
+233116	Piedmont Virginia Community College	0.8423464197622667
+161138	Eastern Maine Community College	0.8414425448008377
+129367	Capital Community College	0.8409686304100332
+481401	Grace School of Theology	0.8406952187420599
+170550	Kellogg Community College	0.8402410503107439
+229504	Vernon College	0.8401587650176197
+117894	Los Medanos College	0.8398108187077882
+100663	University of Alabama at Birmingham	0.8382731610567045
+176080	Mississippi State University	0.8377599773098394
+219480	Western Dakota Technical Institute	0.8376819619794749
+118347	College of Marin	0.8376750214786921
+198899	Mars Hill University	0.837583706789452
+203757	Lourdes University	0.836773536130333
+446640	Harrisburg University of Science and Technology	0.8364417523981785
+149727	Waubonsee Community College	0.8363593826848827
+190567	CUNY City College	0.8353275878276643
+239220	Mid-State Technical College	0.8349555800665578
+224110	North Central Texas College	0.834954484466259
+191719	Hudson Valley Community College	0.8344865836933059
+154110	Northeast Iowa Community College-Calmar	0.8342935280607255
+141167	Thomas University	0.8341228443643092
+235750	Lower Columbia College	0.8340137561652884
+140872	Reinhardt University	0.8330544500335164
+128744	University of Bridgeport	0.8327502024990002
+174570	Pine Technical College	0.8324216600407307
+136215	Nova Southeastern University	0.832301850378613
+420398	Northwest Vista College	0.83209623882735
+199865	Warren Wilson College	0.8319129026218939
+231536	Blue Ridge Community College	0.8318545463372776
+154572	Western Iowa Tech Community College	0.8310869985076322
+235334	Grays Harbor College	0.8307050509888406
+135160	Florida Gateway College	0.8294313766828062
+184791	Gloucester County College	0.8293415147832308
+227881	Sam Houston State University	0.8289961137921406
+447582	New River Community and Technical College	0.8285610096268906
+240426	University of Wisconsin-Superior	0.8283737594719373
+172699	Western Michigan University	0.8280168310586747
+465812	Independence University	0.8272929610310921
+460783	Remington College-Heathrow Campus	0.8272338822078841
+129756	Middlesex Community College	0.8267530610981588
+231697	Central Virginia Community College	0.826732716338651
+176035	Mississippi University for Women	0.8267154724365215
+199148	University of North Carolina at Greensboro	0.825819837928234
+101143	Enterprise State Community College	0.8252786987528367
+226107	Lamar State College-Orange	0.8242065321674377
+198923	McDowell Technical Community College	0.8234286104232711
+112385	Coastline Community College	0.8232986102976385
+232052	Eastern Shore Community College	0.8228144599170509
+193946	Niagara County Community College	0.8226212538305128
+236975	Wenatchee Valley College	0.8224965527216102
+239442	Nicolet Area Technical College	0.8224838877163089
+146506	Lake Land College	0.8224586921021876
+163426	Montgomery College	0.8223992731523606
+177065	Columbia College	0.8220731894620512
+196130	Buffalo State SUNY	0.8215131267813496
+144944	Elgin Community College	0.8213907473585332
+207865	Southwestern Oklahoma State University	0.8212233469260224
+183099	NHTI-Concord's Community College	0.8212117805056779
+229540	Victoria College	0.8211454515046881
+433660	Florida Gulf Coast University	0.8197652645352611
+380368	Fond du Lac Tribal and Community College	0.8194350134058527
+179566	Missouri State University-Springfield	0.8190003184959981
+172963	Anoka-Ramsey Community College	0.8189733925462425
+138868	Point University	0.81807464172668
+240170	Western Technical College	0.8179984276772466
+148937	Southeastern Illinois College	0.8172613383693176
+206279	Union Institute & University	0.8169198265642553
+221768	The University of Tennessee-Martin	0.8161958500839385
+230931	Lyndon State College	0.8160642691186558
+175263	Minnesota State College-Southeast Technical	0.8153025569046252
+149231	Southern Illinois University-Edwardsville	0.8142297028485541
+219046	Black Hills State University	0.8142070595165608
+190442	Corning Community College	0.8138903236539939
+130907	Delaware Technical Community College-Terry	0.8135850568464745
+444219	Folsom Lake College	0.8127213657802772
+235024	Cornish College of the Arts	0.8125500587342263
+102614	University of Alaska Fairbanks	0.8112709539672898
+129774	Mitchell College	0.8111204714900492
+420440	York County Community College	0.8111172389893656
+211361	California University of Pennsylvania	0.8109932461233751
+157304	Madisonville Community College	0.8097534412559307
+147703	Northern Illinois University	0.8089114995515426
+173461	Lake Superior College	0.8088625263180599
+127741	University of Northern Colorado	0.807555731066064
+247834	Collin County Community College District	0.8061034808294794
+206446	Washington State Community College	0.8060364153038749
+179557	Southeast Missouri State University	0.8054125061566423
+180902	Central Community College	0.8053686633743159
+224147	Texas A & M University-Corpus Christi	0.8050430981371755
+154642	Allen County Community College	0.8049804199348782
+227216	University of North Texas	0.8049305570722901
+137315	South Florida State College	0.8045404223129393
+159993	University of Louisiana at Monroe	0.8042906501052225
+157289	University of Louisville	0.8042867432672313
+204848	Ohio University-Lancaster Campus	0.8042575624144128
+208275	Blue Mountain Community College	0.8031800719418303
+118930	Mission College	0.8027756087422392
+169992	Gogebic Community College	0.8023375419383815
+158802	Dillard University	0.802173633779937
+199023	Montgomery Community College	0.801672568633091
+101028	Chattahoochee Valley Community College	0.801624489152172
+203881	Marion Technical College	0.8008916818544778
+188182	University of the Southwest	0.8000210807856433
+183026	Southern New Hampshire University	0.799502058859444
+161192	Kennebec Valley Community College	0.7994998461226156
+146278	John Wood Community College	0.7992137791921143
+146676	Lincoln College	0.7982573086044624
+123013	Santa Rosa Junior College	0.7981221150450394
+129729	Naugatuck Valley Community College	0.7977363656154679
+148487	Roosevelt University	0.7972847463426694
+235167	The Evergreen State College	0.7971841981972502
+143279	Black Hawk College	0.7971759500503132
+229799	Weatherford College	0.7966301471563401
+196653	Trocaire College	0.7961516750491098
+172671	West Shore Community College	0.7959566900368998
+171225	Monroe County Community College	0.7955173056131237
+218229	Lander University	0.7952615055511406
+137032	Saint Leo University	0.7945754851812279
+146685	Lincoln Land Community College	0.794279654525513
+159966	Nicholls State University	0.7942555574030838
+190637	CUNY Lehman College	0.7941420275349069
+140252	Life University	0.7941062370679834
+185536	Middlesex County College	0.7938593897587309
+188100	San Juan College	0.7938227460775106
+228158	South Plains College	0.7929511895370179
+141565	University of Hawaii at Hilo	0.7924195990453262
+107521	College of the Ouachitas	0.7923333032528997
+102058	Selma University	0.7922671008217451
+172291	St Clair County Community College	0.7920528072145583
+122375	San Diego Mesa College	0.7911147779268466
+153630	Iowa Western Community College	0.7909974750802512
+176965	University of Central Missouri	0.7908209932746425
+237525	Marshall University	0.7905944039353645
+223898	Cisco College	0.7900406509004307
+174428	Normandale Community College	0.7894733436327972
+449658	Bais Medrash Toras Chesed	0.7886367455784377
+157863	Union College	0.7877073710547884
+144193	City Colleges of Chicago-Richard J Daley College	0.7876323243509081
+101897	Northeast Alabama Community College	0.7873359015434312
+211927	Delaware County Community College	0.7869021258513773
+127778	Otero Junior College	0.7867560894756307
+174020	Metropolitan State University	0.7865356071774249
+213659	Luzerne County Community College	0.7860459124584878
+446677	Stevens-Henager College-Logan	0.7859545806500362
+126207	Aims Community College	0.7852945884394301
+448752	College America-Colorado Springs	0.7848480103008926
+143048	School of the Art Institute of Chicago	0.7844304828037006
+198507	Elizabeth City State University	0.7833448405626424
+237109	Yakima Valley Community College	0.7831168779239013
+223463	Remington College-Dallas Campus	0.7830379977142035
+155052	Flint Hills Technical College	0.782693688811543
+180179	Montana State University-Billings	0.7823512300825648
+118541	Marymount California University	0.7820613833005152
+196006	SUNY College of Technology at Alfred	0.7814180340827648
+195988	Sullivan County Community College	0.780993943951605
+480198	Warner Pacific College Adult Degree Program	0.780639170598886
+160658	University of Louisiana at Lafayette	0.7806258723484673
+198367	Craven Community College	0.7805804438388794
+161545	Southern Maine Community College	0.7804070694187373
+180461	Montana State University	0.7793969406502943
+236504	Seattle Community College-South Campus	0.77907035648976
+120342	Orange Coast College	0.7786957292941361
+160667	Northshore Technical Community College	0.7785457729588648
+111461	College of the Canyons	0.778261732801489
+157535	University of Pikeville	0.7778658814636407
+135188	Lake-Sumter State College	0.7775288885654715
+457484	New Hope Christian College-Honolulu	0.777062285521768
+366340	Stone Child College	0.776745521527502
+191339	Genesee Community College	0.7761219597364235
+204015	Miami University-Middletown	0.7754075895281461
+225511	University of Houston	0.7750906573526734
+444954	Mountwest Community and Technical College	0.7744140857783434
+178369	Missouri Valley College	0.7738209663130601
+210429	Western Oregon University	0.7732647991995858
+189264	Beth Hatalmud Rabbinical College	0.7720574025813506
+130891	Delaware Technical Community College-Owens	0.7716585068990535
+218238	Limestone College	0.7708357498629511
+161767	Anne Arundel Community College	0.7702281701114003
+176239	Pearl River Community College	0.7701825955638326
+174738	Rochester Community and Technical College	0.7698369186762697
+145682	Illinois Central College	0.7698239722022905
+156338	Southcentral Kentucky Community and Technical College	0.7692886054598037
+420538	Arkansas State University-Mountain Home	0.769132967236517
+237701	Potomac State College of West Virginia University	0.768640938121665
+366252	Pennsylvania College of Technology	0.7682030902053102
+123563	Solano Community College	0.767562542183399
+156125	Wichita State University	0.7675553421990363
+127909	Red Rocks Community College	0.7668169866440626
+173559	Minnesota State Community and Technical College	0.7664792328255017
+183859	Brookdale Community College	0.7663532764600042
+106704	University of Central Arkansas	0.7663435300385959
+228529	Tarleton State University	0.7655223171569133
+159717	McNeese State University	0.7649414715191054
+199999	Winston-Salem State University	0.7648421864222206
+224554	Texas A & M University-Commerce	0.7646521122908616
+460899	Stevens-Henager College-Boise	0.7639878771230142
+237330	Concord University	0.7638892679660865
+380094	Remington College-Houston Campus	0.7638086892218555
+438869	Remington College-Little Rock Campus	0.7633706549176004
+206996	Connors State College	0.7632584960878899
+115296	Grossmont College	0.7632576301354153
+122597	San Francisco State University	0.7631042254931971
+145521	Highland Community College	0.7629485009539505
+144218	City Colleges of Chicago-Wilbur Wright College	0.7627971903050226
+171146	University of Michigan-Flint	0.7626350363371264
+443492	Pierpont Community and Technical College	0.7619021817558369
+182500	Truckee Meadows Community College	0.7617291719139128
+160010	Northwest Louisiana Technical College	0.7612697764173018
+105145	GateWay Community College	0.7608148955059761
+185873	Ocean County College	0.7606432239034585
+235699	Lake Washington Institute of Technology	0.7598917123135238
+366395	Suffolk County Community College	0.7594027293700357
+483045	Central Georgia Technical College	0.759275173216275
+105668	Rio Salado College	0.7589780616550982
+375230	Yeshiva Gedolah Imrei Yosef D'spinka	0.7589556168999386
+146348	Kankakee Community College	0.7588245612496229
+183822	Bloomfield College	0.7584406558952067
+198871	Louisburg College	0.7582497969820915
+113236	Cypress College	0.7581705018060618
+182281	University of Nevada-Las Vegas	0.7576256264491386
+221096	Motlow State Community College	0.7573429680420949
+156082	Washburn University	0.757160055018576
+170091	Great Lakes Christian College	0.754727954539921
+201885	University of Cincinnati-Main Campus	0.7538721956540161
+192022	Jefferson Community College	0.7535394105725937
+367459	NorthWest Arkansas Community College	0.7534136360344277
+148380	Rock Valley College	0.752957118415903
+126289	Arapahoe Community College	0.7529381676424778
+146296	Joliet Junior College	0.7526649136610795
+218742	University of South Carolina-Upstate	0.7525423064540689
+110617	California State University-Sacramento	0.7523865278560979
+240055	University of Wisconsin Colleges	0.7523078884567649
+189839	Cayuga County Community College	0.7517437444088908
+448594	West Hills College-Lemoore	0.7514787120438661
+377111	Remington College-Fort Worth Campus	0.7511575624100771
+172200	Schoolcraft College	0.7506272012155909
+196565	Tompkins Cortland Community College	0.7505965858667885
+192439	LIU Brooklyn	0.7505621513673628
+213020	Indiana University of Pennsylvania-Main Campus	0.7500054736731265
+114266	Evergreen Valley College	0.7499471565061627
+228325	Southwestern Assemblies of God University	0.7495294456942894
+227368	The University of Texas-Pan American	0.7490936493618852
+223427	Blinn College	0.7489800674871334
+232946	Northern Virginia Community College	0.7489556669497089
+234845	Centralia College	0.7485511271907087
+161244	University of Maine at Machias	0.7482449025560165
+226408	College of the Mainland	0.7479359856850688
+225070	Grayson College	0.7478158004199583
+230913	Johnson State College	0.7472515851092778
+413802	East San Gabriel Valley Regional Occupational Program	0.7472117438504157
+216825	Westmoreland County Community College	0.7470161787445541
+474890	College America-Phoenix	0.7467518742880427
+188137	Santa Fe Community College	0.7462880589170526
+238397	Blackhawk Technical College	0.7460004460928485
+122746	San Jose City College	0.7455033715629921
+144865	College of DuPage	0.7450083856970332
+206048	Tiffin University	0.7446468671040968
+162168	Chesapeake College	0.744432059892643
+191986	Jamestown Community College	0.7443598574793155
+384342	Heartland Community College	0.7442473840488288
+161688	Allegany College of Maryland	0.7440949776053216
+225520	Howard College	0.7440204776772457
+171456	Northern Michigan University	0.7438241427719595
+226116	Lamar State College-Port Arthur	0.7429982517974986
+139764	Georgia Southwestern State University	0.7427002804664907
+193478	Nassau Community College	0.7426687091106069
+219408	Sisseton Wahpeton College	0.7426610718137184
+207041	East Central University	0.7424629673350303
+227766	Richland College	0.7418541898410411
+107743	Rich Mountain Community College	0.7416812397211262
+483124	Arizona State University-Skysong	0.7412936314802842
+482149	Georgia Regents University	0.7407087859663997
+191302	Fulton-Montgomery Community College	0.7400997927530659
+106883	East Arkansas Community College	0.7398117832314719
+219888	Columbia State Community College	0.7396796608373549
+203678	James A Rhodes State College	0.7394780849224
+147916	Parkland College	0.7391062575465904
+148335	Robert Morris University Illinois	0.7389062807626152
+165194	Cape Cod Community College	0.7384586320117821
+233037	Paul D Camp Community College	0.7379803148626995
+169910	Ferris State University	0.7379796128504152
+445203	Remington College-North Houston Campus	0.7379677173638884
+140012	Gwinnett Technical College	0.7372025507250146
+167534	Quinsigamond Community College	0.7370369381849694
+154800	Butler Community College	0.736998056478905
+156851	Henderson Community College	0.7369174387043805
+223320	Coastal Bend College	0.7361107617044187
+207236	Murray State College	0.7354531793016659
+144564	Danville Area Community College	0.7353830236390312
+139931	Georgia Southern University	0.735267839415096
+180203	Aaniiih Nakoda College	0.7349654472520132
+202648	Edison State Community College	0.7344086757812905
+214379	Northampton County Area Community College	0.7341224242790697
+161341	University of Maine at Presque Isle	0.7340626151778108
+230597	Snow College	0.7339870741520336
+183743	Bergen Community College	0.7338550465041248
+247773	Yeshiva Gedolah of Greater Detroit	0.7338533756277587
+141158	Southwest Georgia Technical College	0.7337472897993439
+101602	Lurleen B Wallace Community College	0.7324757521501201
+218724	Coastal Carolina University	0.7316170593846284
+191612	Herkimer County Community College	0.7314399105745574
+102377	Tuskegee University	0.731419931764727
+229328	Texas State Technical College-West Texas	0.7313910476462226
+111920	Chabot College	0.7310660296488057
+181419	Nebraska Indian Community College	0.7304620829005644
+219879	Cleveland State Community College	0.7303204668931071
+111896	Cerro Coso Community College	0.7299984034079642
+220701	Martin Methodist College	0.7299897263169379
+187198	Union County College	0.7299828998166542
+246354	Palo Alto College	0.729805264438847
+146205	John A Logan College	0.7296807543834571
+445188	University of California-Merced	0.7293206046476567
+209074	Linn-Benton Community College	0.7285982443427845
+107983	Southern Arkansas University Main Campus	0.7281019255994456
+151324	Indiana State University	0.7277789040732845
+233903	Virginia Highlands Community College	0.7264174688210187
+210155	Southwestern Oregon Community College	0.7262105814613828
+218061	Francis Marion University	0.7258411214024978
+122889	Santa Barbara City College	0.7256721729458006
+204006	Miami University-Hamilton	0.7249089848687258
+233949	Virginia Western Community College	0.7243247044215616
+101994	Reid State Technical College	0.723874189507778
+194222	Onondaga Community College	0.7238085396370589
+230782	Weber State University	0.7237718576585896
+129543	Housatonic Community College	0.7228770269382148
+404426	Coconino Community College	0.722205351193431
+106467	Arkansas Tech University	0.7221876137411578
+106999	University of Arkansas Community College-Batesville	0.7221792259196944
+109907	Barstow Community College	0.7217490470846573
+164720	Becker College	0.7216613481248776
+190673	CUNY Queensborough Community College	0.7216342646495898
+198455	Durham Technical Community College	0.7212606064535684
+201751	Chatfield College	0.7195300122082336
+138354	The University of West Florida	0.7194013047039024
+187620	New Mexico State University-Dona Ana	0.7188298586249211
+230746	Salt Lake Community College	0.7187470018811212
+219055	Kilian Community College	0.7186078339506521
+233611	Southern Virginia University	0.7184811358175507
+204839	Ohio University-Southern Campus	0.7181274446716578
+125028	Ventura College	0.7180284177959599
+228501	Sul Ross State University	0.7179641015666616
+110592	California State University-Los Angeles	0.7178703646524719
+445249	Remington College-Nashville Campus	0.7178677709656387
+148292	Richland Community College	0.7176623795807531
+175315	Century College	0.7174582676224706
+189547	SUNY Broome Community College	0.7162115555250127
+110334	Cabrillo College	0.7158700832982238
+110608	California State University-Northridge	0.7151647530303521
+170790	Macomb Community College	0.7149765697282114
+208415	Clatsop Community College	0.7144638472335698
+120971	Palomar College	0.7141095794313719
+236692	Spokane Community College	0.7139925702384777
+114433	Feather River Community College District	0.7136728494768028
+112190	City College of San Francisco	0.7135598415525977
+236708	Spokane Falls Community College	0.7130837213770823
+237367	Fairmont State University	0.7130301401461236
+175616	Delta State University	0.7126138214205607
+234933	Clark College	0.7121178830504783
+159939	University of New Orleans	0.7116500608462532
+206923	Carl Albert State College	0.7113498856741216
+227854	St Philip's College	0.7112005376343078
+231882	Danville Community College	0.7111787944872968
+144184	City Colleges of Chicago-Harry S Truman College	0.7102386046798632
+127185	Fort Lewis College	0.7102070032874024
+151306	University of Southern Indiana	0.7099709181270418
+160038	Northwestern State University of Louisiana	0.7098145651792176
+204820	Ohio University-Chillicothe Campus	0.7089516565177001
+207670	Rose State College	0.7088913700198546
+115126	Golden West College	0.7084399476723208
+164775	Berkshire Community College	0.7078654366620764
+177676	Jefferson College	0.7077666920164595
+117274	Lassen Community College	0.7077575706744553
+104346	Central Arizona College	0.7069955943944964
+112826	Contra Costa College	0.7068395944477096
+180258	University of Great Falls	0.7067427642531784
+245953	Mid-America Christian University	0.7066963127033137
+225371	Hill College	0.7063562467422195
+233648	Southwest Virginia Community College	0.7060497106934304
+237817	Southern West Virginia Community and Technical College	0.705693684329492
+206084	University of Toledo	0.7050026757667702
+166823	Massasoit Community College	0.7048866427462036
+173708	Hennepin Technical College	0.7038512882107563
+112686	El Camino College-Compton Center	0.703797422963571
+448886	Arizona State University-Downtown Phoenix	0.7028342826445473
+139940	Georgia State University	0.7027934805303454
+187985	University of New Mexico-Main Campus	0.7022268731476683
+218681	University of South Carolina-Salkehatchie	0.7020155129262926
+157483	West Kentucky Community and Technical College	0.7009943369996823
+207740	Seminole State College	0.7009232733772913
+201283	Belmont College	0.6996994206561753
+175643	East Central Community College	0.699089470429221
+126872	College America-Denver	0.69886765939858
+203492	Kent State University at Salem	0.6986057004232923
+210146	Southern Oregon University	0.6983591038827973
+105330	Northern Arizona University	0.6973705193144659
+227979	San Jacinto Community College	0.6970858890875173
+165981	Greenfield Community College	0.6969775185486585
+203599	Lakeland Community College	0.6969211284791866
+176169	Northeast Mississippi Community College	0.6966609325352144
+168883	Bay de Noc Community College	0.6962166553574619
+118772	Merritt College	0.6956872274302038
+197142	Villa Maria College	0.6955533925710065
+130934	Delaware State University	0.6954021905514719
+157447	Northern Kentucky University	0.695389589892071
+125170	Berkeley City College	0.695347921870762
+174376	North Hennepin Community College	0.6950129716264597
+149222	Southern Illinois University-Carbondale	0.6949976050898332
+138789	Armstrong Atlantic State University	0.6949385331463771
+172051	Saginaw Valley State University	0.6940719170029942
+368780	Los Angeles ORT College-Los Angeles Campus	0.6940184324194192
+180197	Flathead Valley Community College	0.6932406516509
+180647	Salish Kootenai College	0.6927950392033033
+184205	Cumberland County College	0.6923684083185528
+166957	Mount Wachusett Community College	0.692363606615365
+151333	Indiana University-Kokomo	0.6917643940087971
+134343	Gulf Coast State College	0.6910577595121806
+125462	West Hills College-Coalinga	0.6910206302541968
+101295	George C Wallace State Community College-Hanceville	0.6909382763258742
+226204	Lee College	0.6904550146954704
+217891	Clinton College	0.6902896285930672
+196024	SUNY College of Technology at Delhi	0.6902492339732105
+142559	College of Southern Idaho	0.6900882086019423
+222053	Volunteer State Community College	0.6900754552840133
+153737	Kirkwood Community College	0.6892217849781206
+171395	North Central Michigan College	0.6887019974520469
+170587	Kirtland Community College	0.6882810564115416
+128106	Colorado State University-Pueblo	0.6880557374629894
+197993	Bennett College	0.6879017722514109
+199768	Surry Community College	0.6878004534969117
+107071	Henderson State University	0.6874234615830666
+110547	California State University-Dominguez Hills	0.687050884338899
+240374	University of Wisconsin-Parkside	0.6863586983296496
+199485	Rockingham Community College	0.6862011452934969
+228680	Texas State Technical College-Waco	0.6857995220601124
+177250	East Central College	0.6855575613565587
+380359	Bay Mills Community College	0.6851597777442973
+130217	Quinebaug Valley Community College	0.6849237693125534
+207847	Southeastern Oklahoma State University	0.6840508123846486
+114859	Fullerton College	0.6834687670206389
+228769	The University of Texas at Arlington	0.6830890304700235
+198756	Johnson C Smith University	0.6825713267436229
+121044	Pasadena City College	0.6824910739027416
+102076	Snead State Community College	0.682111046965988
+132842	Carlos Albizu University-Miami	0.6819289026722174
+204440	Northwest State Community College	0.6815309485173555
+191083	Erie Community College	0.6814853164311324
+141334	University of West Georgia	0.6808647549393966
+201672	Central Ohio Technical College	0.6807974418210326
+228431	Stephen F Austin State University	0.6803884866296064
+130396	Gateway Community College	0.6803728354253239
+133951	Florida International University	0.6803399114116703
+138691	Darton State College	0.6799753660704424
+146603	Lewis and Clark Community College	0.6794087409669847
+187639	Clovis Community College	0.6793306397438622
+180249	Great Falls College Montana State University	0.6787933492038344
+207351	Oklahoma Panhandle State University	0.6786932688698057
+198905	Martin Community College	0.6786188371366603
+152266	Purdue University-North Central Campus	0.6785339558272442
+120421	Oxnard College	0.6785182522788803
+164748	Berklee College of Music	0.678233259891268
+251260	Southern Union State Community College	0.6779218457086049
+171234	Montcalm Community College	0.6778712226469935
+198039	Blue Ridge Community College	0.6777595810814332
+107637	Southeast Arkansas College	0.6773080100300864
+223816	Central Texas College	0.6772974339945684
+198303	Chowan University	0.6769524822333585
+384333	Estrella Mountain Community College	0.676815279437292
+160579	SOWELA Technical Community College	0.6762306689644664
+153472	Indian Hills Community College	0.6758800188318979
+108807	Allan Hancock College	0.6757359389729906
+171155	Mid Michigan Community College	0.674820994853117
+204422	North Central State College	0.6745624506119466
+121886	Rio Hondo College	0.6745572605904532
+128258	Trinidad State Junior College	0.6741636641405644
+180160	Chief Dull Knife College	0.6741570473830197
+224572	Eastfield College	0.6740532622263219
+179539	State Fair Community College	0.673911884036463
+176372	University of Southern Mississippi	0.6737102295016144
+226019	Kilgore College	0.6734603466395737
+101286	George C Wallace State Community College-Dothan	0.673333807928344
+221740	The University of Tennessee-Chattanooga	0.6733291582096668
+127200	Front Range Community College	0.6733194388297471
+207290	Northeastern Oklahoma A&M College	0.6730186860399066
+140243	Lanier Technical College	0.6729785156191259
+212160	Edinboro University of Pennsylvania	0.672805807978401
+101587	University of West Alabama	0.671863183343656
+213598	Lincoln University of Pennsylvania	0.6718202864714623
+188854	American Musical and Dramatic Academy	0.6712176879525327
+185129	New Jersey City University	0.6709250034390184
+237385	Glenville State College	0.6704801090807245
+106795	Cossatot Community College of the University of Arkansas	0.6703712060546749
+106148	Yavapai College	0.6700801778409253
+198914	Mayland Community College	0.6700100486637928
+230630	Stevens-Henager College of Business-Provo	0.6699531737627118
+193283	Mohawk Valley Community College	0.669220814399711
+222822	Angelina College	0.6691563100033728
+107974	South Arkansas Community College	0.6687856945238924
+101505	Jefferson State Community College	0.6682910521978251
+154952	Cowley County Community College	0.6680078096685667
+104708	Glendale Community College	0.6679783799924665
+181303	Metropolitan Community College Area	0.6674688228933858
+479956	Pennsylvania State University-World Campus	0.6672553330181388
+117690	Los Angeles Harbor College	0.6664776746991564
+101161	James H Faulkner State Community College	0.6662284639045387
+217615	Aiken Technical College	0.6656845140999528
+106625	Black River Technical College	0.6651862968543809
+222062	Walters State Community College	0.6650053886607095
+101879	University of North Alabama	0.6649491259877688
+126863	Community College of Aurora	0.6641815522107947
+220978	Middle Tennessee State University	0.6638205903290479
+167312	North Shore Community College	0.6637585940974987
+136233	Northwest Florida State College	0.6637329936671175
+200208	Cankdeska Cikana Community College	0.6635787316519026
+156107	Wichita Area Technical College	0.6635032109463156
+177135	Crowder College	0.6629702864130843
+101189	Faulkner University	0.6625386697042507
+190619	CUNY Kingsborough Community College	0.6624193201462937
+137096	Santa Fe College	0.6623679905611077
+139278	West Georgia Technical College	0.6621380666649836
+105154	Mesa Community College	0.6619816320700566
+455114	College of Western Idaho	0.6619090144588192
+198774	Johnston Community College	0.6613586603059781
+440271	Remington College-Baton Rouge Campus	0.6612097911453444
+226930	Mountain View College	0.6610102867607189
+209807	Portland State University	0.6608110313212743
+240453	University of Wisconsin-Milwaukee	0.6606737404817935
+199087	Nash Community College	0.6604979200427715
+180489	The University of Montana	0.6603046545905192
+205203	University of Rio Grande	0.6602828148465233
+102298	Talladega College	0.6599122381164579
+222576	Amarillo College	0.659569288877155
+165033	Bristol Community College	0.659425934106099
+193061	Mesivta of Eastern Parkway-Yeshiva Zichron Meilech	0.6591460520612148
+121707	College of the Redwoods	0.6587284033157592
+146366	Kaskaskia College	0.6583903412337583
+227225	Northeast Texas Community College	0.6573883386006223
+114938	Gavilan College	0.6569143238748444
+107460	North Arkansas College	0.6567866738606515
+112561	Columbia College	0.6567781849254102
+101736	Northwest-Shoals Community College	0.6566495351380354
+235422	Heritage University	0.6557380258915384
+171304	Muskegon Community College	0.6556756110070932
+191199	Finger Lakes Community College	0.6556214179419062
+207449	Oklahoma City Community College	0.6555879022486897
+203748	Lorain County Community College	0.6554509872134049
+183938	Camden County College	0.6551327291771805
+190600	CUNY John Jay College of Criminal Justice	0.654505401845496
+153214	Des Moines Area Community College	0.6540271290500489
+133669	Florida Atlantic University	0.6535809314749386
+140164	Kennesaw State University	0.6533137627767002
+176354	Southwest Mississippi Community College	0.6524216688753959
+224350	Del Mar College	0.6511447560110696
+221856	Tennessee Temple University	0.6510510084838704
+169521	Delta College	0.6508816634410224
+212878	Harrisburg Area Community College-Harrisburg	0.6508713930789839
+165112	Bunker Hill Community College	0.6506990609949034
+233639	Southside Virginia Community College	0.649814468487872
+203517	Kent State University at Kent	0.6494497382810163
+157438	Gateway Community and Technical College	0.6494460955953498
+210270	Umpqua Community College	0.6491640497908984
+141264	Valdosta State University	0.6490480786801955
+439367	CBD College	0.6489770807098905
+227924	San Antonio College	0.6489484785358919
+112172	Citrus College	0.6477232854391094
+107327	Arkansas Northeastern College	0.6477230836395133
+221397	Roane State Community College	0.6475465059777364
+101912	Oakwood University	0.6473485711210105
+206011	Terra State Community College	0.6465302671446087
+107585	University of Arkansas Community College-Morrilton	0.6463699797996686
+117706	Los Angeles Pierce College	0.645969117845201
+100760	Central Alabama Community College	0.6459344969294024
+246813	Athens Technical College	0.6457373799978016
+247940	Owensboro Community and Technical College	0.6454500899711988
+223773	Cedar Valley College	0.6449090269580614
+228699	Texarkana College	0.6446525551965303
+448761	College America-Fort Collins	0.6441977052950053
+160524	Remington College-Lafayette Campus	0.6437793439962267
+153311	Eastern Iowa Community College District	0.6437534222319236
+209250	Mt Hood Community College	0.6434797223774972
+107549	Ozarka College	0.6434179586446035
+228486	Southwestern Christian College	0.6433901777085836
+199926	Wilkes Community College	0.6432878909805402
+222831	Angelo State University	0.6431594973412258
+163338	University of Maryland Eastern Shore	0.6431501441052994
+151290	Indiana Institute of Technology	0.6430495081889538
+136400	Pasco-Hernando Community College	0.6428017394661156
+137759	Tallahassee Community College	0.6413328780750941
+199102	North Carolina A & T State University	0.6411394817578439
+102553	University of Alaska Anchorage	0.6407547623256145
+237686	West Virginia University at Parkersburg	0.6405271945728217
+144175	City Colleges of Chicago-Olive-Harvey College	0.6390965037070281
+205966	Southern State Community College	0.6388756377764877
+220057	Dyersburg State Community College	0.6387189235415666
+113218	Cuyamaca College	0.6384359318473629
+123800	Southwestern College	0.638042164252429
+232414	J Sargeant Reynolds Community College	0.6380235560614912
+127714	Nazarene Bible College	0.6375752585371294
+115001	Glendale Community College	0.6355823108331495
+230889	Goddard College	0.6355527232769361
+160612	Southeastern Louisiana University	0.6354490240017329
+224615	El Centro College	0.6354171367762936
+148007	Prairie State College	0.6354061114744757
+196033	SUNY College of Agriculture and Technology at Cobleskill	0.6352158396476808
+214023	Metropolitan Career Center Computer Technology Institute	0.6347290733094013
+225575	Huston-Tillotson University	0.6345440689641814
+154378	Southeastern Community College	0.6341944821489683
+105525	Pima Community College	0.6339672284489465
+238759	Gateway Technical College	0.6336792488665286
+395362	Copper Mountain Community College	0.6333936610388088
+217837	Northeastern Technical College	0.6333171256751755
+451866	Remington College-Shreveport Campus	0.6333150658350151
+119164	Mt San Antonio College	0.6330886476764215
+166133	Holyoke Community College	0.633036454653814
+122977	Santa Monica College	0.6321284328038749
+142443	North Idaho College	0.6316719853875229
+157386	Morehead State University	0.6313452242569139
+226578	McLennan Community College	0.6311341177468867
+217873	Claflin University	0.6308084430651398
+170444	Jackson College	0.6306515824396658
+207935	Tulsa Community College	0.6305822437127137
+161509	Maine College of Art	0.6302770522165162
+167376	Northern Essex Community College	0.6302671697461257
+117247	Laney College	0.6302014823174487
+434539	City College-Miami	0.6298434483259095
+222992	Austin Community College District	0.6297634038797578
+383190	Hawaii Community College	0.6297084489413239
+105349	Northland Pioneer College	0.6296776514397351
+236258	Peninsula College	0.6296239075156077
+198987	Mitchell Community College	0.6292193001455673
+197735	Yeshivath Viznitz	0.6292083708660527
+412599	Remington College-Memphis Campus	0.6285543969810453
+200527	Turtle Mountain Community College	0.6277729442484933
+234155	Virginia State University	0.626935701233264
+180212	Fort Peck Community College	0.6269088579899572
+225308	Trinity Valley Community College	0.6268813776791907
+151111	Indiana University-Purdue University-Indianapolis	0.6261771450507326
+175883	Jones County Junior College	0.6260687201114958
+137281	Saint Johns River State College	0.6259139553576061
+125471	West Los Angeles College	0.6255483359978207
+202222	Columbus State Community College	0.6255060089464919
+134495	Hillsborough Community College	0.6254954434263845
+372958	Remington College-Honolulu Campus	0.6254885739394692
+101949	Alabama Southern Community College	0.6253029837271069
+156648	Elizabethtown Community and Technical College	0.6245601741511235
+193016	Mercy College	0.6234462714946429
+238014	West Virginia Northern Community College	0.6232369563615698
+151379	Indiana University-Southeast	0.6225608649108365
+208646	Eastern Oregon University	0.622207406661346
+199421	Randolph Community College	0.6221265966243462
+215585	Reading Area Community College	0.6220696219568485
+366535	Remington College-Mobile Campus	0.6217548580302746
+178217	Mineral Area College	0.6211233063061921
+228796	The University of Texas at El Paso	0.621049506559883
+198817	Lenoir Community College	0.6209702160484208
+420431	Oconee Fall Line Technical College	0.6209082121650543
+113573	College of the Desert	0.6209054665309979
+228316	Southwest Texas Junior College	0.6200400219015243
+228705	Texas A & M University-Kingsville	0.6199685508296962
+134608	Indian River State College	0.6196462490455421
+188030	New Mexico State University-Main Campus	0.619626180887881
+207263	Northeastern State University	0.6195910700879173
+105428	Phoenix College	0.6192183897406986
+157951	Western Kentucky University	0.618550648508164
+102632	University of Alaska Southeast	0.6181896550867434
+199892	Wayne Community College	0.6173940578969409
+102094	University of South Alabama	0.6164499458959302
+186186	Rabbinical College of America	0.6164450784850007
+167905	Springfield Technical Community College	0.6160074955781181
+206941	University of Central Oklahoma	0.6158292938749491
+198233	Catawba Valley Community College	0.6155810363695394
+210605	Community College of Allegheny County	0.614954248734717
+156231	Ashland Community and Technical College	0.6148528157121046
+139366	Columbus State University	0.6146393531676034
+206604	Wright State University-Main Campus	0.6145657056926979
+234164	Virginia Union University	0.614459902227809
+198084	Brunswick Community College	0.614033398583135
+121901	Riverside City College	0.6135413519207786
+164313	Wor-Wic Community College	0.6126489271511611
+199731	Southwestern Community College	0.6125655472541965
+107725	University of Arkansas Community College-Hope	0.6124839999877334
+177214	Drury University	0.6118674996936768
+123484	College of the Siskiyous	0.611451346841192
+198710	Isothermal Community College	0.6113375247553063
+220400	Jackson State Community College	0.6108808381509813
+199209	North Carolina Wesleyan College	0.610773024879987
+142328	Lewis-Clark State College	0.6106433996517355
+232788	Mountain Empire Community College	0.610458422216419
+133650	Florida Agricultural and Mechanical University	0.6103623481259661
+199856	Wake Technical Community College	0.610323769779008
+198321	Cleveland Community College	0.6102618942985322
+221184	Nashville State Community College	0.6100712075315796
+117867	Los Angeles Mission College	0.6098091864520648
+199324	Piedmont Community College	0.6094428913413313
+197814	College of the Albemarle	0.6093075706877958
+201946	University of Cincinnati-Clermont College	0.6088071067209582
+218654	University of South Carolina-Beaufort	0.6086005336342408
+178448	Moberly Area Community College	0.6084823362347895
+152248	Purdue University-Calumet Campus	0.6080040495641544
+135364	Luther Rice University & Seminary	0.6079724443905622
+101462	J F Drake State Community and Technical College	0.6075829699029841
+157739	Southeast Kentucky Community and Technical College	0.607338960132541
+171535	Oakland Community College	0.6069923238997248
+184481	Essex County College	0.6069835919431774
+113096	Cosumnes River College	0.6066289659211493
+218830	Spartanburg Community College	0.6065230669515945
+101514	John C Calhoun State Community College	0.6049953869198907
+226134	Laredo Community College	0.6043113037748804
+117733	Los Angeles Valley College	0.604050287466972
+115755	Humboldt State University	0.6038398785143901
+434672	The Community College of Baltimore County	0.6034370491229479
+155292	Kansas City Kansas Community College	0.6033551792504559
+197966	Beaufort County Community College	0.6028687484710544
+198729	James Sprunt Community College	0.6027798027028932
+219718	Bethel University	0.6027472077665831
+483212	Louisiana Delta Community College	0.6021095350307076
+140942	Savannah Technical College	0.6020398600779557
+161554	University of Southern Maine	0.6016183488234254
+439701	King's University	0.6016023304746044
+244437	Georgia Perimeter College	0.6010962616755178
+199281	University of North Carolina at Pembroke	0.6008246979052099
+100830	Auburn University at Montgomery	0.6001700675398931
+199795	Tri-County Community College	0.5999500206998506
+148821	Shawnee Community College	0.5997784042270232
+208318	Central Oregon Community College	0.5995021198648259
+178387	Missouri Western State University	0.5994693895751388
+217712	Technical College of the Lowcountry	0.5989839873592372
+199838	Vance-Granville Community College	0.598760752348553
+367884	Hodges University	0.598577247344105
+228608	Temple College	0.5984268973107422
+199953	Wilson Community College	0.5975001906262194
+178341	Missouri Southern State University	0.597119523927727
+105792	South Mountain Community College	0.5956222649990777
+199467	Roanoke-Chowan Community College	0.5955916317662654
+102429	Bevill State Community College	0.5955488860062512
+121363	Porterville College	0.5953337050143765
+229355	Tyler Junior College	0.5945316266677234
+220862	University of Memphis	0.5944056197888901
+438151	Stevens-Henager College-Murray	0.5943875464720445
+227401	Paris Junior College	0.5920998422319295
+102313	H Councill Trenholm State Technical College	0.5917275320926454
+172617	Washtenaw Community College	0.5914187442861414
+198330	Coastal Carolina Community College	0.5907676847693548
+210234	Treasure Valley Community College	0.5904849380576755
+122180	Sacramento City College	0.590285729410927
+106458	Arkansas State University-Main Campus	0.5893635170257685
+203526	Kent State University at Geauga	0.5889204093024238
+158884	Nunez Community College	0.5888860561381911
+176178	Northwest Mississippi Community College	0.5874166365397024
+228547	Tarrant County College District	0.5868785381431435
+199157	North Carolina Central University	0.5866902866749298
+135063	Jones College-Jacksonville	0.5862407976454529
+208390	Chemeketa Community College	0.5859535489068145
+209108	Marylhurst University	0.5857416316683997
+199786	Alamance Community College	0.5856596826940941
+161864	Baltimore City Community College	0.5855639151682921
+132602	Bethune-Cookman University	0.5855129510389149
+233754	Thomas Nelson Community College	0.5854023142884318
+156860	Hopkinsville Community College	0.5842461608145485
+115393	Hartnell College	0.5840879722970774
+207564	Oklahoma State University Institute of Technology	0.5837867027699344
+190628	CUNY LaGuardia Community College	0.5836827387360775
+175573	Copiah-Lincoln Community College	0.5835865099091924
+197887	Asheville-Buncombe Technical Community College	0.5833139883214674
+204255	Zane State College	0.5828857548479405
+190585	CUNY Hostos Community College	0.5815537116204987
+218353	Midlands Technical College	0.5811093332262699
+193326	Monroe Community College	0.5802490620147928
+190114	Metropolitan College of New York	0.5798944351675266
+187648	Eastern New Mexico University-Main Campus	0.5796782727752522
+199625	Sampson Community College	0.5792143843097616
+101240	Gadsden State Community College	0.5790205193661804
+170055	Grand Rapids Community College	0.5786404361734083
+368911	Southeastern Technical College	0.5782794812758848
+169798	Eastern Michigan University	0.5779615133313196
+149365	South Suburban College	0.5778302021988176
+132693	Eastern Florida State College	0.5776409952090518
+111887	Cerritos College	0.5773141742695983
+260372	Lac Courte Oreilles Ojibwa Community College	0.5770317003862839
+190691	CUNY York College	0.5765648207635845
+221908	Northeast State Community College	0.5762318551942736
+179645	Three Rivers Community College	0.5743492631720094
+199722	Southeastern Community College	0.574277476229558
+227526	Prairie View A & M University	0.5736219448913418
+188216	Southwestern Indian Polytechnic Institute	0.5735251540256665
+156620	Eastern Kentucky University	0.573201389308912
+141006	South Georgia Technical College	0.5730575463257302
+157553	Big Sandy Community and Technical College	0.5730244152276202
+170541	Kalamazoo Valley Community College	0.5718333730627465
+233019	Patrick Henry Community College	0.5716668386827891
+187532	Central New Mexico Community College	0.5714426603258222
+203331	Eastern Gateway Community College	0.5713866342612944
+482228	Virginia Baptist College	0.5710696231427749
+151360	Indiana University-Northwest	0.5709872894077203
+375416	Remington College-Cleveland Campus	0.5700149758836711
+190558	College of Staten Island CUNY	0.5695476863864884
+198543	Fayetteville State University	0.5692710513528216
+437103	Baton Rouge Community College	0.5691840519400512
+227146	Navarro College	0.5688104947358602
+157216	Lindsey Wilson College	0.5683827831084528
+140678	North Georgia Technical College	0.5676800366971406
+170657	Lansing Community College	0.5667506129680965
+163453	Morgan State University	0.5666848035181478
+201964	Ohio Christian University	0.5666309160045218
+117715	Los Angeles Southwest College	0.56657284626957
+417327	City College-Altamonte Springs	0.5665606173458524
+230825	Burlington College	0.5665540059225291
+175810	Holmes Community College	0.566007058566433
+107600	Philander Smith College	0.5657020010432885
+170842	Marygrove College	0.5649532097811593
+107619	Phillips Community College of the University of Arkansas	0.5649452988750078
+123341	Sierra College	0.5648268798393109
+118684	Mendocino College	0.5647593832153143
+220075	East Tennessee State University	0.564715842434686
+139384	Georgia Northwestern Technical College	0.5644775368799465
+428392	Klamath Community College	0.5644145690667316
+209746	Portland Community College	0.5643238433668487
+124487	Epic Bible College	0.5642768615132416
+218894	Trident Technical College	0.5638458205125223
+230861	Community College of Vermont	0.5637730515391496
+223506	Brazosport College	0.5632733115137991
+203465	Kent State University at Stark	0.5629100340800178
+218885	Tri-County Technical College	0.5629030155950879
+198668	Haywood Community College	0.5625566150143366
+132851	College of Central Florida	0.5618927573661214
+113856	East Los Angeles College	0.561817665660558
+138716	Albany State University	0.5615400504853768
+234979	Columbia Basin College	0.5603270086843574
+203155	Hocking College	0.5589972322527714
+140331	Chattahoochee Technical College	0.5579729459229341
+151388	Indiana University-East	0.5577743895442678
+199333	Pitt Community College	0.5572415677966762
+212975	Commonwealth Technical Institute	0.5570849830643736
+177995	Metropolitan Community College-Kansas City	0.5569285106286238
+170620	Lake Michigan College	0.5566211054911977
+381617	Baker College of Port Huron	0.556091556931143
+227182	Lone Star College System	0.5560500300074802
+184995	Hudson County Community College	0.5550810113510026
+201973	Clark State Community College	0.5549771557999513
+186034	Passaic County Community College	0.5549489720582726
+406547	City College-Gainesville	0.5547030975506229
+199449	Richmond Community College	0.553146412162456
+204945	Owens Community College	0.5530036873071866
+113980	El Camino Community College District	0.5524653730960303
+133979	Florida Memorial University	0.5520500211666053
+140599	Moultrie Technical College	0.5519488166464881
+198206	Carteret Community College	0.5515490520821951
+229319	Texas State Technical College-Harlingen	0.5514489220478864
+109819	Bakersfield College	0.5514088343198592
+218991	York Technical College	0.5506647636653068
+207856	Southwestern Christian University	0.550427365524494
+157331	Maysville Community and Technical College	0.5500294135544866
+127820	Pikes Peak Community College	0.5498487727612845
+217475	Community College of Rhode Island	0.549539362062333
+117724	Los Angeles Trade Technical College	0.5491815108666679
+190530	CUNY Bronx Community College	0.5491051143491446
+187745	Institute of American Indian and Alaska Native Culture	0.5489473942254856
+198011	Bladen Community College	0.5488069444544045
+111939	Chaffey College	0.5485407076557991
+196264	SUNY Empire State College	0.5485272852710157
+106980	National Park Community College	0.5478911327515945
+175652	East Mississippi Community College	0.5477657531366102
+218113	Greenville Technical College	0.5471692188677224
+202134	Cleveland State University	0.5460813418908029
+190521	CUNY Borough of Manhattan Community College	0.545518266735674
+176008	Mississippi Delta Community College	0.5454438945859289
+139311	Clayton State University	0.5451633777362564
+156790	Hazard Community and Technical College	0.5447564499756514
+141255	Wiregrass Georgia Technical College	0.5440448693353781
+175829	Itawamba Community College	0.5440103916101067
+175342	Alcorn State University	0.5435571348635183
+175041	Saint Paul College	0.5432282585974471
+123217	College of the Sequoias	0.5428856199314049
+199908	Western Piedmont Community College	0.5426956705429239
+126942	Community College of Denver	0.5424393563297952
+232937	Norfolk State University	0.5419056471078924
+201955	University of Cincinnati-Blue Ash College	0.541586121513012
+198570	Gaston College	0.5411573392467374
+221643	Pellissippi State Community College	0.5405573894661039
+172307	Southwestern Michigan College	0.5402387338568664
+174136	Minneapolis Community and Technical College	0.5401029803912761
+188261	Mesalands Community College	0.5394750155287479
+110246	Butte College	0.5394055939546175
+126119	Yuba College	0.5387493009820414
+198251	Central Carolina Community College	0.5386717273989705
+226091	Lamar University	0.5380213467799949
+176071	Mississippi Gulf Coast Community College	0.5372648871265004
+175935	Meridian Community College	0.5371770092417965
+198640	Halifax Community College	0.5370125841577241
+139357	Columbus Technical College	0.5369857006260013
+101301	George C Wallace State Community College-Selma	0.5367935987071365
+143215	Southwestern Illinois College	0.5351818821783129
+148876	Saint Augustine College	0.5338285492321851
+151342	Indiana University-South Bend	0.5328204430135259
+107318	Mid-South Community College	0.5323942949761592
+199740	Stanly Community College	0.532315749838256
+232557	Liberty University	0.5317821152188007
+118976	Modesto Junior College	0.5313774189467283
+244446	Georgia Piedmont Technical College	0.5312064147135751
+244233	City College-Fort Lauderdale	0.530640704477965
+123527	San Bernardino Valley College	0.5302338713647842
+239248	Milwaukee Area Technical College	0.5294050957280324
+218487	Orangeburg Calhoun Technical College	0.5293128276259242
+169479	Davenport University	0.5284208809317983
+205470	Sinclair Community College	0.5282946654617166
+105206	Mohave Community College	0.5277575319207465
+102368	Troy University	0.5271854450066581
+233772	Tidewater Community College	0.5264273904669721
+203483	Kent State University at Tuscarawas	0.5259271655568188
+198154	Cape Fear Community College	0.5257838547963588
+199634	Sandhills Community College	0.524353084125326
+122339	San Diego City College	0.5237632871552237
+366465	Ogeechee Technical College	0.5233167723080729
+165802	Fisher College	0.5227057576850017
+144281	Columbia College-Chicago	0.5220266310689597
+157711	Somerset Community College	0.5218432452730101
+135081	Keiser University-Ft Lauderdale	0.5209028627908621
+215239	Community College of Philadelphia	0.5202106286174716
+170240	Henry Ford Community College	0.5197345712592452
+221838	Tennessee State University	0.519645245147369
+209603	Pacific Northwest College of Art	0.5190861290487317
+219824	Chattanooga State Community College	0.5189348052890479
+187596	Navajo Technical University	0.5188550916403516
+123299	Shasta College	0.5182258747461946
+218520	Piedmont Technical College	0.5179254384011017
+144209	City Colleges of Chicago-Harold Washington College	0.5178282534872175
+198552	Forsyth Technical Community College	0.5176721856005461
+144166	City Colleges of Chicago-Malcolm X College	0.5169708809241731
+156921	Jefferson Community and Technical College	0.5153084574782616
+219602	Austin Peay State University	0.5139412599218918
+218955	Williamsburg Technical College	0.5139241404217775
+218919	Voorhees College	0.513656106120791
+142276	Idaho State University	0.5133441760324915
+229887	Wiley College	0.5128054256214015
+102067	Shelton State Community College	0.5126394508279576
+118718	Merced College	0.5119491284131391
+199582	Saint Augustine's University	0.5102820292696095
+158431	Bossier Parish Community College	0.5099864609207504
+230171	Dixie State University	0.5092781548833377
+203456	Kent State University at East Liverpool	0.5089518660344118
+221485	Southwest Tennessee Community College	0.5087867387685068
+218140	Horry-Georgetown Technical College	0.5087662557163425
+202356	Cuyahoga Community College District	0.5086084052445269
+122658	San Joaquin Delta College	0.5085685423809065
+236513	Seattle Central College	0.5075588199888226
+139010	Bainbridge State College	0.5069338590106158
+177472	Ozarks Technical Community College	0.5061745149687198
+106485	University of Arkansas at Monticello	0.5051838586549807
+183257	Granite State College	0.504212985849631
+138947	Clark Atlanta University	0.5032538140333664
+196592	Touro College	0.5027930298328076
+127556	Colorado Mesa University	0.5026661553384211
+218025	Florence-Darlington Technical College	0.5025600317230473
+119216	Mt San Jacinto Community College District	0.5025220024456188
+117052	Reedley College	0.5014459472212645
+236188	Olympic College	0.5011669380781933
+136358	Palm Beach State College	0.4990576708589981
+237215	Bluefield State College	0.49810099196520924
+198534	Fayetteville Technical Community College	0.4978013710429458
+209940	Rogue Community College	0.4977038099056989
+237899	West Virginia State University	0.49622938733004485
+155007	Donnelly College	0.49585208555177496
+229027	The University of Texas at San Antonio	0.495803387101536
+139986	Southern Crescent Technical College	0.4943305830704243
+197610	Yeshivat Mikdash Melech	0.49430836115971827
+115861	Imperial Valley College	0.49347730586316796
+200800	University of Akron Main Campus	0.4927612066559827
+109208	American River College	0.4924315109265356
+183655	Atlantic Cape Community College	0.49192674324857644
+136516	Polk State College	0.49169403728361605
+198491	Edgecombe Community College	0.49123708605767363
+179308	Saint Louis Community College	0.4909349792497433
+102030	Bishop State Community College	0.490872548796361
+104160	Arizona Western College	0.49052666162391423
+218858	Central Carolina Technical College	0.48824623351615143
+142115	Boise State University	0.48815328130353947
+126711	Colorado Mountain College	0.48809524924570513
+172644	Wayne State University	0.48796779863811623
+197850	South Piedmont Community College	0.4879051160564082
+101480	Jacksonville State University	0.4861032873222604
+117788	Los Angeles City College	0.48578779898786956
+125091	Victor Valley College	0.48317126298419805
+203474	Kent State University at Trumbull	0.48236183985298564
+177940	Lincoln University	0.4804190008433212
+138840	Atlanta Technical College	0.48038347402172477
+160649	Southern University at Shreveport	0.4788184633528967
+126182	Adams State University	0.4785757792301442
+196015	SUNY College of Technology at Canton	0.47711189163590023
+198376	Davidson County Community College	0.4763184031394558
+198260	Central Piedmont Community College	0.4761455303380538
+209038	Lane Community College	0.47595601996234316
+175786	Hinds Community College	0.4750494953086016
+175856	Jackson State University	0.4740572180192703
+122454	San Francisco Art Institute	0.4733025818791409
+138187	Valencia College	0.4728862010943775
+152637	Vincennes University	0.472731741752407
+129154	Goodwin College	0.4711934066746734
+127884	Pueblo Community College	0.47071173986384934
+196051	Morrisville State College	0.47006347014723066
+107664	Pulaski Technical College	0.46995979513614733
+169275	Mott Community College	0.46958632973642545
+144157	City Colleges of Chicago-Kennedy-King College	0.46893911053475457
+158662	Delgado Community College	0.46796374276679836
+224642	El Paso Community College	0.46638689544701967
+100654	Alabama A & M University	0.46621671219492267
+117645	Long Beach City College	0.46579422341984916
+175519	Coahoma Community College	0.4640579376366915
+127653	Naropa University	0.46188001053303057
+187897	New Mexico Highlands University	0.46186677940319915
+205841	Stark State College	0.4613425514029003
+156392	Bluegrass Community and Technical College	0.4613405773225363
+138682	Albany Technical College	0.46025870156430376
+101569	Lawson State Community College-Birmingham Campus	0.45881045764651324
+441900	Nevada State College	0.45803438241102695
+137209	Seminole State College of Florida	0.45630485087113615
+433387	Western Governors University	0.4556734339390104
+206695	Youngstown State University	0.454868712211196
+133702	Florida State College at Jacksonville	0.4539388824517306
+114789	Fresno City College	0.4537223235141351
+136473	Pensacola State College	0.4518460539459513
+199476	Robeson Community College	0.4507304176574092
+140960	Savannah State University	0.4505923246584843
+102270	Stillman College	0.4497516045797089
+151102	Indiana University-Purdue University-Fort Wayne	0.44920447208210823
+199494	Rowan-Cabarrus Community College	0.44919341156949955
+109350	Antelope Valley College	0.44892479224672416
+247649	Landmark College	0.44463912071834877
+127565	Metropolitan State University of Denver	0.44150821315966426
+218733	South Carolina State University	0.44053219106945174
+206002	Ohio Mid-Western College	0.44036397286557144
+106245	University of Arkansas at Little Rock	0.4402640826986637
+205443	Shawnee State University	0.4400644816797837
+198118	Caldwell Community College and Technical Institute	0.4398035725166559
+225423	Houston Community College	0.43937099232319693
+133526	Edward Waters College	0.4390709247630461
+226806	Midland College	0.43887120854975226
+176318	Rust College	0.4373798641417198
+138956	Augusta Technical College	0.4353651724306595
+135391	State College of Florida-Manatee-Sarasota	0.43421780800614024
+133508	Edison State College	0.43309320299853415
+434414	Michigan Jewish Institute	0.43263376837252404
+220598	Lane College	0.43111663151331664
+230737	Utah Valley University	0.43073149519573445
+193645	The College of New Rochelle	0.4302457037968952
+160621	Southern University and A & M College	0.42984529967579593
+180054	Blackfeet Community College	0.4245738705164401
+106412	University of Arkansas at Pine Bluff	0.41982975804708933
+238263	Madison Area Technical College	0.418749878444906
+162283	Coppin State University	0.4143891706426261
+140720	Paine College	0.4140459915738349
+154837	Central Baptist Theological Seminary	0.41327956266164234
+198622	Guilford Technical Community College	0.41037945663017306
+194693	Rabbinical College Beth Shraga	0.4101468208559398
+144005	Chicago State University	0.4076187169608494
+482680	University of North Georgia	0.405645880797347
+108092	University of Arkansas-Fort Smith	0.40538255878702345
+138558	Abraham Baldwin Agricultural College	0.402414509822837
+206914	Cameron University	0.39890684217141953
+202806	Franklin University	0.3949141278078988
+207661	Rogers State University	0.3946333553372211
+447689	Georgia Gwinnett College	0.3938050226039603
+159009	Grambling State University	0.39278212002793406
+405854	Rabbinical College of Ohr Shimon Yisroel	0.391248411013209
+198862	Livingstone College	0.39009850387702893
+133386	Daytona State College	0.3899182455510151
+189273	Beth Hamedrash Shaarei Yosher Institute	0.38948439662827555
+218399	Morris College	0.38819260654492094
+194718	Rabbinical Seminary M'kor Chaim	0.38793266548453276
+172635	Wayne County Community College District	0.3879201438659705
+155140	Haskell Indian Nations University	0.38496498014811587
+150987	Ivy Tech Community College	0.38337399357892565
+139719	Fort Valley State University	0.38102651880651595
+199643	Shaw University	0.3728992284542463
+186900	Talmudical Academy-New Jersey	0.3710050390025932
+137078	St Petersburg College	0.3697124846476723
+188058	Northern New Mexico College	0.3691724587687693
+414708	Baker College Center for Graduate Studies	0.366168297510878
+147776	Northeastern Illinois University	0.3658463536029215
+203447	Kent State University at Ashtabula	0.36472923881000724
+482699	South Georgia State College	0.3646497296227436
+207209	Langston University	0.36429191034876784
+420325	Yeshiva D'monsey Rabbinical College	0.36400687630729905
+180328	Little Big Horn College	0.36244969874606325
+197674	Yeshiva of Nitra Rabbinical College	0.3619444550788085
+159382	Louisiana State University-Alexandria	0.3604966097829699
+188304	Western New Mexico University	0.35611819776648934
+182564	Western Nevada College	0.35581746205918013
+193247	Mirrer Yeshiva Cent Institute	0.35552443738157635
+211608	Cheyney University of Pennsylvania	0.3555191999878688
+413617	College of Menominee Nation	0.3545290428102001
+132709	Broward College	0.3532761252351029
+406200	Wright Career College	0.3468867849464173
+414160	Baker College of Jackson	0.34205655676627056
+380377	Northwest Indian College	0.3393445291871754
+227377	The University of Texas at Brownsville	0.337438048900058
+100724	Alabama State University	0.33709268680798155
+220604	Le Moyne-Owen College	0.3317545743703385
+139250	College of Coastal Georgia	0.3269984016174825
+139463	Dalton State College	0.32692070354967334
+168838	Baker College of Owosso	0.3250151403901662
+201690	Central State University	0.3227069294801752
+160630	Southern University at New Orleans	0.31853528848188317
+176044	Mississippi Valley State University	0.3172226761775616
+139968	Gordon State College	0.3166891951805856
+431983	Yeshiva of the Telshe Alumni	0.31623770471190693
+171483	Northwestern Michigan College	0.3081661245320205
+157058	Kentucky State University	0.30756835604228766
+164872	Boston Architectural College	0.30741662691007576
+189857	Central Yeshiva Tomchei Tmimim Lubavitz	0.303139189446502
+217989	Denmark Technical College	0.3013588154103246
+404648	Baker College of Cadillac	0.2997886088379495
+131399	University of the District of Columbia	0.2996627715529486
+101675	Miles College	0.2964258902993635
+171298	Baker College of Muskegon	0.292489584737682
+405058	Yeshivas Novominsk	0.29134248409242486
+144883	East-West University	0.2854542995229496
+225432	University of Houston-Downtown	0.2793970232092722
+197018	United Talmudical Seminary	0.2747660029528303
+217624	Allen University	0.2741829935786941
+206817	Bacone College	0.2738025192300155
+135717	Miami Dade College	0.2725096217384054
+219374	Sinte Gleska University	0.27172995765495267
+409315	South Texas College	0.260140735785729
+482158	Middle Georgia State College	0.25743925648827803
+228884	Texas College	0.25222017187081214
+141839	University of Hawaii Maui College	0.24965114752874126
+200554	United Tribes Technical College	0.23689263784309472
+190655	CUNY New York City College of Technology	0.23592676362694726
+461847	Mesivta Keser Torah	0.23539396828205225
+190646	CUNY Medgar Evers College	0.23215983760695835
+217721	Benedict College	0.23144137178279273
+101073	Concordia College Alabama	0.22907195355722573
+168847	Baker College of Flint	0.22894361797785023
+219277	Oglala Lakota College	0.22855002238100486
+451398	Yeshiva Toras Chaim	0.2185122062764926
+161217	University of Maine at Augusta	0.21559449219876678
+475565	Stella and Charles Guttman Community College	0.21402059636562107
+225885	Jarvis Christian College	0.21271805685140266
+444167	Baker College of Allen Park	0.2119618303474901
+404082	Baker College of Clinton Township	0.20924876503852521
+404073	Baker College of Auburn Hills	0.20728419670899773
+229063	Texas Southern University	0.20724689311820177
+200466	Sitting Bull College	0.1927828352766866
+151810	Martin University	0.19200675662181538
+196583	Torah Temimah Talmudical Seminary	0.18928633285750449
+177551	Harris-Stowe State University	0.18453514352193298
+194736	Rabbinical College of Long Island	0.17556352411278806
+139621	East Georgia State College	0.1689490911025518
+196431	Talmudical Seminary Oholei Torah	0.16431206021704545
+138901	Atlanta Metropolitan State College	0.15156706611409945
+207397	Oklahoma State University-Oklahoma City	0.12655107510002764
+363712	Yeshivah Gedolah Rabbinical College	0.12436935861959292
+145497	Hebrew Theological College	0.11895360467626573
+182005	College of Southern Nevada	0.10835156609418208
+227429	Paul Quinn College	0.10249480486688355
+165167	Cambridge College	0.08958457066820395
+105297	Dine College	0.07444769063925055
+163204	University of Maryland-University College	0.04423963056373071

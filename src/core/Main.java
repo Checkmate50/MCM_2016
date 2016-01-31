@@ -4,20 +4,19 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Arrays;
 
 public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		File pos = new File("data/IPEDSUIDSmall.txt");
+		File pos = new File("data/IPEDSUID.txt");
 		File dat = new File("data/CohortsData.txt");
 		File dic = new File("data/ScorecardDictionary.txt");
 		MatrixHolder matrices = new MatrixHolder();
 		
 		//The eigenvectors from below give us coefficients:
-		double[] co = {.1058, .1058, .1904, -.1904, .1904, -.2056, .2056, -.3673, .3673, .4627, -.5481};
+		double[] co = {.1058, .1058, .1904, .1904, .2056, .3673, .4627, .1904, .2056, .3673, .5481};
 		//corresponding to categories:
-		String[] cat = {"ugds", "rpy_3yr_rt_supp", "ret", "pctpell", "gt_25k_p6", "ugds/gr", "gr", "grade", "vm", "md_earn_wne_p10", "tuition"};
+		String[] cat = {"ugds", "rpy_3yr_rt_supp", "ret", "gt_25k_p6", "gr", "vm", "md_earn_wne_p10", "pctpell", "ugds/gr", "grade", "tuition"};
 		
 		System.out.println("reading in data");
 		
@@ -43,10 +42,12 @@ public class Main {
 				"npt4_priv","npt41_priv","npt42_priv","npt43_priv","npt44_priv","npt45_priv",};
 		data.generateAverageTrait("tuition", tuition_avgs);
 		
-		String[] vm_avgs = {"pcip01","pcip03","pcip04","pcip05","pcip09","pcip10","pcip11","pcip12","pcip12","pcip13","pcip14","pcip15","pcip16","pcip19",
+		String[] sm_avgs = {"pcip01","pcip03","pcip04","pcip05","pcip09","pcip10","pcip11","pcip12","pcip13","pcip14","pcip15","pcip16","pcip19",
 				"pcip22","pcip23","pcip24","pcip25","pcip26","pcip27","pcip29","pcip30","pcip31","pcip38","pcip39",
 				"pcip40","pcip41","pcip42","pcip43","pcip44","pcip45","pcip46","pcip47","pcip48","pcip49","pcip50","pcip51","pcip52","pcip54"};
-		data.generateAverageTrait("vm", vm_avgs);
+		data.generateAveragePCIPTrait("sm", sm_avgs);
+		
+		data.generateRatioTrait("vm", "md_earn_wne_p10", "sm");
 		
 		System.out.println("generating comparison matrices");
 		
@@ -55,20 +56,27 @@ public class Main {
 			System.out.println(cat[i]);
 		}
 		
-		System.out.println("multiplying by coefficients");
+		System.out.println("\nmultiplying by coefficients");
 		
 		for (int i = 0; i < co.length; i++) {
 			matrices.getMatrix(cat[i]).internMul(co[i]);
 			System.out.println(cat[i]);
 		}
 		
-		System.out.println("summing up matrices");
+		System.out.println("\nsumming up matrices");
 		
-		data.generateEmptyMatrix("goal");
-		for (int i = 0; i < cat.length; i++) {
-			matrices.getMatrix("goal").internAdd(matrices.getMatrix(cat[i]));
-			System.out.println(cat[i]);
+		data.generateEmptyMatrix("positive");
+		data.generateEmptyMatrix("negative");
+		for (int i = 0; i < 7; i++) {
+			matrices.getMatrix("positive").internAdd(matrices.getMatrix(cat[i]));
 		}
+		for (int i = 7; i < cat.length; i++) {
+			matrices.getMatrix("negative").internAdd(matrices.getMatrix(cat[i]));
+		}
+		
+		System.out.println("dividing matrices");
+		
+		matrices.addMatrix("goal", matrices.getMatrix("positive").divPairwise(matrices.getMatrix("negative")));
 		
 		System.out.println("calculating scores");
 		

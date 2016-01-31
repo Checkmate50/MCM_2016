@@ -25,7 +25,11 @@ public class University implements Comparable<University> {
 	}
 	
 	public void calcScore(int index) {
-		score = matrices.getMatrix("goal").sumRow(index);
+		//2919 is # of universities --> 8520561 is # of universities squared
+		score = matrices.getMatrix("goal").sumRow(index)/2919.0;
+//		score = matrices.getMatrix("goal").sumCol(index)/2919.0;
+//		score = (matrices.getMatrix("goal").sumRow(index)*matrices.getMatrix("goal").sumCol(index))/8520561.0;
+//		score = matrices.getMatrix("goal").sumRow(index)/matrices.getMatrix("goal").sumCol(index);
 	}
 	
 	public int getUnitid() {
