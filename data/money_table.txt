@@ -1,0 +1,120 @@
+2298221&Albany College of Pharmacy and Health Sciences&2.9073614407359663\\
+\hline
+2035972&MCPHS University&2.5756037557117057\\
+\hline
+1974829&Harvard University&2.498255329373365\\
+\hline
+1969206&Washington and Lee University&2.4911424626686687\\
+\hline
+1940076&University of the Sciences&2.454291073018387\\
+\hline
+1859523&Babson College&2.3523871526395483\\
+\hline
+1842991&Princeton University&2.3314744559689107\\
+\hline
+1835366&Georgetown University&2.3218279859021873\\
+\hline
+1833123&Massachusetts Institute of Technology&2.3189899597031634\\
+\hline
+1823054&Stanford University&2.3062530590262558\\
+\hline
+1776365&Davidson College&2.2471891842988025\\
+\hline
+1771233&Yale University&2.240695872198194\\
+\hline
+1744123&Claremont McKenna College&2.206401493411599\\
+\hline
+1725619&Dartmouth College&2.182993010320524\\
+\hline
+1704119&Colgate University&2.1557936894217806\\
+\hline
+1699924&Hamilton College&2.1504868980675926\\
+\hline
+1691604&California Institute of Technology&2.139961738568075\\
+\hline
+1689919&Bates College&2.1378306512812593\\
+\hline
+1685722&Bentley University&2.1325205832344283\\
+\hline
+1680269&University of Pennsylvania&2.1256230503274893\\
+\hline
+1670842&Mount Carmel College of Nursing&2.113696956228899\\
+\hline
+1670226&Duke University&2.1129177526293295\\
+\hline
+1667043&Lehigh University&2.10889093439859\\
+\hline
+1666759&Lafayette College&2.1085319199263153\\
+\hline
+1657436&College of the Holy Cross&2.0967383579488503\\
+\hline
+1643405&Baptist Memorial College of Health Sciences&2.078988172398665\\
+\hline
+1640401&Tufts University&2.07518794480507\\
+\hline
+1630131&Middlebury College&2.0621961000256035\\
+\hline
+1626564&Trinity College&2.057683687562533\\
+\hline
+1622234&University of Notre Dame&2.0522050003489376\\
+\hline
+1620956&Columbia University in the City of New York&2.050588165087566\\
+\hline
+1616965&SUNY Maritime College&2.0455397553630457\\
+\hline
+1616291&Williams College&2.0446877247859305\\
+\hline
+1610230&Bowdoin College&2.0370195228023125\\
+\hline
+1603171&Franklin and Marshall College&2.0280901766413817\\
+\hline
+1599778&Muhlenberg College&2.023797173964573\\
+\hline
+1594022&Holy Family University&2.0165160803594984\\
+\hline
+1589472&Pomona College&2.0107593556982555\\
+\hline
+1588912&University of Richmond&2.0100520858421578\\
+\hline
+1587524&Haverford College&2.008295096188827\\
+\hline
+1577361&Stevens Institute of Technology&1.9954385174840639\\
+\hline
+1575629&Pepperdine University&1.9932483510523251\\
+\hline
+1574448&Saint Johns University&1.9917535697062096\\
+\hline
+1571590&Johns Hopkins University&1.9881386617044834\\
+\hline
+1571222&University of Connecticut-Stamford&1.9876734562877914\\
+\hline
+1563647&Wellesley College&1.9780902104774054\\
+\hline
+1547836&Fairfield University&1.9580879163191232\\
+\hline
+1547693&Colby College&1.9579069932300075\\
+\hline
+1545614&Rensselaer Polytechnic Institute&1.9552777409828033\\
+\hline
+1543418&Stonehill College&1.9524992584078353\\
+\hline
+1542807&Christian Brothers University&1.951726367695004\\
+\hline
+1542183&Amherst College&1.950937128636409\\
+\hline
+1537055&Vanderbilt University&1.9444500522240942\\
+\hline
+1532376&Gettysburg College&1.9385305422162953\\
+\hline
+1528438&Villanova University&1.9335490553311792\\
+\hline
+1527321&Bucknell University&1.9321360852372886\\
+\hline
+1525515&Worcester Polytechnic Institute&1.9298511444019393\\
+\hline
+1524303&Rice University&1.9283180351860627\\
+\hline
+1515834&Barnard College&1.9176040486769885\\
+\hline
+1502060&Vassar College&1.9001794773499592\\
+\hline

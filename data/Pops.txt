@@ -1,0 +1,12 @@
+Grade	Avg	All SAT and ACT fields listed in the data $^{[3]}$
+Tuition	Avg	All NPT fields listed in the data $^{[3]}$
+RET	Avg	RET_FT4,RET_FT14,RET_PT4,RET_PT14
+RPY-3Y	None	RPY_3YR_RT_SUPP
+Income	Avg	MD_EARN_WNE_p10
+RH25k	None	gt_25k_p6
+UGDS	None	UGDS
+GR	Avg	c150_4_pooled_supp, c200_4_pooled_supp
+SM	Sum	All PCIP fields listed in the data $^{[3]}$
+VM	Div	Income/SM
+Pctpell	None	PCTPELL
+ugds/gr	Div	UGDS/GR

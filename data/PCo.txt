@@ -1,0 +1,11 @@
+Grade	.3730
+Tuition	.5382
+RET	.2083
+RPY-3Y	.1073
+Income	.4516
+RH25k	.1934
+UGDS	.1073
+GR	.2083
+VM	.3730
+Pctpell	.2934
+ugds/gr	.2083

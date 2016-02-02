@@ -5,6 +5,10 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
+/**
+ * Credit to Bo Zhu and Chong Wang for developing the model
+ * @author Dietrich Geisler
+ */
 public class Matrix {
 	private double[][] matrix;
 	

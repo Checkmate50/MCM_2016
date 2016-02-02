@@ -1,0 +1,22 @@
+Grade&-6&Avoiding bias since schools with better students ought to perform better\\
+\hline
+Tuition&-9&A school must demonstrate more value the more students pay\\
+\hline
+RET&4&Low retention rates indicate that a school has low impact\\
+\hline
+RPY-3Y&2&Minor indicator that a school has good value relative to tuition\\
+\hline
+Income&8&Primary indicator for student success\\
+\hline
+RH25k&3&Decent indicator that a school provides consistent success\\
+\hline
+UGDS&2&Minor indicator of the amount of impact\\
+\hline
+GR&4&Good indicator that students are on track\\
+\hline
+VM&6&Strong indicator of a schools success rate at improving students\\
+\hline
+Pctpell&-3&Necessary to select against the Gates Foundation strategy$^{[5]}$\\
+\hline
+ugds/gr&-4&Necessary to select against the Lumina Foundation strategy$^{[6]}$\\
+\hline

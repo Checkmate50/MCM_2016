@@ -2,6 +2,10 @@ package core;
 
 import java.util.Hashtable;
 
+/**
+ * Credit to Bo Zhu and Chong Wang for developing the model
+ * @author Dietrich Geisler
+ */
 public class University implements Comparable<University> {
 	private int unitid;
 	private double score;
@@ -24,11 +28,11 @@ public class University implements Comparable<University> {
 		this.unitid = (int)(double)num_fields.get("unitid");
 	}
 	
-	public void calcScore(int index) {
+	public void calcScore(int index, int number) {
 		//2919 is # of universities --> 8520561 is # of universities squared
-		score = matrices.getMatrix("goal").sumRow(index)/2919.0;
-//		score = matrices.getMatrix("goal").sumCol(index)/2919.0;
-//		score = (matrices.getMatrix("goal").sumRow(index)*matrices.getMatrix("goal").sumCol(index))/8520561.0;
+		score = matrices.getMatrix("goal").sumRow(index)/(double)number;
+//		score = matrices.getMatrix("goal").sumCol(index)/(double)number;
+//		score = (matrices.getMatrix("goal").sumRow(index)*matrices.getMatrix("goal").sumCol(index))/(double)(number*number);
 //		score = matrices.getMatrix("goal").sumRow(index)/matrices.getMatrix("goal").sumCol(index);
 	}
 	
@@ -71,6 +75,6 @@ public class University implements Comparable<University> {
 	}
 	
 	public String toString() {
-		return unitid + "\t" + fields.get("instnm") + "\t" + score;
+		return score + "\t" + fields.get("instnm");
 	}
 }

@@ -1,0 +1,22 @@
+Grade&Average scores ACT/SAT scores, gives a measure of the quality of incoming students\\
+\hline
+Tuition&Gives a measure of the cost of the school\\
+\hline
+RET&Average student retention rate\\
+\hline
+RPY-3Y&3-year repayment rate of student loans, measures immediate student success\\
+\hline
+Income&Median income for students previously enrolled, primary measure of success\\
+\hline
+RH25k&Rate of students earning over 25,000/year, measures constistency of success\\
+\hline
+UGDS&Number of undergraduate degree-seeking students, measures impact\\
+\hline
+GR&4-year graduation rate\\
+\hline
+VM&Value of receiving a major at this school relative to the average\\
+\hline
+Pctpell&Ratio of students receiving pell grant funding, used to select against the goal of the Gates Foundation\\
+\hline
+ugds/gr&Ratio between number of undergraduates and the graduation rate, used to selecta against the goal of the Lumina Foundation\\
+\hline

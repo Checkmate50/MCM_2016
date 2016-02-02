@@ -5,6 +5,10 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
+/**
+ * Credit to Bo Zhu and Chong Wang for developing the model
+ * @author Dietrich Geisler
+ */
 public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -13,10 +17,24 @@ public class Main {
 		File dic = new File("data/ScorecardDictionary.txt");
 		MatrixHolder matrices = new MatrixHolder();
 		
-		//The eigenvectors from below give us coefficients:
-		double[] co = {.1058, .1058, .1904, .1904, .2056, .3673, .4627, .1904, .2056, .3673, .5481};
+		//The eigenvectors from the coefficient_calculator package give us coefficients:
+//		double[] co = {.1058, .1058, .1904, .1904, .2056, .3673, .4627, .1904, .2056, .3673, .5481};
 		//corresponding to categories:
-		String[] cat = {"ugds", "rpy_3yr_rt_supp", "ret", "gt_25k_p6", "gr", "vm", "md_earn_wne_p10", "pctpell", "ugds/gr", "grade", "tuition"};
+//		String[] cat = {"ugds", "rpy_3yr_rt_supp", "ret", "gt_25k_p6", "gr", "vm", "md_earn_wne_p10", "pctpell", "ugds/gr", "grade", "tuition"};
+		
+		//Alternate coefficients (selecting for more retention rate)
+		double[] co = {.1073, .1073, .1934, .2083, .2083, .3730, .4516, .1934, .2083, .3730, .5382};
+		//corresponding to categories:
+		String[] cat = {"ugds", "rpy_3yr_rt_supp", "gt_25k_p6", "ret", "gr", "vm", "md_earn_wne_p10", "pctpell", "ugds/gr", "grade", "tuition"};
+		
+		//Alternate coefficients (selecting for more vm)
+//		double[] co = {.1060, .1060, .2031, .2108, .2108, .4217, .4217, .2031, .2108, .3793, .5120};
+		//corresponding to categories:
+//		String[] cat = {"ugds", "rpy_3yr_rt_supp", "gt_25k_p6", "ret", "gr", "vm", "md_earn_wne_p10", "pctpell", "ugds/gr", "grade", "tuition"};
+		
+		//Ignoring the strategies of the other foundations
+//		double[] co = {0.1355,0.1355,0.1576,0.1576,0.2948,0.3247,0.5549,0.3247,0.5549};
+//		String[] cat = {"ugds", "rpy_3yr_rt_supp", "ret", "gt_25k_p6", "gr", "vm", "md_earn_wne_p10", "grade", "tuition"};
 		
 		System.out.println("reading in data");
 		
@@ -25,11 +43,12 @@ public class Main {
 		System.out.println("generating additional traits");
 		
 		data.removeTrait("hcm2", 1);
+		data.setMinTrait("ugds", 900);
 		
 		String[] ref_avgs = {"ret_ft4","ret_ftl4","ret_pt4","ret_ptl4",};
 		data.generateAverageTrait("ret", ref_avgs);
 		
-		String[] gr_avgs = {"c150_4_pooled_supp","c150_4_pooled_supp"};
+		String[] gr_avgs = {"c150_4_pooled_supp","c200_l4_pooled_supp"};
 		data.generateAverageTrait("gr", gr_avgs);
 		
 		data.generateRatioTrait("ugds/gr", "ugds", "gr");
@@ -97,51 +116,7 @@ public class Main {
 		}
 		
 		System.out.println("done");
-		
-//		double[] vals = {6, 9, 3, 2, 8, 3, 2, 4, 6, 4, 3};
-//		Arrays.sort(vals);
-//		System.out.println(generateCoeffecients(vals));
 	}
 	
-	/**
-	 * Generates special matrix.  Assumes that each element of row is an integer between 1 and row.length inclusive
-	 * @param row
-	 * @return
-	 */
-	public static Matrix generateCoeffecients(double[] row) {
-		double[][] toReturn = new double[row.length][row.length];
-		for (int i = 0; i < row.length; i++)
-			for (int j = 0; j < row.length; j++)
-				toReturn[i][j] = specialRound(row[i]/row[j]);
-		for (int i = 0; i < row.length; i++)
-			for (int j = i; j < row.length; j++)
-				if (Math.abs(toReturn[i][j]*toReturn[j][i]-1)>.0001) {
-					if (toReturn[i][j] >= 1)
-						toReturn[i][j] += 1;
-					else
-						toReturn[j][i] += 1;
-				}
-		return new Matrix(toReturn);
-	}
 	
-	/**
-	 * Assumes that 0 < value < maxValue
-	 * @param value
-	 * @param maxValue
-	 * @return
-	 */
-	public static double specialRound(double value) {
-		if (value >= 0.75)
-			return Math.round(value);
-		double min = 100;
-		int val = 0;
-		for (int i = 1; i <= 9; i++) {
-			if (Math.abs(value-(1.0/i)) < min) {
-				min = Math.abs(value-(1.0/i));
-				//System.out.println(min);
-				val = i;
-			}
-		}
-		return 1.0/(double)val;
-	}
 }

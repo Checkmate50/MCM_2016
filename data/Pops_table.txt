@@ -1,0 +1,24 @@
+Grade&Avg&All SAT and ACT fields listed in the data $^{[3]}$\\
+\hline
+Tuition&Avg&All NPT fields listed in the data $^{[3]}$\\
+\hline
+RET&Avg&RET_FT4,RET_FT14,RET_PT4,RET_PT14\\
+\hline
+RPY-3Y&None&RPY_3YR_RT_SUPP\\
+\hline
+Income&Avg&MD_EARN_WNE_p10\\
+\hline
+RH25k&None&gt_25k_p6\\
+\hline
+UGDS&None&UGDS\\
+\hline
+GR&Avg&c150_4_pooled_supp, c200_4_pooled_supp\\
+\hline
+SM&Sum&All PCIP fields listed in the data $^{[3]}$\\
+\hline
+VM&Div&Income/SM\\
+\hline
+Pctpell&None&PCTPELL\\
+\hline
+ugds/gr&Div&UGDS/GR\\
+\hline

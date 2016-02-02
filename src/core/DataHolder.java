@@ -10,7 +10,10 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.Hashtable;
 
-
+/**
+ * Credit to Bo Zhu and Chong Wang for developing the model
+ * @author Dietrich Geisler
+ */
 public class DataHolder {
 	private String[] titles;
 	private double[] averages;
@@ -274,6 +277,24 @@ public class DataHolder {
 		}
 	}
 	
+	public void setMinTrait(String title, double value) {
+		for (int i = 0; i < data.size(); i++) {
+			if (data.get(i).getField(title) < value) {
+				data.remove(i);
+				i--;
+			}
+		}
+	}
+	
+	public void setMinTrait(String title, int value) {
+		for (int i = 0; i < data.size(); i++) {
+			if ((int)data.get(i).getField(title) < value) {
+				data.remove(i);
+				i--;
+			}
+		}
+	}
+	
 	public void generateEmptyMatrix(String title) {
 		double[][] build = new double[data.size()][data.size()];
 		for(int i = 0; i < data.size(); i++) {
@@ -319,7 +340,7 @@ public class DataHolder {
 	
 	public void calcScores() {
 		for (int i = 0; i < data.size(); i++)
-			data.get(i).calcScore(i);
+			data.get(i).calcScore(i, data.size());
 	}
 	
 	public void sort() {

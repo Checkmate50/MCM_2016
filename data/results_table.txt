@@ -1,0 +1,4514 @@
+3.5134158450906425&United States Merchant Marine Academy\\
+\hline
+2.9073614407359663&Albany College of Pharmacy and Health Sciences\\
+\hline
+2.5756037557117057&MCPHS University\\
+\hline
+2.498255329373365&Harvard University\\
+\hline
+2.4911424626686687&Washington and Lee University\\
+\hline
+2.454291073018387&University of the Sciences\\
+\hline
+2.393798391342069&Massachusetts Maritime Academy\\
+\hline
+2.3523871526395483&Babson College\\
+\hline
+2.3314744559689107&Princeton University\\
+\hline
+2.3218279859021873&Georgetown University\\
+\hline
+2.3189899597031634&Massachusetts Institute of Technology\\
+\hline
+2.3062530590262558&Stanford University\\
+\hline
+2.2471891842988025&Davidson College\\
+\hline
+2.240695872198194&Yale University\\
+\hline
+2.2238597625849708&California Maritime Academy\\
+\hline
+2.206401493411599&Claremont McKenna College\\
+\hline
+2.182993010320524&Dartmouth College\\
+\hline
+2.1557936894217806&Colgate University\\
+\hline
+2.1504868980675926&Hamilton College\\
+\hline
+2.139961738568075&California Institute of Technology\\
+\hline
+2.1378306512812593&Bates College\\
+\hline
+2.1325205832344283&Bentley University\\
+\hline
+2.1256230503274893&University of Pennsylvania\\
+\hline
+2.113696956228899&Mount Carmel College of Nursing\\
+\hline
+2.1129177526293295&Duke University\\
+\hline
+2.10889093439859&Lehigh University\\
+\hline
+2.1085319199263153&Lafayette College\\
+\hline
+2.0967383579488503&College of the Holy Cross\\
+\hline
+2.078988172398665&Baptist Memorial College of Health Sciences\\
+\hline
+2.0761756868875034&Maine Maritime Academy\\
+\hline
+2.07518794480507&Tufts University\\
+\hline
+2.0621961000256035&Middlebury College\\
+\hline
+2.057683687562533&Trinity College\\
+\hline
+2.0522050003489376&University of Notre Dame\\
+\hline
+2.050588165087566&Columbia University in the City of New York\\
+\hline
+2.0455397553630457&SUNY Maritime College\\
+\hline
+2.0446877247859305&Williams College\\
+\hline
+2.0370195228023125&Bowdoin College\\
+\hline
+2.0280901766413817&Franklin and Marshall College\\
+\hline
+2.023797173964573&Muhlenberg College\\
+\hline
+2.0165160803594984&Holy Family University\\
+\hline
+2.0107593556982555&Pomona College\\
+\hline
+2.0100520858421578&University of Richmond\\
+\hline
+2.008295096188827&Haverford College\\
+\hline
+1.9954385174840639&Stevens Institute of Technology\\
+\hline
+1.9932483510523251&Pepperdine University\\
+\hline
+1.9917535697062096&Saint Johns University\\
+\hline
+1.9881386617044834&Johns Hopkins University\\
+\hline
+1.9876734562877914&University of Connecticut-Stamford\\
+\hline
+1.9780902104774054&Wellesley College\\
+\hline
+1.9580879163191232&Fairfield University\\
+\hline
+1.9579069932300075&Colby College\\
+\hline
+1.9552777409828033&Rensselaer Polytechnic Institute\\
+\hline
+1.9524992584078353&Stonehill College\\
+\hline
+1.951726367695004&Christian Brothers University\\
+\hline
+1.950937128636409&Amherst College\\
+\hline
+1.9444500522240942&Vanderbilt University\\
+\hline
+1.9385305422162953&Gettysburg College\\
+\hline
+1.9335490553311792&Villanova University\\
+\hline
+1.9321360852372886&Bucknell University\\
+\hline
+1.9298511444019393&Worcester Polytechnic Institute\\
+\hline
+1.9283180351860627&Rice University\\
+\hline
+1.9176040486769885&Barnard College\\
+\hline
+1.9001794773499592&Vassar College\\
+\hline
+1.8998523704086785&Saint Joseph's College-New York\\
+\hline
+1.8946961381544902&Union College\\
+\hline
+1.8924803753014465&University of Chicago\\
+\hline
+1.8922169236493194&University of Mary\\
+\hline
+1.8914149551024353&Brown University\\
+\hline
+1.8896457056465383&Yeshiva University\\
+\hline
+1.8825842118819403&Molloy College\\
+\hline
+1.8814202384713163&Trinity University\\
+\hline
+1.8779775662956593&Embry-Riddle Aeronautical University-Worldwide\\
+\hline
+1.8741292536967638&Connecticut College\\
+\hline
+1.8711030120545287&Virginia Military Institute\\
+\hline
+1.8700541221569877&Dickinson College\\
+\hline
+1.8698443248244978&Clarkson University\\
+\hline
+1.8670258424386503&Santa Clara University\\
+\hline
+1.8639759910719287&Augustana College\\
+\hline
+1.8578761926596765&Illinois Institute of Technology\\
+\hline
+1.857447906716396&Denison University\\
+\hline
+1.8541737950225035&Cornell University\\
+\hline
+1.8474790901652438&Rose-Hulman Institute of Technology\\
+\hline
+1.8465724884416204&Case Western Reserve University\\
+\hline
+1.8443907330926406&Assumption College\\
+\hline
+1.8435874476095788&University of Connecticut-Tri-Campus\\
+\hline
+1.8394289173106206&Providence College\\
+\hline
+1.8391829554413934&Pitzer College\\
+\hline
+1.8327137833114575&Manhattan College\\
+\hline
+1.8306364881624744&Washington University in St Louis\\
+\hline
+1.8283897323489902&Creighton University\\
+\hline
+1.8264285092122146&Bryant University\\
+\hline
+1.82576743331799&Saint Anselm College\\
+\hline
+1.823721967869468&Illinois Wesleyan University\\
+\hline
+1.8220585130758038&Wake Forest University\\
+\hline
+1.8191296360107225&Loyola University Maryland\\
+\hline
+1.816279453326823&Kettering University\\
+\hline
+1.8130631658658465&Ohio Northern University\\
+\hline
+1.8113391214450871&Saint Francis University\\
+\hline
+1.8089197345272694&Furman University\\
+\hline
+1.8087937391742284&Milwaukee School of Engineering\\
+\hline
+1.8031284425787097&Augustana College\\
+\hline
+1.801617202097042&Rockhurst University\\
+\hline
+1.7940472179441826&Brandeis University\\
+\hline
+1.7921728316548942&Kalamazoo College\\
+\hline
+1.7886284558246441&Gwynedd Mercy University\\
+\hline
+1.7867050382744374&Kenyon College\\
+\hline
+1.783851353871724&Boston College\\
+\hline
+1.7838503588772974&Washington & Jefferson College\\
+\hline
+1.7836391472654445&Drake University\\
+\hline
+1.7817908018938633&Hampden-Sydney College\\
+\hline
+1.7811078966383962&Carleton College\\
+\hline
+1.7795167670035499&College of Saint Benedict\\
+\hline
+1.77802424467619&Susquehanna University\\
+\hline
+1.7763993668193454&Adventist University of Health Sciences\\
+\hline
+1.7733023952372633&Wesleyan University\\
+\hline
+1.771850514278962&Gustavus Adolphus College\\
+\hline
+1.770006345272553&Wheeling Jesuit University\\
+\hline
+1.769073204683266&Siena College\\
+\hline
+1.7685237809261323&Linfield College-McMinnville Campus\\
+\hline
+1.7651895496412076&Saint Norbert College\\
+\hline
+1.7641271315434313&Presbyterian College\\
+\hline
+1.7635570313468014&Thomas More College\\
+\hline
+1.7604575600613699&Wagner College\\
+\hline
+1.75916331790378&Carnegie Mellon University\\
+\hline
+1.7554898054412036&St Thomas Aquinas College\\
+\hline
+1.7549545870131185&Pennsylvania College of Health Sciences\\
+\hline
+1.7545352423443337&Georgia Institute of Technology-Main Campus\\
+\hline
+1.7543594951818227&Mount St Mary's University\\
+\hline
+1.7521422510121447&Juniata College\\
+\hline
+1.7511120719374476&Northwestern University\\
+\hline
+1.7507025158683993&University of Saint Joseph\\
+\hline
+1.7495868066390703&Saint Mary's College\\
+\hline
+1.7490589996394752&Rhodes College\\
+\hline
+1.7481864662885227&Moravian College\\
+\hline
+1.7479966947778145&Clark University\\
+\hline
+1.745747217997861&St Lawrence University\\
+\hline
+1.7457352383833376&University of Scranton\\
+\hline
+1.7454406016415391&Loras College\\
+\hline
+1.741966257934272&Dominican University\\
+\hline
+1.74180604609428&Southwestern University\\
+\hline
+1.7417650597059973&Notre Dame of Maryland University\\
+\hline
+1.741179344366539&University of Hawaii-West Oahu\\
+\hline
+1.7387094883496874&Swarthmore College\\
+\hline
+1.738668545964755&Bryn Mawr College\\
+\hline
+1.7375865583180765&Elmhurst College\\
+\hline
+1.7371702960641597&St Francis College\\
+\hline
+1.7360960622638224&Duquesne University\\
+\hline
+1.735663695790657&Samford University\\
+\hline
+1.7353207462033515&DePauw University\\
+\hline
+1.7332264218995912&Saint Joseph's University\\
+\hline
+1.7328661783980295&John Carroll University\\
+\hline
+1.732239538887465&Saint Vincent College\\
+\hline
+1.7301736115362296&The College of Saint Scholastica\\
+\hline
+1.7289592286689086&John Brown University\\
+\hline
+1.7286921255394196&Ursinus College\\
+\hline
+1.7281103786197896&Gonzaga University\\
+\hline
+1.7273488862762612&Westminster College\\
+\hline
+1.7270807461085564&McDaniel College\\
+\hline
+1.7248719096896905&Simpson College\\
+\hline
+1.7246485998009529&Scripps College\\
+\hline
+1.72319760109605&Elizabethtown College\\
+\hline
+1.722952244159602&The College of New Jersey\\
+\hline
+1.7217498267041822&Washington College\\
+\hline
+1.7207145752342556&University of Redlands\\
+\hline
+1.7201311882962647&Austin College\\
+\hline
+1.7181217479467055&Niagara University\\
+\hline
+1.7164205150477692&Mount Mercy University\\
+\hline
+1.7151910391257505&University of Portland\\
+\hline
+1.714441168907716&Our Lady of the Lake College\\
+\hline
+1.7141801075261014&Waynesburg University\\
+\hline
+1.7128264841822394&Baker University\\
+\hline
+1.7125624816185898&Occidental College\\
+\hline
+1.7124716035807483&George Washington University\\
+\hline
+1.7120428246871764&Smith College\\
+\hline
+1.7118309036279724&Regis University\\
+\hline
+1.7117325949199718&Centre College\\
+\hline
+1.7094429950004728&Marymount University\\
+\hline
+1.7086132961786638&Rivier University\\
+\hline
+1.7082230322618042&University of Washington-Bothell Campus\\
+\hline
+1.7061207706890444&University of St Francis\\
+\hline
+1.7058739062833148&Western New England University\\
+\hline
+1.7039942056921786&Merrimack College\\
+\hline
+1.703380325855074&Bridgewater College\\
+\hline
+1.7022864774861994&Hobart William Smith Colleges\\
+\hline
+1.701970253294382&La Salle University\\
+\hline
+1.7015964688016165&Misericordia University\\
+\hline
+1.7013198263711935&North Central College\\
+\hline
+1.7010859282955855&Simmons College\\
+\hline
+1.7000316911089166&University of Jamestown\\
+\hline
+1.6990153646218467&Nebraska Wesleyan University\\
+\hline
+1.6970001083346233&Newman University\\
+\hline
+1.6964520811880333&Emory University\\
+\hline
+1.695680226830373&St Olaf College\\
+\hline
+1.6951303336127388&Wofford College\\
+\hline
+1.6949380616566736&Grinnell College\\
+\hline
+1.6942584560863532&Saint Michael's College\\
+\hline
+1.6916068023635789&Wartburg College\\
+\hline
+1.6904390499622488&Saint Ambrose University\\
+\hline
+1.6896492372169887&Le Moyne College\\
+\hline
+1.6888846221155438&Citadel Military College of South Carolina\\
+\hline
+1.6881350210234707&College of Mount St Joseph\\
+\hline
+1.6874064530691057&The College of Wooster\\
+\hline
+1.6866780834978519&Saint Martin's University\\
+\hline
+1.6850327354330348&Carroll College\\
+\hline
+1.684405854442192&College of Our Lady of the Elms\\
+\hline
+1.6798689266954119&Lebanon Valley College\\
+\hline
+1.679159387949916&King's College\\
+\hline
+1.679112616037383&Colorado School of Mines\\
+\hline
+1.678671363892435&Northwood University-Michigan\\
+\hline
+1.6777987575411117&College of Mount Saint Vincent\\
+\hline
+1.6774036258977145&Allegheny College\\
+\hline
+1.6768770431690732&Bradley University\\
+\hline
+1.6765090464251635&Mount Holyoke College\\
+\hline
+1.675792274268412&Albion College\\
+\hline
+1.6751447846652057&Cedar Crest College\\
+\hline
+1.6750542859861122&D'Youville College\\
+\hline
+1.6747073865392001&Eastern Mennonite University\\
+\hline
+1.6742323241850505&Valparaiso University\\
+\hline
+1.674212173297493&Macalester College\\
+\hline
+1.673908676872994&Concordia University-Saint Paul\\
+\hline
+1.6736765807530753&Gannon University\\
+\hline
+1.6701195501619994&Skidmore College\\
+\hline
+1.666811624715846&University of Colorado Denver\\
+\hline
+1.6662103138795255&University of Rochester\\
+\hline
+1.6647999443752164&St Mary's College of Maryland\\
+\hline
+1.6646414607295568&Wheaton College\\
+\hline
+1.6641196951450674&Drew University\\
+\hline
+1.6639955011868908&Iona College\\
+\hline
+1.6632363133920751&Springfield College\\
+\hline
+1.6627188555561552&Alma College\\
+\hline
+1.66250678959367&Coe College\\
+\hline
+1.6617892057908203&Marist College\\
+\hline
+1.6612675756143775&Randolph-Macon College\\
+\hline
+1.66000659660575&Catholic University of America\\
+\hline
+1.6597560003186562&Westminster College\\
+\hline
+1.6595852634237176&Aquinas College\\
+\hline
+1.65956129378957&Goucher College\\
+\hline
+1.6587541561818147&Central College\\
+\hline
+1.6586514197482018&Butler University\\
+\hline
+1.6580418532896928&Concordia College at Moorhead\\
+\hline
+1.654459812975038&Lawrence University\\
+\hline
+1.6543733440505999&College of Saint Elizabeth\\
+\hline
+1.6539752497994935&Brigham Young University-Hawaii\\
+\hline
+1.6536739465242813&AIB College of Business\\
+\hline
+1.6534225848714517&Viterbo University\\
+\hline
+1.6530031701402088&Georgetown College\\
+\hline
+1.6522103857101769&York College Pennsylvania\\
+\hline
+1.6520615945356538&Knox College\\
+\hline
+1.6517836317914467&Hanover College\\
+\hline
+1.6513588155717722&Illinois College\\
+\hline
+1.6496925742384638&Quinnipiac University\\
+\hline
+1.6480964866023022&University of Mary Washington\\
+\hline
+1.6464135227043573&Louisiana College\\
+\hline
+1.6452573629308753&St Bonaventure University\\
+\hline
+1.6444797831770819&Canisius College\\
+\hline
+1.6442074740268198&DeSales University\\
+\hline
+1.6425816700330835&New Mexico Institute of Mining and Technology\\
+\hline
+1.6423576292930206&California Lutheran University\\
+\hline
+1.6405375608931998&Lewis University\\
+\hline
+1.6404679994858231&Missouri University of Science and Technology\\
+\hline
+1.6383799709090738&LeTourneau University\\
+\hline
+1.6374681661509254&Concordia University-Nebraska\\
+\hline
+1.6353118314045427&University of San Diego\\
+\hline
+1.6321137357446873&University of St Thomas\\
+\hline
+1.631932379079722&Spring Hill College\\
+\hline
+1.6316044685403845&Westminster College\\
+\hline
+1.6308306387425486&Elon University\\
+\hline
+1.6303786199665031&Doane College-Crete\\
+\hline
+1.629983157779318&Fontbonne University\\
+\hline
+1.6258678469739296&Daemen College\\
+\hline
+1.625183733234911&Hope College\\
+\hline
+1.625049326737863&Saint John Fisher College\\
+\hline
+1.624804944837366&Lycoming College\\
+\hline
+1.6227205449838704&Stevenson University\\
+\hline
+1.622616222010903&Pennsylvania State University-Penn State Brandywine\\
+\hline
+1.6223207513319509&Walsh University\\
+\hline
+1.6205397900395695&Notre Dame de Namur University\\
+\hline
+1.6196437712737046&Malone University\\
+\hline
+1.619547300000999&Pacific Union College\\
+\hline
+1.6193956803391316&Albertus Magnus College\\
+\hline
+1.6189239094646353&Seton Hall University\\
+\hline
+1.6178697477392936&Trinity Christian College\\
+\hline
+1.617161360146002&College of William and Mary\\
+\hline
+1.6166780293273857&University of Dayton\\
+\hline
+1.6162124847053734&Baldwin Wallace University\\
+\hline
+1.6150433884784114&Sewanee-The University of the South\\
+\hline
+1.613520320630953&University of Washington-Tacoma Campus\\
+\hline
+1.6117405841213317&Dominican College of Blauvelt\\
+\hline
+1.6115723678066958&Ouachita Baptist University\\
+\hline
+1.6113403026382116&MidAmerica Nazarene University\\
+\hline
+1.611220845702875&Caldwell College\\
+\hline
+1.6090612837677547&William Jewell College\\
+\hline
+1.607819147600689&University of San Francisco\\
+\hline
+1.6076867192428272&Luther College\\
+\hline
+1.6073755754720132&University of the Pacific\\
+\hline
+1.6065199736503935&Taylor University\\
+\hline
+1.6061976859770228&University of Dallas\\
+\hline
+1.6059716575442227&Willamette University\\
+\hline
+1.6054122796073786&Roberts Wesleyan College\\
+\hline
+1.6053117061329532&Immaculata University\\
+\hline
+1.6052103904314485&Hastings College\\
+\hline
+1.6046227552802756&Wilkes University\\
+\hline
+1.604498114304134&Texas Lutheran University\\
+\hline
+1.6044498293563032&University of Saint Francis-Fort Wayne\\
+\hline
+1.6043568258379788&Fairleigh Dickinson University-Metropolitan Campus\\
+\hline
+1.6039981917245252&Xavier University\\
+\hline
+1.603759139045446&Salve Regina University\\
+\hline
+1.6035862097402547&Bellarmine University\\
+\hline
+1.6021290662385994&Westmont College\\
+\hline
+1.6007463201040923&Marquette University\\
+\hline
+1.6003711666251565&Sacred Heart University\\
+\hline
+1.600020133499171&Valley City State University\\
+\hline
+1.6000007208524867&Walla Walla University\\
+\hline
+1.5993379137520338&The University of Texas of the Permian Basin\\
+\hline
+1.5985758016601337&Saint Mary's University of Minnesota\\
+\hline
+1.598564761391914&Wheaton College\\
+\hline
+1.598420253741985&Carlow University\\
+\hline
+1.5981690043907488&Lake Forest College\\
+\hline
+1.597345416631837&Seattle University\\
+\hline
+1.5972206576671648&Birmingham Southern College\\
+\hline
+1.5965416913598174&University of Virginia-Main Campus\\
+\hline
+1.595733940414553&Widener University-Main Campus\\
+\hline
+1.5954251816058185&Endicott College\\
+\hline
+1.5949864919977335&Michigan Technological University\\
+\hline
+1.5942202591349766&Elmira College\\
+\hline
+1.5936855261889553&AVTEC-Alaska's Institute of Technology\\
+\hline
+1.5918803223159756&Whitworth University\\
+\hline
+1.5917763150997872&Saint Mary's College of California\\
+\hline
+1.5916105075099014&Dickinson State University\\
+\hline
+1.5915630565223817&Rutgers University-Camden\\
+\hline
+1.5913337916740573&Transylvania University\\
+\hline
+1.5905407964612608&West Virginia Wesleyan College\\
+\hline
+1.5896915976077959&Lincoln Memorial University\\
+\hline
+1.5888252654414712&University of Charleston\\
+\hline
+1.5882266698223995&Monmouth College\\
+\hline
+1.5880590501520426&Hamline University\\
+\hline
+1.5879758468071385&Pacific Lutheran University\\
+\hline
+1.5877011387096294&Calumet College of Saint Joseph\\
+\hline
+1.585182657562774&Jacksonville University\\
+\hline
+1.5848205775799695&Southwestern College\\
+\hline
+1.5847447304328282&Colorado College\\
+\hline
+1.582928293813395&Benedictine University\\
+\hline
+1.5828146136506405&Nazareth College\\
+\hline
+1.581485698513077&Cornell College\\
+\hline
+1.5813093747343998&Oklahoma Baptist University\\
+\hline
+1.5806300266155129&The University of Findlay\\
+\hline
+1.58054069343319&Alderson Broaddus University\\
+\hline
+1.5793663545861238&North Park University\\
+\hline
+1.579097349575745&The College of Idaho\\
+\hline
+1.578982419703096&Carroll University\\
+\hline
+1.5789818373509057&American University\\
+\hline
+1.5786399629560017&Oklahoma Wesleyan University\\
+\hline
+1.577948386233505&Saint Xavier University\\
+\hline
+1.577611861552724&Pennsylvania State University-Penn State York\\
+\hline
+1.5760932786827682&Dominican University of California\\
+\hline
+1.575217941362505&Oberlin College\\
+\hline
+1.5752128883248002&Hood College\\
+\hline
+1.5750190418400196&Cardinal Stritch University\\
+\hline
+1.5735300438329891&Georgian Court University\\
+\hline
+1.5732427765713757&Augsburg College\\
+\hline
+1.572419520816805&Shorter University\\
+\hline
+1.572129873562384&Ithaca College\\
+\hline
+1.5721268987554766&Franklin College\\
+\hline
+1.5716504107458986&McKendree University\\
+\hline
+1.5714517439169426&Manhattanville College\\
+\hline
+1.5702147189236528&La Roche College\\
+\hline
+1.56932802798168&Messiah College\\
+\hline
+1.5687891283793656&University of Puget Sound\\
+\hline
+1.568504115178023&Nichols College\\
+\hline
+1.568194736412865&Covenant College\\
+\hline
+1.5671051552372395&Beloit College\\
+\hline
+1.5653745624906552&University of St Thomas\\
+\hline
+1.5652898750416295&SUNY College at Geneseo\\
+\hline
+1.5640691339081843&Clarke University\\
+\hline
+1.5637989855223586&Oglethorpe University\\
+\hline
+1.5637709966281874&Cabrini College\\
+\hline
+1.5626813133679573&Loyola Marymount University\\
+\hline
+1.5625945286126177&Northeastern University\\
+\hline
+1.5604054662756253&Texas Christian University\\
+\hline
+1.5600824941798979&Millikin University\\
+\hline
+1.5597387443802684&Philadelphia University\\
+\hline
+1.559464605783113&Southern Methodist University\\
+\hline
+1.558983671792846&Point Loma Nazarene University\\
+\hline
+1.5585065684626835&Rocky Mountain College\\
+\hline
+1.557769328662194&Washington Adventist University\\
+\hline
+1.5562766785260673&Gordon College\\
+\hline
+1.5560226624454614&North Dakota State College of Science\\
+\hline
+1.5553160931974834&Bryan College-Dayton\\
+\hline
+1.5531774736848003&The Master's College and Seminary\\
+\hline
+1.5530761831958018&Bethel University\\
+\hline
+1.551909331032252&Aurora University\\
+\hline
+1.5511891942698783&Maryville University of Saint Louis\\
+\hline
+1.5511121241061898&Graceland University-Lamoni\\
+\hline
+1.5509400854470026&Whitman College\\
+\hline
+1.5502267189540682&Lawrence Technological University\\
+\hline
+1.550225806961421&Mercy College of Ohio\\
+\hline
+1.5497661418069915&Monmouth University\\
+\hline
+1.5494226468409813&Cedarville University\\
+\hline
+1.5479112929170928&Albright College\\
+\hline
+1.5474127673469587&Marian University\\
+\hline
+1.5470925707372065&Saint Edward's University\\
+\hline
+1.5467979806911818&University of Evansville\\
+\hline
+1.5464463299885949&Rutgers University-Newark\\
+\hline
+1.5463312200244923&University of Denver\\
+\hline
+1.5462902661237676&SUNY at Binghamton\\
+\hline
+1.544932288940496&Emory & Henry College\\
+\hline
+1.5436025548460608&Avila University\\
+\hline
+1.5430098954930016&Milligan College\\
+\hline
+1.54291681993651&University of Southern California\\
+\hline
+1.5425414270040358&Trevecca Nazarene University\\
+\hline
+1.541858365395057&Missouri Baptist University\\
+\hline
+1.541815331008359&South Dakota School of Mines and Technology\\
+\hline
+1.5410986573727359&Mount Saint Mary College\\
+\hline
+1.540868128892394&Wingate University\\
+\hline
+1.5408455721151417&Vaughn College of Aeronautics and Technology\\
+\hline
+1.5408284632292224&Embry-Riddle Aeronautical University-Daytona Beach\\
+\hline
+1.540562863000727&Lynchburg College\\
+\hline
+1.5391803895996563&Wisconsin Lutheran College\\
+\hline
+1.5380691302599512&Truman State University\\
+\hline
+1.537986580843514&University of Sioux Falls\\
+\hline
+1.5374894309100664&Embry-Riddle Aeronautical University-Prescott\\
+\hline
+1.5374816925696908&Fashion Institute of Technology\\
+\hline
+1.5373914262700479&University of Baltimore\\
+\hline
+1.536716462003387&George Fox University\\
+\hline
+1.5356313510857482&Bates Technical College\\
+\hline
+1.535438345135479&Ramapo College of New Jersey\\
+\hline
+1.5346674908029534&Roanoke College\\
+\hline
+1.5345832993184885&Hannibal-LaGrange University\\
+\hline
+1.5342270941656568&Rider University\\
+\hline
+1.5340346544813188&Edgewood College\\
+\hline
+1.5334373310396763&Benedictine College\\
+\hline
+1.5317182917296979&Fairleigh Dickinson University-College at Florham\\
+\hline
+1.5314717606414432&Mercer University\\
+\hline
+1.529667483858236&SUNY College of Environmental Science and Forestry\\
+\hline
+1.5281507192645578&Northwestern College\\
+\hline
+1.527956008694268&Hartwick College\\
+\hline
+1.5274752106387641&Marietta College\\
+\hline
+1.5265246380064683&Brenau University\\
+\hline
+1.5253167981034037&Ohio State University-Marion Campus\\
+\hline
+1.5244350995465223&Medaille College\\
+\hline
+1.5237475507483573&Southern Wesleyan University\\
+\hline
+1.5231588244720555&Muskingum University\\
+\hline
+1.5230591841872831&New Jersey Institute of Technology\\
+\hline
+1.5229120097194893&University of Delaware\\
+\hline
+1.5212072090091888&Concordia University-Chicago\\
+\hline
+1.5211495924684717&Marian University\\
+\hline
+1.520660920855862&University of Minnesota-Crookston\\
+\hline
+1.520456508290205&Concordia University-Portland\\
+\hline
+1.5197550735097272&Dallas Baptist University\\
+\hline
+1.5195798445892197&Husson University\\
+\hline
+1.5194026607682634&Hendrix College\\
+\hline
+1.5192741034253558&The Sage Colleges\\
+\hline
+1.519112861700665&Pace University-New York\\
+\hline
+1.5190386031214058&Lancaster Bible College\\
+\hline
+1.5188685489297553&Saint Peter's University\\
+\hline
+1.5173980566109844&Notre Dame College\\
+\hline
+1.5166795773277726&Morningside College\\
+\hline
+1.5163255754146645&Renton Technical College\\
+\hline
+1.5154065339443543&University of La Verne\\
+\hline
+1.5142841004338141&Trine University\\
+\hline
+1.5139656647031425&Ranken Technical College\\
+\hline
+1.5124731743809374&Manchester University\\
+\hline
+1.5117451556553154&Shenandoah University\\
+\hline
+1.511529985388615&Eastern University\\
+\hline
+1.511055179938482&Alfred University\\
+\hline
+1.5100720835988846&Meredith College\\
+\hline
+1.5090143436162873&Southern Nazarene University\\
+\hline
+1.5085218519719386&Calvin College\\
+\hline
+1.5079678130345306&Pennsylvania State University-Penn State Worthington Scranton\\
+\hline
+1.5071426048366492&Grand View University\\
+\hline
+1.507089732517379&Wentworth Institute of Technology\\
+\hline
+1.5067615241330439&Greenville College\\
+\hline
+1.506625364053521&Houghton College\\
+\hline
+1.5065145824569095&Robert Morris University\\
+\hline
+1.5064328443803199&Midland University\\
+\hline
+1.506279389517458&Ohio Wesleyan University\\
+\hline
+1.5061608097001435&Pennsylvania State University-Penn State Mont Alto\\
+\hline
+1.5055077216021324&Culinary Institute of America\\
+\hline
+1.5054116592241245&SUNY Institute of Technology at Utica-Rome\\
+\hline
+1.5038472696520349&Tennessee Wesleyan College\\
+\hline
+1.5036250691801831&Huntington University\\
+\hline
+1.503415706630899&The College of Saint Rose\\
+\hline
+1.5031023169893598&Saint Louis University\\
+\hline
+1.5019311853062556&Delaware Valley College\\
+\hline
+1.5018954600170105&Quincy University\\
+\hline
+1.501257956686379&Chapman University\\
+\hline
+1.4998583153231582&Ashland University\\
+\hline
+1.4994373123686937&Norwich University\\
+\hline
+1.499147695793325&Capital University\\
+\hline
+1.4989471106857066&LIU Post\\
+\hline
+1.4983529526726207&Salisbury University\\
+\hline
+1.4978476824703482&Mississippi College\\
+\hline
+1.4975763744572521&University of Pittsburgh-Bradford\\
+\hline
+1.49749817811177&Oregon Institute of Technology\\
+\hline
+1.4962614202802886&Grace College and Theological Seminary\\
+\hline
+1.4959591273772652&Fordham University\\
+\hline
+1.4957275000136647&Concordia University-Irvine\\
+\hline
+1.49554278112348&Spalding University\\
+\hline
+1.4954519861290394&James Madison University\\
+\hline
+1.4949361077654317&Seattle Pacific University\\
+\hline
+1.4946129320077686&Boston University\\
+\hline
+1.4946067246497148&Bluffton University\\
+\hline
+1.4938996658245545&Centenary College\\
+\hline
+1.4937313694868557&Syracuse University\\
+\hline
+1.4936690947261895&SUNY College at Cortland\\
+\hline
+1.4929406961472527&St Catherine University\\
+\hline
+1.4928655078520192&King University\\
+\hline
+1.4923324623999485&Clemson University\\
+\hline
+1.492145982268066&University of Maryland-College Park\\
+\hline
+1.4917318223990248&Northwest University\\
+\hline
+1.4915123348478951&Piedmont College\\
+\hline
+1.4912195571779545&Freed-Hardeman University\\
+\hline
+1.489833093096632&Colby-Sawyer College\\
+\hline
+1.4897907921495248&Wittenberg University\\
+\hline
+1.4890325627775325&Northwest Nazarene University\\
+\hline
+1.488943022630504&University of North Carolina at Chapel Hill\\
+\hline
+1.488929243439321&Linn State Technical College\\
+\hline
+1.4888383648389474&Ohio University-Eastern Campus\\
+\hline
+1.4887328091949013&Mount Olive College\\
+\hline
+1.488696297638433&West Virginia University Institute of Technology\\
+\hline
+1.4886432111944792&Union University\\
+\hline
+1.4882554185047636&Lakeland College\\
+\hline
+1.4882484392484645&Maryville College\\
+\hline
+1.4873156134380354&Vermont Technical College\\
+\hline
+1.4870149994384416&University of New England\\
+\hline
+1.4865996693811705&Mercyhurst University\\
+\hline
+1.4847597798362426&St Mary's University\\
+\hline
+1.4846378805772844&William Jessup University\\
+\hline
+1.4840850143368485&St Thomas University\\
+\hline
+1.4830304957173086&Utica College\\
+\hline
+1.48255882104667&Bismarck State College\\
+\hline
+1.4820355055355778&Moody Bible Institute\\
+\hline
+1.4813063943286662&Hardin-Simmons University\\
+\hline
+1.4811354911950674&Minot State University\\
+\hline
+1.480653152487873&Mount Vernon Nazarene University\\
+\hline
+1.480073362299816&Trinity Washington University\\
+\hline
+1.4788473663456687&Arcadia University\\
+\hline
+1.4783996253906782&Pennsylvania State University-Penn State Berks\\
+\hline
+1.4777610874190263&University of Connecticut\\
+\hline
+1.4777500258323815&Marywood University\\
+\hline
+1.4772380802960905&Dordt College\\
+\hline
+1.476710333740469&Otterbein University\\
+\hline
+1.4759828994199746&Queens University of Charlotte\\
+\hline
+1.4751210068582912&Roger Williams University\\
+\hline
+1.473773771151664&University of Houston-Clear Lake\\
+\hline
+1.4727407949607447&Pennsylvania State University-Penn State Abington\\
+\hline
+1.4714698759024138&Saint Josephs College\\
+\hline
+1.4711250004392893&University of Mount Union\\
+\hline
+1.470833967043479&Curry College\\
+\hline
+1.4706925056119997&Friends University\\
+\hline
+1.4690819747084445&University of Pittsburgh-Johnstown\\
+\hline
+1.4688859267945167&Wayland Baptist University\\
+\hline
+1.4688029982433581&Madonna University\\
+\hline
+1.4682051318137723&Saint Joseph's College of Maine\\
+\hline
+1.466476009934748&Emmanuel College\\
+\hline
+1.465909468416158&University of Northwestern-St Paul\\
+\hline
+1.4657685441682153&University of South Florida-Sarasota-Manatee\\
+\hline
+1.4656367459315518&Pacific University\\
+\hline
+1.4654055704548883&Alvernia University\\
+\hline
+1.4649119425103643&University of Alaska Southeast\\
+\hline
+1.46401035309424&University of Tulsa\\
+\hline
+1.462224178353113&William Penn University\\
+\hline
+1.462099450764349&Southern Adventist University\\
+\hline
+1.4620005880691154&Seton Hill University\\
+\hline
+1.4609678138520512&Flagler College-St Augustine\\
+\hline
+1.4608811531109107&Wright State University-Lake Campus\\
+\hline
+1.4608247810175685&Fresno Pacific University\\
+\hline
+1.4606577746165246&University of Pittsburgh-Greensburg\\
+\hline
+1.46021569056981&State University of New York at New Paltz\\
+\hline
+1.4601867611884523&Bellevue University\\
+\hline
+1.4597343466930761&Spring Arbor University\\
+\hline
+1.4596196534770338&Pennsylvania State University-Penn State Hazleton\\
+\hline
+1.4594911034650726&Oklahoma Christian University\\
+\hline
+1.4594724396162169&Howard Payne University\\
+\hline
+1.4591661902373385&Mitchell Technical Institute\\
+\hline
+1.4587010813432335&Chestnut Hill College\\
+\hline
+1.457074655713478&Lewis & Clark College\\
+\hline
+1.4569497968193292&Latter-day Saints Business College\\
+\hline
+1.4569042326212505&Gardner-Webb University\\
+\hline
+1.4564394353840147&Loyola University New Orleans\\
+\hline
+1.4545174506927612&Adelphi University\\
+\hline
+1.453730790156879&Franklin Pierce University\\
+\hline
+1.4526540364822471&University of Michigan-Ann Arbor\\
+\hline
+1.452628886979039&Andrews University\\
+\hline
+1.4524268231819206&Hofstra University\\
+\hline
+1.4523854991796104&Briar Cliff University\\
+\hline
+1.4495927855150545&Hilbert College\\
+\hline
+1.44806440331828&National Louis University\\
+\hline
+1.4456047462410015&Carson-Newman University\\
+\hline
+1.445553863085103&Ave Maria University\\
+\hline
+1.44540731400864&Fitchburg State University\\
+\hline
+1.4453255351423089&Rochester College\\
+\hline
+1.4451499512648642&Lubbock Christian University\\
+\hline
+1.4450539356784995&Abilene Christian University\\
+\hline
+1.4447251285560685&Keuka College\\
+\hline
+1.4439761809788312&Rhode Island School of Design\\
+\hline
+1.443645716348779&Worcester State University\\
+\hline
+1.443580753134321&Brigham Young University-Provo\\
+\hline
+1.4430190470691173&Longwood University\\
+\hline
+1.442586158672031&Hampton University\\
+\hline
+1.4423994703468572&Corban University\\
+\hline
+1.442295570708605&University of New Haven\\
+\hline
+1.4420714094282965&University of Wisconsin-La Crosse\\
+\hline
+1.44122863965296&Westfield State University\\
+\hline
+1.4409863216573988&Vanguard University of Southern California\\
+\hline
+1.4403255583225627&Oklahoma City University\\
+\hline
+1.440124782970202&California Polytechnic State University-San Luis Obispo\\
+\hline
+1.4391856411091108&Franciscan University of Steubenville\\
+\hline
+1.439037923738582&University of Miami\\
+\hline
+1.4386130586423134&National University\\
+\hline
+1.437700574564777&Geneva College\\
+\hline
+1.4376985281023942&Houston Baptist University\\
+\hline
+1.4367872444268208&Azusa Pacific University\\
+\hline
+1.4366643940929718&Ohio Dominican University\\
+\hline
+1.4366381227855374&University of Minnesota-Morris\\
+\hline
+1.4364264621687977&Hiram College\\
+\hline
+1.4362043688041564&Ohio State University-Lima Campus\\
+\hline
+1.4360158819268272&Virginia Polytechnic Institute and State University\\
+\hline
+1.4359519247258152&Stetson University\\
+\hline
+1.4357643137669476&Rochester Institute of Technology\\
+\hline
+1.4357606582760876&SUNY Oneonta\\
+\hline
+1.435223332938557&Huntingdon College\\
+\hline
+1.4351196743719814&Tulane University of Louisiana\\
+\hline
+1.434500587351028&Bard College\\
+\hline
+1.434217608282232&The University of Virginia's College at Wise\\
+\hline
+1.433905008760807&Pratt Community College\\
+\hline
+1.4337420987321983&CUNY Bernard M Baruch College\\
+\hline
+1.433686500490412&Mount St Mary's College\\
+\hline
+1.4335909127895543&American International College\\
+\hline
+1.43343941514386&Schreiner University\\
+\hline
+1.4330558377243714&New York Institute of Technology\\
+\hline
+1.4329799425576888&Christopher Newport University\\
+\hline
+1.432835924827139&Lasell College\\
+\hline
+1.431668369493876&Dakota State University\\
+\hline
+1.431550515547241&Bethel College-Indiana\\
+\hline
+1.431412387860356&Bay Path College\\
+\hline
+1.4307574191686045&Pfeiffer University\\
+\hline
+1.4303383369512563&Pennsylvania State University-Penn State Altoona\\
+\hline
+1.4293421591480788&Lenoir-Rhyne University\\
+\hline
+1.4289496848886505&Mary Baldwin College\\
+\hline
+1.4277013577294309&Framingham State University\\
+\hline
+1.4270842338383964&East Texas Baptist University\\
+\hline
+1.4270174712007704&Woodbury University\\
+\hline
+1.425914184669618&Chaminade University of Honolulu\\
+\hline
+1.425601078809646&Cumberland University\\
+\hline
+1.4254342094661543&Warner University\\
+\hline
+1.4246362842635016&Suffolk University\\
+\hline
+1.4242544636916652&Pennsylvania State University-Penn State Erie-Behrend College\\
+\hline
+1.424044789648645&Heidelberg University\\
+\hline
+1.4239427918621828&Dowling College\\
+\hline
+1.4239079145217075&University of California-Berkeley\\
+\hline
+1.4235544225901848&Berry College\\
+\hline
+1.423220626996151&Buena Vista University\\
+\hline
+1.4227522516469986&Webster University\\
+\hline
+1.4225407021252248&Concordia University-Wisconsin\\
+\hline
+1.4213618232628928&Regent University\\
+\hline
+1.417826559008193&South Central Louisiana Technical College-Young Memorial Campus\\
+\hline
+1.4170975498012914&University of Detroit Mercy\\
+\hline
+1.4159164576772922&University of Houston-Victoria\\
+\hline
+1.4154443620501136&University of Indianapolis\\
+\hline
+1.415069239274917&Siena Heights University\\
+\hline
+1.4145735708161113&University of Maryland-Baltimore County\\
+\hline
+1.414427430340502&Earlham College\\
+\hline
+1.413540508402238&Southwest Wisconsin Technical College\\
+\hline
+1.4120908249840731&Farmingdale State College\\
+\hline
+1.4115966331594527&Southwest Minnesota State University\\
+\hline
+1.4113775301745992&University of Vermont\\
+\hline
+1.410857886038396&Olivet Nazarene University\\
+\hline
+1.41019498353714&University of Wyoming\\
+\hline
+1.4094934078145673&Hawaii Pacific University\\
+\hline
+1.4094577447335521&Lipscomb University\\
+\hline
+1.4094086802335575&Shippensburg University of Pennsylvania\\
+\hline
+1.4075884434383366&Florida Southern College\\
+\hline
+1.4074743848707905&Pennsylvania State University-Penn State Harrisburg\\
+\hline
+1.406767058064401&Berea College\\
+\hline
+1.4064770711850219&Emerson College\\
+\hline
+1.4058364513775834&Central Methodist University-College of Liberal Arts and Sciences\\
+\hline
+1.4058159271199375&Wilmington College\\
+\hline
+1.404860581354337&Felician College\\
+\hline
+1.4046703770906661&Shoreline Community College\\
+\hline
+1.4043725305828874&Judson University\\
+\hline
+1.4037784227956858&McMurry University\\
+\hline
+1.4029105144393539&Ohio University-Zanesville Campus\\
+\hline
+1.4020610555574748&Harding University\\
+\hline
+1.4019168133647562&University of Wisconsin-Eau Claire\\
+\hline
+1.4018019003661073&Florida Institute of Technology\\
+\hline
+1.401232986591888&Drexel University\\
+\hline
+1.4012008359764347&Eastern Connecticut State University\\
+\hline
+1.400826965679908&Chadron State College\\
+\hline
+1.4007280887044578&Virginia Wesleyan College\\
+\hline
+1.3996245604002857&Xavier University of Louisiana\\
+\hline
+1.398808728212189&Mount Aloysius College\\
+\hline
+1.3972806084114624&Sarah Lawrence College\\
+\hline
+1.3966752242622695&Barton College\\
+\hline
+1.3953690971322805&The University of Tampa\\
+\hline
+1.395313750129865&Radford University\\
+\hline
+1.395217862057689&Ohio State University-Mansfield Campus\\
+\hline
+1.3951387552806505&Young Harris College\\
+\hline
+1.3948478731104363&Foothill College\\
+\hline
+1.394773181476023&Frostburg State University\\
+\hline
+1.39426128650232&Neumann University\\
+\hline
+1.3942212037193251&University of Northern Iowa\\
+\hline
+1.394104481215138&Texas A & M University-Texarkana\\
+\hline
+1.3937919556242333&Northwestern Oklahoma State University\\
+\hline
+1.3928618232565768&Anna Maria College\\
+\hline
+1.3927617379118808&Lake Washington Institute of Technology\\
+\hline
+1.3921693791518954&Potomac State College of West Virginia University\\
+\hline
+1.3914760479405288&The Richard Stockton College of New Jersey\\
+\hline
+1.391001662448443&Park University\\
+\hline
+1.3907780177931819&William Woods University\\
+\hline
+1.3904173158891369&Seattle Community College-South Campus\\
+\hline
+1.3899968013955537&Campbellsville University\\
+\hline
+1.3893698056288204&East Stroudsburg University of Pennsylvania\\
+\hline
+1.3887021864310778&University of Michigan-Dearborn\\
+\hline
+1.3881749590602235&Adrian College\\
+\hline
+1.3868548338798947&Urbana University\\
+\hline
+1.3850246443321013&Loyola University Chicago\\
+\hline
+1.3845851336346555&University of Illinois at Springfield\\
+\hline
+1.3843304852411418&Concordia University-Texas\\
+\hline
+1.3824052011712824&University of California-Los Angeles\\
+\hline
+1.3817496994039022&University of Hartford\\
+\hline
+1.381157834827899&Anderson University\\
+\hline
+1.3806399001740968&Texas A & M International University\\
+\hline
+1.3794325643388872&Barry University\\
+\hline
+1.378411732710323&University of Mary Hardin-Baylor\\
+\hline
+1.37729210992139&Upper Iowa University\\
+\hline
+1.377273037606561&Towson University\\
+\hline
+1.3771035804974978&Whittier College\\
+\hline
+1.3768254832137643&Palm Beach Atlantic University\\
+\hline
+1.3765198454486247&Midway College\\
+\hline
+1.3764641285927157&University of California-San Diego\\
+\hline
+1.37557590748044&Our Lady of the Lake University\\
+\hline
+1.3744890057756007&La Sierra University\\
+\hline
+1.3743044005055836&Louisiana Tech University\\
+\hline
+1.373968014587582&University of California-Irvine\\
+\hline
+1.3737258733544548&Alverno College\\
+\hline
+1.37331354343666&Reed College\\
+\hline
+1.3731191572540773&Lake Area Technical Institute\\
+\hline
+1.372133018735019&Eckerd College\\
+\hline
+1.3716938430640095&Crown College\\
+\hline
+1.371499035030996&Bellevue College\\
+\hline
+1.3710023934355475&Shepherd University\\
+\hline
+1.3708936115064603&Rockford University\\
+\hline
+1.370835440809888&Keystone College\\
+\hline
+1.370811665919778&Northern State University\\
+\hline
+1.370737560121662&Seattle Community College-North Campus\\
+\hline
+1.369339177882827&Southern Polytechnic State University\\
+\hline
+1.3689136951288152&University of Wisconsin-River Falls\\
+\hline
+1.3664083137300722&Peirce College\\
+\hline
+1.36530572861093&New York University\\
+\hline
+1.3650032111936627&Johnson & Wales University-Denver\\
+\hline
+1.3647337702225133&Ohio State University-Newark Campus\\
+\hline
+1.3631713652001718&University of North Dakota\\
+\hline
+1.3624409192004678&Mills College\\
+\hline
+1.3614433331722726&Campbell University\\
+\hline
+1.3613643950919427&SUNY at Albany\\
+\hline
+1.3609958469151384&Georgia College and State University\\
+\hline
+1.3583756972851417&University of New Hampshire-Main Campus\\
+\hline
+1.35788995390634&Everglades University\\
+\hline
+1.3572499333363952&College of the Ozarks\\
+\hline
+1.356237451024971&Bowie State University\\
+\hline
+1.3556657363257758&Rollins College\\
+\hline
+1.3555579664500021&Western State Colorado University\\
+\hline
+1.3541434909442585&Louisiana State University-Shreveport\\
+\hline
+1.3541046173257827&Carthage College\\
+\hline
+1.3539038571995556&Western Connecticut State University\\
+\hline
+1.3536519501638402&Cazenovia College\\
+\hline
+1.353563616920388&University of Minnesota-Duluth\\
+\hline
+1.3532592144208075&North Dakota State University-Main Campus\\
+\hline
+1.352652474649402&Belmont Abbey College\\
+\hline
+1.3517263216900555&Olivet College\\
+\hline
+1.35141350699267&University of Northwestern Ohio\\
+\hline
+1.350972266164098&Western Wyoming Community College\\
+\hline
+1.3507415221271246&Midwestern State University\\
+\hline
+1.350553434914073&CUNY Queens College\\
+\hline
+1.3500370361337186&St John's University-New York\\
+\hline
+1.3500124930466963&Spelman College\\
+\hline
+1.3498726970859753&SUNY College at Old Westbury\\
+\hline
+1.3479195712312062&Wesley College\\
+\hline
+1.3475512616057421&University of Iowa\\
+\hline
+1.3469613385734014&North Greenville University\\
+\hline
+1.3468116215685122&William Carey University\\
+\hline
+1.346444045553143&Art Center College of Design\\
+\hline
+1.3462431386060214&University of Nebraska at Kearney\\
+\hline
+1.3462027290007046&University of Mobile\\
+\hline
+1.3460564162670736&Indiana Wesleyan University\\
+\hline
+1.3459257326683702&George Mason University\\
+\hline
+1.345576562966306&University of Georgia\\
+\hline
+1.3440585226021753&Seward County Community College and Area Technical School\\
+\hline
+1.343957079676587&Columbus College of Art and Design\\
+\hline
+1.3438514861384299&SUNY College at Plattsburgh\\
+\hline
+1.3435243472993255&University of Washington-Seattle Campus\\
+\hline
+1.3423173560796142&Stony Brook University\\
+\hline
+1.3416409578497834&Southwest Baptist University\\
+\hline
+1.3412199969845742&The University of Texas at Dallas\\
+\hline
+1.3400620880934258&Salem College\\
+\hline
+1.3396546183979172&University of Wisconsin-Platteville\\
+\hline
+1.338489884649139&Anderson University\\
+\hline
+1.3381042926572773&Miami University-Middletown\\
+\hline
+1.3376864334800374&Texas Wesleyan University\\
+\hline
+1.3375389910787245&Slippery Rock University of Pennsylvania\\
+\hline
+1.3371213368641555&Sonoma State University\\
+\hline
+1.3370123328642278&Northwest Missouri State University\\
+\hline
+1.336908214595611&University at Buffalo\\
+\hline
+1.3365320182299254&Plymouth State University\\
+\hline
+1.3351280977150493&Winona State University\\
+\hline
+1.3348865096485758&University of the Incarnate Word\\
+\hline
+1.3339504279081715&University of Rhode Island\\
+\hline
+1.333592558476202&Asbury University\\
+\hline
+1.333571365199994&University of Wisconsin-Whitewater\\
+\hline
+1.332396942146666&University of Dubuque\\
+\hline
+1.3317785795587922&Central Washington University\\
+\hline
+1.331739748742192&Thomas Edison State College\\
+\hline
+1.331547446204789&SUNY at Fredonia\\
+\hline
+1.3309598739534783&University of Wisconsin-Green Bay\\
+\hline
+1.3309432260998724&University of North Carolina at Asheville\\
+\hline
+1.3307931597704596&Wilmington University\\
+\hline
+1.3301040447642352&Lee University\\
+\hline
+1.329839340491895&Governors State University\\
+\hline
+1.3294895522658&University of Wisconsin-Stout\\
+\hline
+1.3288821005294964&Baylor University\\
+\hline
+1.3283638091813281&University of Wisconsin-Madison\\
+\hline
+1.3282956541508608&Rowan University\\
+\hline
+1.328118476338591&Casper College\\
+\hline
+1.3276439635310076&University of South Dakota\\
+\hline
+1.3275905183137682&Central Wyoming College\\
+\hline
+1.3273443482602765&Coker College\\
+\hline
+1.3270285057821858&Howard University\\
+\hline
+1.326906561798675&Millersville University of Pennsylvania\\
+\hline
+1.3265337589106538&Cornerstone University\\
+\hline
+1.3264698607839343&Bloomsburg University of Pennsylvania\\
+\hline
+1.3258414527573983&Champlain College\\
+\hline
+1.3253611822296063&Tusculum College\\
+\hline
+1.3243158907575243&Texas Woman's University\\
+\hline
+1.324234782134086&North Central University\\
+\hline
+1.323863248993097&Nyack College\\
+\hline
+1.3228023964959406&California State University-Stanislaus\\
+\hline
+1.3226728530343494&University of California-Santa Barbara\\
+\hline
+1.3225759939503772&Regis College\\
+\hline
+1.3224877587131956&Ohio University-Lancaster Campus\\
+\hline
+1.3219147104306532&Alexandria Technical & Community College\\
+\hline
+1.3213948109136218&Peru State College\\
+\hline
+1.321256561324332&Arkansas State University-Newport\\
+\hline
+1.320783166928104&Keene State College\\
+\hline
+1.3203192833850819&Northeast Community College\\
+\hline
+1.3196128697062584&Highland Community College\\
+\hline
+1.3184726174497574&University of Florida\\
+\hline
+1.3164699748567155&Rhode Island College\\
+\hline
+1.315804376950395&Belmont University\\
+\hline
+1.3154151462490093&Charleston Southern University\\
+\hline
+1.3153197701196555&University of California-Davis\\
+\hline
+1.3145115755679508&Southeastern University\\
+\hline
+1.3133729853466842&Ferrum College\\
+\hline
+1.3131494483290493&California Baptist University\\
+\hline
+1.3127943186358617&Newberry College\\
+\hline
+1.3127683121372578&University of Illinois at Urbana-Champaign\\
+\hline
+1.3123872496465627&University of Bridgeport\\
+\hline
+1.3111389523829342&West Texas A & M University\\
+\hline
+1.3109141901831844&Western Oklahoma State College\\
+\hline
+1.310800681851349&College for Creative Studies\\
+\hline
+1.3099230368433816&Montana Tech of the University of Montana\\
+\hline
+1.3096630344066216&Carroll Community College\\
+\hline
+1.3091146523911916&Garden City Community College\\
+\hline
+1.3090057372374535&Castleton State College\\
+\hline
+1.308272541504629&University of the Cumberlands\\
+\hline
+1.3081460791954223&Sheridan College\\
+\hline
+1.3081204727469344&Wayne State College\\
+\hline
+1.3069921209809428&Shorter University-College of Adult & Professional Programs\\
+\hline
+1.3065673254798087&Point Park University\\
+\hline
+1.3058637794691095&Reinhardt University\\
+\hline
+1.3051894615269668&Biola University\\
+\hline
+1.305166981704959&West Chester University of Pennsylvania\\
+\hline
+1.3045282635358015&University of South Florida-St Petersburg\\
+\hline
+1.3043486820780592&Miami University-Oxford\\
+\hline
+1.3029297446201091&Bemidji State University\\
+\hline
+1.3025481129534162&DePaul University\\
+\hline
+1.3018751124197252&University of South Carolina-Aiken\\
+\hline
+1.300646598289162&Lamar Institute of Technology\\
+\hline
+1.300517949193186&High Point University\\
+\hline
+1.2984856885037428&Central Connecticut State University\\
+\hline
+1.2970864174129488&North Carolina State University at Raleigh\\
+\hline
+1.2965811037481714&The University of Texas at Tyler\\
+\hline
+1.2957176619782091&California State University-Bakersfield\\
+\hline
+1.2956172664170837&Brigham Young University-Idaho\\
+\hline
+1.2953274747331438&Dunwoody College of Technology\\
+\hline
+1.2952394474923803&Cascadia Community College\\
+\hline
+1.2948659279050803&Western Washington University\\
+\hline
+1.2941529422409217&Dean College\\
+\hline
+1.2939890193797527&SUNY College at Brockport\\
+\hline
+1.2937286953618445&Simpson University\\
+\hline
+1.2926747939923606&Methodist University\\
+\hline
+1.292445845999982&Otis College of Art and Design\\
+\hline
+1.2910233330898433&University of Massachusetts-Lowell\\
+\hline
+1.2907763090097601&California State University-Monterey Bay\\
+\hline
+1.288880848681226&Miami University-Hamilton\\
+\hline
+1.2883177757938187&Pennsylvania Highlands Community College\\
+\hline
+1.2882376880522648&Colorado Christian University\\
+\hline
+1.288134270584402&University of Wisconsin-Stevens Point\\
+\hline
+1.288122527526325&Missouri Valley College\\
+\hline
+1.2876808067107643&University of Massachusetts-Amherst\\
+\hline
+1.2863535727195146&University of Wisconsin-Oshkosh\\
+\hline
+1.286324419877648&Illinois State University\\
+\hline
+1.2862038882130207&University of Hawaii at Manoa\\
+\hline
+1.2858284934597946&Johnson & Wales University-Charlotte\\
+\hline
+1.2857943806374665&Southern Connecticut State University\\
+\hline
+1.2855957860552543&Bridgewater State University\\
+\hline
+1.2854322115575074&South Dakota State University\\
+\hline
+1.2840045660423502&Louisiana State University and Agricultural & Mechanical College\\
+\hline
+1.283112716524806&Thiel College\\
+\hline
+1.2824152094362107&California State University-East Bay\\
+\hline
+1.2823565138817241&Texas A & M University-College Station\\
+\hline
+1.2819154551034109&Massachusetts College of Liberal Arts\\
+\hline
+1.2815660770695463&University of Alaska Fairbanks\\
+\hline
+1.2808929380666683&Great Basin College\\
+\hline
+1.2807700197591327&Minnesota State University-Moorhead\\
+\hline
+1.280640155917733&Columbia College\\
+\hline
+1.2795552762532776&Oklahoma Panhandle State University\\
+\hline
+1.2792935201420352&Evangel University\\
+\hline
+1.2790185347232537&Marymount Manhattan College\\
+\hline
+1.2785100380272731&Lock Haven University\\
+\hline
+1.278299854668077&Pratt Institute-Main\\
+\hline
+1.278135640176866&University of Alabama in Huntsville\\
+\hline
+1.2775345284247241&Southwestern Oklahoma State University\\
+\hline
+1.2769512263289982&University of Massachusetts-Dartmouth\\
+\hline
+1.2766892696278815&Green River Community College\\
+\hline
+1.2760389378186903&Emporia State University\\
+\hline
+1.2755050768013154&Ohio University-Southern Campus\\
+\hline
+1.275031957855441&Pittsburg State University\\
+\hline
+1.2742920661621773&Minnesota State University-Mankato\\
+\hline
+1.2741350005157543&Lakeshore Technical College\\
+\hline
+1.273381532506078&The University of Montana-Western\\
+\hline
+1.2733663099260701&Lynn University\\
+\hline
+1.2730427430447209&Massachusetts College of Art and Design\\
+\hline
+1.2730377866605045&Lake Superior State University\\
+\hline
+1.2726249995321974&Mansfield University of Pennsylvania\\
+\hline
+1.2714877558638669&California State University-San Marcos\\
+\hline
+1.2707553041879232&Asnuntuck Community College\\
+\hline
+1.270219176458797&Union Institute & University\\
+\hline
+1.2697730943393728&College of Charleston\\
+\hline
+1.2688020674332863&Mid-America Christian University\\
+\hline
+1.2684005796862527&Trocaire College\\
+\hline
+1.2675029988560185&Oral Roberts University\\
+\hline
+1.2672520164792453&Montclair State University\\
+\hline
+1.2662925109547472&Salem State University\\
+\hline
+1.2661109076294086&Indiana University-Kokomo\\
+\hline
+1.265739562385395&University of North Carolina Wilmington\\
+\hline
+1.265503942059404&Auburn University\\
+\hline
+1.2646780740018069&Rutgers University-New Brunswick\\
+\hline
+1.2640696474112565&Brazosport College\\
+\hline
+1.2638624818680053&Eastern Illinois University\\
+\hline
+1.261876709714783&Iowa State University\\
+\hline
+1.2604334359456109&CUNY Brooklyn College\\
+\hline
+1.2604040479037388&Kutztown University of Pennsylvania\\
+\hline
+1.2603314829941292&Chipola College\\
+\hline
+1.2601651602872987&Coffeyville Community College\\
+\hline
+1.25975129608855&Black Hills State University\\
+\hline
+1.2591517004824426&University of Maine at Fort Kent\\
+\hline
+1.2585657211646013&Moraine Park Technical College\\
+\hline
+1.2569076858263624&Gallaudet University\\
+\hline
+1.2567434461460103&Clover Park Technical College\\
+\hline
+1.2563501056991195&Central Louisiana Technical Community College\\
+\hline
+1.255376065600014&Purdue University-North Central Campus\\
+\hline
+1.2552099821417855&West Liberty University\\
+\hline
+1.2551778861523637&Catawba College\\
+\hline
+1.2550384483684398&California College of the Arts\\
+\hline
+1.254671253751827&Belhaven University\\
+\hline
+1.2546478389538194&Montana State University-Northern\\
+\hline
+1.254308068967846&Edmonds Community College\\
+\hline
+1.2541740573751616&Capital Area Technical College\\
+\hline
+1.252019649250839&Dodge City Community College\\
+\hline
+1.2513384391944058&Mesabi Range Community and Technical College\\
+\hline
+1.2504505718683445&Warren County Community College\\
+\hline
+1.2503881588743475&Indiana University-Bloomington\\
+\hline
+1.2498060989874538&University of Colorado Colorado Springs\\
+\hline
+1.2496796282873814&Waukesha County Technical College\\
+\hline
+1.2496518776673697&Mid-Plains Community College\\
+\hline
+1.2481020467802175&University of Nebraska-Lincoln\\
+\hline
+1.2480790244228288&University of Missouri-St Louis\\
+\hline
+1.247843802896792&University of Pikeville\\
+\hline
+1.2475007661499367&Murray State University\\
+\hline
+1.2470618672403604&Newbury College\\
+\hline
+1.246744023077773&Purdue University-Main Campus\\
+\hline
+1.2458234263875536&Metropolitan State University\\
+\hline
+1.2445340489134507&SUNY College at Potsdam\\
+\hline
+1.2441803194375003&Minnesota West Community and Technical College\\
+\hline
+1.2431336322276498&Lyndon State College\\
+\hline
+1.243128332999613&Mississippi University for Women\\
+\hline
+1.2429672375378584&University of Kansas\\
+\hline
+1.2429546401544525&Florida Gateway College\\
+\hline
+1.2414984827957072&Georgia Regents University\\
+\hline
+1.241251452166147&Nova Southeastern University\\
+\hline
+1.2411439962255&University of Massachusetts-Boston\\
+\hline
+1.2411426783098671&SUNY College at Oswego\\
+\hline
+1.2409235949077906&Kean University\\
+\hline
+1.2407775484135806&University of Wisconsin-Superior\\
+\hline
+1.2407711111572537&Barton County Community College\\
+\hline
+1.2399402635705044&Arizona State University-West\\
+\hline
+1.239928057164456&Lake-Sumter State College\\
+\hline
+1.2381068698295565&Richard Bland College of the College of William and Mary\\
+\hline
+1.2377487410251249&University of Oklahoma-Norman Campus\\
+\hline
+1.236556907854484&William Paterson University of New Jersey\\
+\hline
+1.2359712395805527&Redlands Community College\\
+\hline
+1.2356421190700957&Cloud County Community College\\
+\hline
+1.2350412947032205&Saint Cloud State University\\
+\hline
+1.2345012630757146&Lourdes University\\
+\hline
+1.2343358854293855&Clarion University of Pennsylvania\\
+\hline
+1.2338948257717743&University of Montevallo\\
+\hline
+1.2337319688536932&Walla Walla Community College\\
+\hline
+1.2335530373445862&Highline Community College\\
+\hline
+1.232210287794696&Lindenwood University\\
+\hline
+1.2320635940675924&University of Missouri-Kansas City\\
+\hline
+1.2317384122763317&Cambridge College\\
+\hline
+1.2316331440924426&Northeastern Junior College\\
+\hline
+1.2310544573296556&Kent State University at Salem\\
+\hline
+1.2308644453333195&Midland College\\
+\hline
+1.2299268718574503&North Iowa Area Community College\\
+\hline
+1.2298318512062978&Kent State University at Geauga\\
+\hline
+1.229013554481107&Neosho County Community College\\
+\hline
+1.2283733560495163&Arkansas State University-Beebe\\
+\hline
+1.2283281322168202&University of Utah\\
+\hline
+1.2281704388382608&University of Nebraska at Omaha\\
+\hline
+1.2280848939450317&Kauai Community College\\
+\hline
+1.2280713716705116&Ohio University-Chillicothe Campus\\
+\hline
+1.2274142638214125&Iowa Central Community College\\
+\hline
+1.226907241414763&Mercyhurst University-North East Campus\\
+\hline
+1.226567765070532&Michigan State University\\
+\hline
+1.226421883076828&University of Missouri-Columbia\\
+\hline
+1.2257132450211439&Winthrop University\\
+\hline
+1.224788529609272&The University of Texas at Austin\\
+\hline
+1.224771624835256&Southern Utah University\\
+\hline
+1.2247395502612788&University of Louisiana at Monroe\\
+\hline
+1.2245514613074757&Labette Community College\\
+\hline
+1.2244806072843715&Northwest College\\
+\hline
+1.2242954701312028&University of Hawaii at Hilo\\
+\hline
+1.224161832853875&University of Pittsburgh-Pittsburgh Campus\\
+\hline
+1.2228635792379086&CUNY Hunter College\\
+\hline
+1.2227188636148278&LIU Brooklyn\\
+\hline
+1.2219803272889227&Guilford College\\
+\hline
+1.2219626747425907&San Diego State University\\
+\hline
+1.2217632997644736&Bowling Green State University-Firelands\\
+\hline
+1.2217310673348003&University of California-Riverside\\
+\hline
+1.2215000263561704&University of Nevada-Reno\\
+\hline
+1.2214453753535144&Washburn University\\
+\hline
+1.2211575837802437&University of Arkansas\\
+\hline
+1.2206745528817886&University of Great Falls\\
+\hline
+1.2206381270969286&University of Minnesota-Twin Cities\\
+\hline
+1.2204042411193339&University of California-Santa Cruz\\
+\hline
+1.2202881032118793&New England College\\
+\hline
+1.2202702597200215&Paul Smiths College of Arts and Science\\
+\hline
+1.2202638754238153&University of Illinois at Chicago\\
+\hline
+1.2201657645259447&Appalachian State University\\
+\hline
+1.219256344705615&Columbia-Greene Community College\\
+\hline
+1.2188469879295096&Johnson & Wales University-North Miami\\
+\hline
+1.2184415783418268&Nevada State College\\
+\hline
+1.2174717839298452&Southeast Technical Institute\\
+\hline
+1.2163469691708828&Sul Ross State University\\
+\hline
+1.2160000559233082&California State University-Chico\\
+\hline
+1.2155087403164457&Ulster County Community College\\
+\hline
+1.2150329021298276&University of Idaho\\
+\hline
+1.2147799845907858&Georgia Southwestern State University\\
+\hline
+1.2143704961421078&Lesley University\\
+\hline
+1.2122351172454253&West Virginia University\\
+\hline
+1.211976369902332&East Central University\\
+\hline
+1.2115249334207534&Nicholls State University\\
+\hline
+1.2112766380901723&Washington State University\\
+\hline
+1.2110438565820225&De Anza College\\
+\hline
+1.2103538616353942&University of Maine at Farmington\\
+\hline
+1.2098606019916964&Brandman University\\
+\hline
+1.20966198906971&Oakland University\\
+\hline
+1.2078095227141152&CUNY Lehman College\\
+\hline
+1.2077760538017825&Southwestern Community College\\
+\hline
+1.2066514492418838&Hampshire College\\
+\hline
+1.206451835245284&Southern Arkansas University Main Campus\\
+\hline
+1.2061116150545041&University of Cincinnati-Clermont College\\
+\hline
+1.2058839311394198&William Peace University\\
+\hline
+1.2054678969875159&Uta Mesivta of Kiryas Joel\\
+\hline
+1.204170540007313&Texas A & M University-Corpus Christi\\
+\hline
+1.2028581623556662&Northcentral Technical College\\
+\hline
+1.2025437292532826&Centralia College\\
+\hline
+1.2021697349524911&Western Carolina University\\
+\hline
+1.2020272078293894&Kansas State University\\
+\hline
+1.2017479257418655&University of Maine\\
+\hline
+1.201678902198263&University of North Florida\\
+\hline
+1.2011667881026&University of Wisconsin-Parkside\\
+\hline
+1.2008773414765095&Franklin University\\
+\hline
+1.2007664168184717&SUNY at Purchase College\\
+\hline
+1.2004668115243695&Morgan Community College\\
+\hline
+1.2002093270509078&University of Michigan-Flint\\
+\hline
+1.2001470353541983&Concord University\\
+\hline
+1.1997682579598692&Moreno Valley College\\
+\hline
+1.1997496965569148&Tennessee Technological University\\
+\hline
+1.1992722948883259&Colorado State University-Fort Collins\\
+\hline
+1.1991634142250418&Raritan Valley Community College\\
+\hline
+1.1988512249964038&California State University-Channel Islands\\
+\hline
+1.1982890629629979&Morehouse College\\
+\hline
+1.1976730879128241&Mount Ida College\\
+\hline
+1.1970107325857076&Rend Lake College\\
+\hline
+1.1961856411963638&Reformed Presbyterian Theological Seminary\\
+\hline
+1.1957275987781772&McNeese State University\\
+\hline
+1.1951569727300226&Eastern Washington University\\
+\hline
+1.195030026517299&Becker College\\
+\hline
+1.1943988067836762&Napa Valley College\\
+\hline
+1.1941303430110735&Oklahoma State University-Main Campus\\
+\hline
+1.1936545053887233&Marymount California University\\
+\hline
+1.1928356313239683&University of New Mexico-Taos Campus\\
+\hline
+1.1919521031790115&California State Polytechnic University-Pomona\\
+\hline
+1.1916292539401676&Norco College\\
+\hline
+1.1915851864494715&University of Oregon\\
+\hline
+1.1914805224867095&Fort Hays State University\\
+\hline
+1.1908865406426823&Roosevelt University\\
+\hline
+1.190748860829947&New England Institute of Technology\\
+\hline
+1.189237330222785&Southeastern Oklahoma State University\\
+\hline
+1.1889221627277606&University of South Carolina-Columbia\\
+\hline
+1.188086374525914&CUNY City College\\
+\hline
+1.1880499304844963&Florida State University\\
+\hline
+1.1879332972337575&County College of Morris\\
+\hline
+1.1878326334434444&University of Cincinnati-Blue Ash College\\
+\hline
+1.1869545025247314&University of Colorado Boulder\\
+\hline
+1.1863479435869948&University of Akron Wayne College\\
+\hline
+1.1858828040428675&Western Illinois University\\
+\hline
+1.1856567243012046&University of New Orleans\\
+\hline
+1.1851761199374147&University of South Carolina-Lancaster\\
+\hline
+1.185102636012317&University of South Carolina-Upstate\\
+\hline
+1.1849705223217104&Quincy College\\
+\hline
+1.184302381458633&Limestone College\\
+\hline
+1.1837018108318018&Wytheville Community College\\
+\hline
+1.1834261886718438&Faulkner University\\
+\hline
+1.1832734659364208&Everett Community College\\
+\hline
+1.182094001837552&Arizona State University-Polytechnic\\
+\hline
+1.1820878232156027&Frederick Community College\\
+\hline
+1.1820563276283655&Northeast Wisconsin Technical College\\
+\hline
+1.1799584350329622&Kent State University at East Liverpool\\
+\hline
+1.1794934609037322&Chowan University\\
+\hline
+1.1792547747339026&Southern Oregon University\\
+\hline
+1.1791671194506794&University of Mississippi\\
+\hline
+1.179040919751594&Northland Community and Technical College\\
+\hline
+1.1789724782863504&Southwestern Assemblies of God University\\
+\hline
+1.177650893278224&The University of Tennessee-Martin\\
+\hline
+1.1774359178022458&Fairmont State University\\
+\hline
+1.1768791354361618&Dakota County Technical College\\
+\hline
+1.1768629224493976&Wisconsin Indianhead Technical College\\
+\hline
+1.1763256657017562&Independence University\\
+\hline
+1.1758118851765802&University of Northern Colorado\\
+\hline
+1.1747940136258617&Seattle Central College\\
+\hline
+1.1746173266777278&Whatcom Community College\\
+\hline
+1.1744186889084485&The University of Tennessee-Knoxville\\
+\hline
+1.1743814304920195&Woodland Community College\\
+\hline
+1.1739324249535124&Buffalo State SUNY\\
+\hline
+1.1734931748728699&Henderson State University\\
+\hline
+1.1733594005574488&Colorado State University-Pueblo\\
+\hline
+1.1731169021043877&South Florida State College\\
+\hline
+1.1729860139689954&Texas A & M University-Commerce\\
+\hline
+1.1729587230117187&Armstrong Atlantic State University\\
+\hline
+1.172898832119944&Community College of Beaver County\\
+\hline
+1.1717124255689297&Kent State University at Tuscarawas\\
+\hline
+1.1712831150366418&Marshall University\\
+\hline
+1.170609397286787&Chippewa Valley Technical College\\
+\hline
+1.1706008854004162&Galveston College\\
+\hline
+1.1705794023158131&Florida Gulf Coast University\\
+\hline
+1.1705650974126063&Montana State University-Billings\\
+\hline
+1.170150600048462&University of Alabama at Birmingham\\
+\hline
+1.169750281665444&Western Oregon University\\
+\hline
+1.1697200205763418&Eastern Arizona College\\
+\hline
+1.1688968670605053&California University of Pennsylvania\\
+\hline
+1.168578578263778&Johnson & Wales University-Providence\\
+\hline
+1.1676968960933247&Big Bend Community College\\
+\hline
+1.16747132270168&San Jose State University\\
+\hline
+1.167119388261347&Southeast Missouri State University\\
+\hline
+1.1664785220017653&Fox Valley Technical College\\
+\hline
+1.165960678815699&Lander University\\
+\hline
+1.165841267310841&Johnson State College\\
+\hline
+1.165432219020143&University of Central Arkansas\\
+\hline
+1.1649601803883534&Texas Tech University\\
+\hline
+1.164125395320209&Central Lakes College-Brainerd\\
+\hline
+1.1636752242609367&Ridgewater College\\
+\hline
+1.1633741673473919&Fort Lewis College\\
+\hline
+1.1633165887585866&University of Kentucky\\
+\hline
+1.1630358358677728&Pierce College at Puyallup\\
+\hline
+1.1630122167750576&University of South Carolina-Beaufort\\
+\hline
+1.1628124525653336&The New School\\
+\hline
+1.1621743084952123&The University of the Arts\\
+\hline
+1.1621062062774932&Northwestern State University of Louisiana\\
+\hline
+1.1620867752091049&Point University\\
+\hline
+1.1619247575371046&Bloomfield College\\
+\hline
+1.1615036657355653&Maryland Institute College of Art\\
+\hline
+1.161018610810819&University of North Alabama\\
+\hline
+1.1608102495836161&Lakes Region Community College\\
+\hline
+1.1606609510942356&Nashua Community College\\
+\hline
+1.1601507232059016&Oregon State University\\
+\hline
+1.1600735130287188&New Mexico Junior College\\
+\hline
+1.1599463266139816&Eastern Oregon University\\
+\hline
+1.1595964202475064&Iowa Lakes Community College\\
+\hline
+1.1594212476336285&Gulf Coast State College\\
+\hline
+1.1593046296275478&Saint Leo University\\
+\hline
+1.1592202826763056&Indiana University-Northwest\\
+\hline
+1.1590540342882936&California State University-San Bernardino\\
+\hline
+1.1588937430344313&North Central Missouri College\\
+\hline
+1.1579714613322545&Hawkeye Community College\\
+\hline
+1.1578947576785472&Odessa College\\
+\hline
+1.1576083795686019&Delta State University\\
+\hline
+1.1575336338150766&SUNY College of Technology at Alfred\\
+\hline
+1.157422547862049&Angelo State University\\
+\hline
+1.1563014822067348&Tarleton State University\\
+\hline
+1.156119177169633&University of Maine at Presque Isle\\
+\hline
+1.1558085407039742&River Parishes Community College\\
+\hline
+1.1547166287338027&Pennsylvania State University-Main Campus\\
+\hline
+1.1538776144862468&Old Dominion University\\
+\hline
+1.153098130257326&Southern Illinois University-Edwardsville\\
+\hline
+1.1526393139793707&Indiana University-Southeast\\
+\hline
+1.152480668689477&Snow College\\
+\hline
+1.1523711793462177&Delaware State University\\
+\hline
+1.1515093131584144&L E Fletcher Technical Community College\\
+\hline
+1.1514837462897565&University of Alaska Anchorage\\
+\hline
+1.1514292384095703&Winston-Salem State University\\
+\hline
+1.1509379523765884&New Jersey City University\\
+\hline
+1.1505698393321786&Lincoln College\\
+\hline
+1.1494581394920123&Oklahoma State University Institute of Technology\\
+\hline
+1.1492129352042255&Hibbing Community College\\
+\hline
+1.148974594326742&Ball State University\\
+\hline
+1.1488461775857834&California State University-Dominguez Hills\\
+\hline
+1.1478230704333934&Riverland Community College\\
+\hline
+1.147208099583623&Wichita State University\\
+\hline
+1.147150275548675&Fort Scott Community College\\
+\hline
+1.1468658696819807&Northwestern Connecticut Community College\\
+\hline
+1.1468564439246471&Pennsylvania College of Technology\\
+\hline
+1.1464093092005956&The Evergreen State College\\
+\hline
+1.1462136317602312&Peninsula College\\
+\hline
+1.1450200295758024&University of Central Missouri\\
+\hline
+1.1446604342088589&Kapiolani Community College\\
+\hline
+1.1445365499140807&Illinois Valley Community College\\
+\hline
+1.1436632642513946&Lewis-Clark State College\\
+\hline
+1.1427802049841174&Blue Ridge Community and Technical College\\
+\hline
+1.1427549992063017&Rappahannock Community College\\
+\hline
+1.1422677366477065&Eastern New Mexico University-Roswell Campus\\
+\hline
+1.1419881289439462&California State University-Long Beach\\
+\hline
+1.1419617774817008&Ohlone College\\
+\hline
+1.1416291558173401&Tiffin University\\
+\hline
+1.1413128826821841&Bowling Green State University-Main Campus\\
+\hline
+1.13932720333313&Temple University\\
+\hline
+1.1391223677864966&Grand Valley State University\\
+\hline
+1.1388701683697966&St Cloud Technical and Community College\\
+\hline
+1.1384437794377784&Sam Houston State University\\
+\hline
+1.1380752455127259&Columbia Basin College\\
+\hline
+1.1380743359448975&Auburn University at Montgomery\\
+\hline
+1.1378246063438915&Las Positas College\\
+\hline
+1.136755810344913&Ohio State University-Main Campus\\
+\hline
+1.136608672080116&Mars Hill University\\
+\hline
+1.1362090509213187&Northern Michigan University\\
+\hline
+1.1360159452920657&Sauk Valley Community College\\
+\hline
+1.135838953331836&Arkansas Tech University\\
+\hline
+1.1357088093312389&Indiana University-East\\
+\hline
+1.1357051209778202&University of Southern Indiana\\
+\hline
+1.1333843624857025&Sussex County Community College\\
+\hline
+1.133116078683481&Madisonville Community College\\
+\hline
+1.1330737287064785&Elizabeth City State University\\
+\hline
+1.1330424043396998&Central Community College\\
+\hline
+1.1328913444261695&University of North Carolina at Greensboro\\
+\hline
+1.1326150861809274&New River Community College\\
+\hline
+1.132376171309478&Francis Marion University\\
+\hline
+1.1321231098598714&Central Michigan University\\
+\hline
+1.1319080089519105&East Carolina University\\
+\hline
+1.1318119744289115&Harford Community College\\
+\hline
+1.1317625188573632&Indiana Institute of Technology\\
+\hline
+1.1311670133061766&University of Louisiana at Lafayette\\
+\hline
+1.1305806157049934&Lake Tahoe Community College\\
+\hline
+1.1305774380940958&Savannah College of Art and Design\\
+\hline
+1.1305551295568443&Clinton Community College\\
+\hline
+1.1300271563663777&University of West Alabama\\
+\hline
+1.1293152053344424&College of San Mateo\\
+\hline
+1.1288782855042863&Dillard University\\
+\hline
+1.1286911940980293&SUNY College of Technology at Delhi\\
+\hline
+1.128478448111365&Saginaw Valley State University\\
+\hline
+1.128377043966379&Western Technical College\\
+\hline
+1.1276454738837456&Alpena Community College\\
+\hline
+1.1272651514411964&Hagerstown Community College\\
+\hline
+1.1256743810936891&University of Maryland Eastern Shore\\
+\hline
+1.1248396858810765&California State University-Fresno\\
+\hline
+1.1247114475174471&Utah State University\\
+\hline
+1.1247098352389044&Montana State University\\
+\hline
+1.12432343278836&South Puget Sound Community College\\
+\hline
+1.124258081236098&Moorpark College\\
+\hline
+1.1242541927465564&Coppin State University\\
+\hline
+1.123859589679887&Arizona State University-Skysong\\
+\hline
+1.1229553058959938&Hutchinson Community College\\
+\hline
+1.1228448401797977&West Virginia University at Parkersburg\\
+\hline
+1.1223735212890578&Missouri State University-Springfield\\
+\hline
+1.1222916741969273&Kent State University at Stark\\
+\hline
+1.1222490801952039&Mississippi State University\\
+\hline
+1.1221130841029143&Spoon River College\\
+\hline
+1.122058220494827&Coastal Carolina University\\
+\hline
+1.1213634228141462&Northeastern State University\\
+\hline
+1.1213037758204838&SUNY College of Agriculture and Technology at Cobleskill\\
+\hline
+1.1212754500624522&Northeast Iowa Community College-Calmar\\
+\hline
+1.1210399157068227&Northern Illinois University\\
+\hline
+1.12100845434841&The University of West Florida\\
+\hline
+1.1208421495643777&Honolulu Community College\\
+\hline
+1.120567884586463&CUNY York College\\
+\hline
+1.1205005551986884&Vernon College\\
+\hline
+1.1199085033842293&New Mexico Highlands University\\
+\hline
+1.1199048153603879&Purdue University-Calumet Campus\\
+\hline
+1.1198522103563633&Indiana State University\\
+\hline
+1.1193712898645602&North Country Community College\\
+\hline
+1.1188059553752507&Columbia College\\
+\hline
+1.1184742425267515&Inver Hills Community College\\
+\hline
+1.1183214667443677&Santiago Canyon College\\
+\hline
+1.1182659384526803&Ferris State University\\
+\hline
+1.1180369883304349&University of Louisville\\
+\hline
+1.11749374576103&Pierce College at Fort Steilacoom\\
+\hline
+1.1165110165159151&Manchester Community College\\
+\hline
+1.1160653892390526&University of Arizona\\
+\hline
+1.1159024177425674&University of North Carolina at Charlotte\\
+\hline
+1.1158896021782532&Weber State University\\
+\hline
+1.1146564325214867&Western Nebraska Community College\\
+\hline
+1.1143574961181184&Western Michigan University\\
+\hline
+1.1137955166439177&Huston-Tillotson University\\
+\hline
+1.1134241535074585&Eastern New Mexico University-Main Campus\\
+\hline
+1.1130559595648597&Ranger College\\
+\hline
+1.1128498985228232&Northern Kentucky University\\
+\hline
+1.1127880587208596&Central Maine Community College\\
+\hline
+1.1119545109331064&Indiana University-South Bend\\
+\hline
+1.111243931794865&Hodges University\\
+\hline
+1.1110843826843468&Mercy College\\
+\hline
+1.1110228429647384&California State University-Fullerton\\
+\hline
+1.110566491083705&Martin Methodist College\\
+\hline
+1.1103633776377435&The University of Tennessee-Chattanooga\\
+\hline
+1.1101967479467816&West Virginia State University\\
+\hline
+1.11018606487629&Edison State Community College\\
+\hline
+1.1098894754253699&Ohio University-Main Campus\\
+\hline
+1.1096647979747023&Skyline College\\
+\hline
+1.1092743153388858&Anoka Technical College\\
+\hline
+1.1090005169332138&Alvin Community College\\
+\hline
+1.108824775388432&Northwest Louisiana Technical College\\
+\hline
+1.1085191350945702&Carl Sandburg College\\
+\hline
+1.1083037646978673&Harcum College\\
+\hline
+1.1081475553303421&Columbus State University\\
+\hline
+1.1075584373909169&Colorado Mountain College\\
+\hline
+1.1071566021552357&Rockland Community College\\
+\hline
+1.107123755415747&Orange County Community College\\
+\hline
+1.1068979052939394&Granite State College\\
+\hline
+1.106646290816623&Virginia Commonwealth University\\
+\hline
+1.10647790615572&Glenville State College\\
+\hline
+1.1060133261255831&University of Southern Maine\\
+\hline
+1.1049845718062499&Lord Fairfax Community College\\
+\hline
+1.1049590050610079&Mid-State Technical College\\
+\hline
+1.1047817643403266&Panola College\\
+\hline
+1.1045854666642014&Northwest Florida State College\\
+\hline
+1.1042936917234472&Metropolitan College of New York\\
+\hline
+1.1040819027008377&Helena College University of Montana\\
+\hline
+1.10379381680745&Cecil College\\
+\hline
+1.1034587629962807&The University of Alabama\\
+\hline
+1.103151207091016&Arizona State University-Downtown Phoenix\\
+\hline
+1.1022019065664468&Southern New Hampshire University\\
+\hline
+1.101955261245585&Bethel University\\
+\hline
+1.1019216968664827&Missouri Western State University\\
+\hline
+1.101122267433704&Northshore Technical Community College\\
+\hline
+1.1010099084819809&Morton College\\
+\hline
+1.1009344809092347&South Central College\\
+\hline
+1.1003387931872761&Tuskegee University\\
+\hline
+1.0996921802654476&Indiana University of Pennsylvania-Main Campus\\
+\hline
+1.0994417666222815&University of West Georgia\\
+\hline
+1.0988230917925157&Massachusetts Bay Community College\\
+\hline
+1.0986448067541539&Edinboro University of Pennsylvania\\
+\hline
+1.09847820149091&McHenry County College\\
+\hline
+1.098311665536407&Laramie County Community College\\
+\hline
+1.097967616879694&Skagit Valley College\\
+\hline
+1.0970194577742036&Adirondack Community College\\
+\hline
+1.0968569436020243&Wenatchee Valley College\\
+\hline
+1.096220671506543&Cochise College\\
+\hline
+1.096062404119578&Eastern Maine Community College\\
+\hline
+1.0956247379998336&Robert Morris University Illinois\\
+\hline
+1.0949470412263964&CUNY John Jay College of Criminal Justice\\
+\hline
+1.0949408224960355&Crafton Hills College\\
+\hline
+1.0943970843563864&Lake Land College\\
+\hline
+1.0930035033714722&Itasca Community College\\
+\hline
+1.092290408472007&Marshalltown Community College\\
+\hline
+1.0920529166635224&Louisiana State University-Alexandria\\
+\hline
+1.0913078837091537&Cuesta College\\
+\hline
+1.090685826222709&New Mexico State University-Alamogordo\\
+\hline
+1.0906664774885242&Kishwaukee College\\
+\hline
+1.0901186936051928&North Carolina Wesleyan College\\
+\hline
+1.0899346439722895&Saint Johns River State College\\
+\hline
+1.0893918390652735&Jefferson Davis Community College\\
+\hline
+1.0891214265255524&NHTI-Concord's Community College\\
+\hline
+1.089112684473483&Wharton County Junior College\\
+\hline
+1.0880113748787272&Irvine Valley College\\
+\hline
+1.0875896088755659&Tunxis Community College\\
+\hline
+1.0872230874099655&School of the Art Institute of Chicago\\
+\hline
+1.0869068330292995&Enterprise State Community College\\
+\hline
+1.0861935274475285&Texas A & M University-Kingsville\\
+\hline
+1.085893373333933&Texas State University\\
+\hline
+1.0849731798362694&College of Alameda\\
+\hline
+1.0849069027509806&Taft College\\
+\hline
+1.0844652094560678&Butler County Community College\\
+\hline
+1.0842796831841988&Clayton State University\\
+\hline
+1.084272695047853&Grays Harbor College\\
+\hline
+1.0839810222962567&Missouri State University-West Plains\\
+\hline
+1.0839460020527876&Kent State University at Ashtabula\\
+\hline
+1.0836251448733407&Minnesota State College-Southeast Technical\\
+\hline
+1.0831788009716155&Southeastern Louisiana University\\
+\hline
+1.0824341957994916&Stephen F Austin State University\\
+\hline
+1.0820078455281537&SUNY Empire State College\\
+\hline
+1.0817760849984532&University of Nevada-Las Vegas\\
+\hline
+1.081473331816419&Corning Community College\\
+\hline
+1.08088505785845&University of New Mexico-Valencia County Campus\\
+\hline
+1.0803756494900487&University of North Carolina at Pembroke\\
+\hline
+1.0803584876523284&University of California-Merced\\
+\hline
+1.0796909627323685&Blue Ridge Community College\\
+\hline
+1.0794545598792524&Salem Community College\\
+\hline
+1.0793256836465812&Oakwood University\\
+\hline
+1.0788942231516963&Windward Community College\\
+\hline
+1.0788143193853805&Abraham Baldwin Agricultural College\\
+\hline
+1.0787154451120824&Southern Illinois University-Carbondale\\
+\hline
+1.0785452133350961&The University of Texas-Pan American\\
+\hline
+1.0782231540171168&Central Virginia Community College\\
+\hline
+1.0781752460158558&Great Bay Community College\\
+\hline
+1.0779265600822168&Valdosta State University\\
+\hline
+1.077567813275249&College of Staten Island CUNY\\
+\hline
+1.0774299099585318&Lower Columbia College\\
+\hline
+1.0773046806597777&Baker College of Port Huron\\
+\hline
+1.0769644048703224&Morehead State University\\
+\hline
+1.0767445491959797&Clarendon College\\
+\hline
+1.0763437099625617&Kennebec Valley Community College\\
+\hline
+1.0762375061163876&Olympic College\\
+\hline
+1.0761910023740862&University of Toledo\\
+\hline
+1.0753868915424711&Tacoma Community College\\
+\hline
+1.0753143277915924&University of South Alabama\\
+\hline
+1.0747220460637528&Piedmont Virginia Community College\\
+\hline
+1.0746350555778856&Georgia Southern University\\
+\hline
+1.0746175225472916&Southcentral Kentucky Community and Technical College\\
+\hline
+1.0745106790387917&Pennsylvania State University-World Campus\\
+\hline
+1.07351688864318&Florida Keys Community College\\
+\hline
+1.0726728412754756&John Wood Community College\\
+\hline
+1.071794082174506&California State University-Los Angeles\\
+\hline
+1.0702337702085438&Lake Superior College\\
+\hline
+1.0702033055329896&University of South Florida-Main Campus\\
+\hline
+1.0699889194462566&Monterey Peninsula College\\
+\hline
+1.069607605243677&Niagara County Community College\\
+\hline
+1.0692355340639357&Northern Oklahoma College\\
+\hline
+1.068904102299654&Blackhawk Technical College\\
+\hline
+1.0688265353253243&San Francisco State University\\
+\hline
+1.066853741059967&Arizona State University-Tempe\\
+\hline
+1.0668137281730343&South Louisiana Community College\\
+\hline
+1.0660927871509858&Morgan State University\\
+\hline
+1.0656759851900741&Adams State University\\
+\hline
+1.065557677965565&Southeast Community College Area\\
+\hline
+1.0654575937543014&Western Iowa Tech Community College\\
+\hline
+1.065384022350147&Marion Technical College\\
+\hline
+1.064950925845098&Gloucester County College\\
+\hline
+1.0648938552761944&Marygrove College\\
+\hline
+1.0648425248102633&Allen County Community College\\
+\hline
+1.0642573619874962&Nicolet Area Technical College\\
+\hline
+1.0640002477013257&California State University-Sacramento\\
+\hline
+1.0639859593271632&Los Medanos College\\
+\hline
+1.063984029789913&College of Marin\\
+\hline
+1.0634681341075183&Minnesota State Community and Technical College\\
+\hline
+1.0627896280092397&Gogebic Community College\\
+\hline
+1.0624054300624877&Western Dakota Technical Institute\\
+\hline
+1.0613788663970267&West Kentucky Community and Technical College\\
+\hline
+1.060564665398976&Missouri Southern State University\\
+\hline
+1.0603870142872678&Lincoln University of Pennsylvania\\
+\hline
+1.0598720221819469&Southeastern Illinois College\\
+\hline
+1.0590940033082172&University of Central Oklahoma\\
+\hline
+1.0590162456212227&San Diego Miramar College\\
+\hline
+1.0590132192167947&St Charles Community College\\
+\hline
+1.058595930906019&University of Houston\\
+\hline
+1.057620533722105&West Valley College\\
+\hline
+1.0572211054780942&University of Southern Mississippi\\
+\hline
+1.0570374087187342&Otero Junior College\\
+\hline
+1.0568044825767864&The University of Montana\\
+\hline
+1.0565144001621578&Leeward Community College\\
+\hline
+1.0563971181859988&University of North Texas\\
+\hline
+1.0543406409407048&University of New Mexico-Gallup Campus\\
+\hline
+1.0540000004431798&Lamar State College-Orange\\
+\hline
+1.0537862634136073&Fayetteville State University\\
+\hline
+1.0532444019291067&California Institute of the Arts\\
+\hline
+1.05315472839378&Kent State University at Trumbull\\
+\hline
+1.0529562433433495&Germanna Community College\\
+\hline
+1.0519005661203409&Schenectady County Community College\\
+\hline
+1.0518606734385691&East San Gabriel Valley Regional Occupational Program\\
+\hline
+1.0516451761497176&North Carolina A & T State University\\
+\hline
+1.051508198113713&Scottsdale Community College\\
+\hline
+1.050939326662705&Mercer County Community College\\
+\hline
+1.0496060058539407&Elgin Community College\\
+\hline
+1.0484970540927474&Chandler-Gilbert Community College\\
+\hline
+1.0481539976314245&Jamestown Community College\\
+\hline
+1.0480943740838697&Blue Mountain Community College\\
+\hline
+1.0464293789311583&Dutchess Community College\\
+\hline
+1.046317239734647&Highland Community College\\
+\hline
+1.0454978901228367&Humboldt State University\\
+\hline
+1.045490693751643&Santa Fe College\\
+\hline
+1.0448607143470756&Oakton Community College\\
+\hline
+1.0437835617441116&Virginia Union University\\
+\hline
+1.0435748174859483&Genesee Community College\\
+\hline
+1.043120507726512&Diablo Valley College\\
+\hline
+1.0430335977258587&Lackawanna College\\
+\hline
+1.040987434030247&Folsom Lake College\\
+\hline
+1.0405586102795654&Yakima Valley Community College\\
+\hline
+1.0399793196063283&Danville Area Community College\\
+\hline
+1.0399479837047898&The University of Texas at Arlington\\
+\hline
+1.0392615511864054&Wright State University-Main Campus\\
+\hline
+1.0391890780196718&Louisiana State University-Eunice\\
+\hline
+1.0390704342541084&Manchester Community College\\
+\hline
+1.0388804117382329&University of New Mexico-Main Campus\\
+\hline
+1.0388627042695955&Waubonsee Community College\\
+\hline
+1.0388090778349457&Lindsey Wilson College\\
+\hline
+1.0386866708468285&Ringling College of Art and Design\\
+\hline
+1.0383103881988&Arkansas State University-Main Campus\\
+\hline
+1.0382522789146813&Portland State University\\
+\hline
+1.0382023928240405&Mission College\\
+\hline
+1.0376272050914623&Lanier Technical College\\
+\hline
+1.0368760736865668&University of Cincinnati-Main Campus\\
+\hline
+1.0363472413134125&Jefferson Community College\\
+\hline
+1.0362583832062973&Three Rivers Community College\\
+\hline
+1.0360650156256186&University of Central Florida\\
+\hline
+1.035589760331666&Washington State Community College\\
+\hline
+1.035458086551976&Ocean County College\\
+\hline
+1.0340332726577581&Cayuga County Community College\\
+\hline
+1.0338188714682237&Johnson C Smith University\\
+\hline
+1.0331510165302147&Kaskaskia College\\
+\hline
+1.0330219106784315&Virginia State University\\
+\hline
+1.0330194994228854&South Georgia State College\\
+\hline
+1.0324937616176764&Northeast Alabama Community College\\
+\hline
+1.0314926268970634&Monroe County Community College\\
+\hline
+1.031398219482656&Burlington County College\\
+\hline
+1.031103266802943&SOWELA Technical Community College\\
+\hline
+1.031086235587826&Fond du Lac Tribal and Community College\\
+\hline
+1.0308339659881485&Northern Arizona University\\
+\hline
+1.029827634996673&Florida Agricultural and Mechanical University\\
+\hline
+1.029637781412179&Howard Community College\\
+\hline
+1.0292278231818752&Aims Community College\\
+\hline
+1.0290656717508075&Ohio Christian University\\
+\hline
+1.0290642500621308&Southwest Georgia Technical College\\
+\hline
+1.0288823134398504&Cleveland State University\\
+\hline
+1.027546586485784&University of Wisconsin-Milwaukee\\
+\hline
+1.0271469735035539&Hudson Valley Community College\\
+\hline
+1.0269198960287396&New River Community and Technical College\\
+\hline
+1.0265988341650034&Coastal Bend College\\
+\hline
+1.025843133421762&Fulton-Montgomery Community College\\
+\hline
+1.0254685325994988&West Hills College-Lemoore\\
+\hline
+1.0248316952436394&Canada College\\
+\hline
+1.0243461957413051&New Mexico State University-Main Campus\\
+\hline
+1.0242388084500302&University of Arkansas at Little Rock\\
+\hline
+1.0241537522819117&Evergreen Valley College\\
+\hline
+1.024033717302455&Lamar University\\
+\hline
+1.0239363087017168&Heartland Community College\\
+\hline
+1.0237020761795177&University of Arkansas at Monticello\\
+\hline
+1.023606007128632&Black Hawk College\\
+\hline
+1.023213798331322&Lincoln University\\
+\hline
+1.0231199304568086&Victoria College\\
+\hline
+1.0230265541011494&Rochester Community and Technical College\\
+\hline
+1.0220167238739308&Herkimer County Community College\\
+\hline
+1.0214777418878096&Pearl River Community College\\
+\hline
+1.0214316073436882&Prairie View A & M University\\
+\hline
+1.0211999247721344&Rogers State University\\
+\hline
+1.021069316987631&Iowa Western Community College\\
+\hline
+1.0210282225955891&Cameron University\\
+\hline
+1.0208596927190763&Kennesaw State University\\
+\hline
+1.020777219829907&Georgia State University\\
+\hline
+1.0203653169239546&Tompkins Cortland Community College\\
+\hline
+1.0198527313311794&Paradise Valley Community College\\
+\hline
+1.0195390511569629&Colorado Mesa University\\
+\hline
+1.0192871129287406&Palo Verde College\\
+\hline
+1.0189124487892578&York County Community College\\
+\hline
+1.0181118836660839&Solano Community College\\
+\hline
+1.0180538980644602&Coastline Community College\\
+\hline
+1.0173635505552903&Bluefield State College\\
+\hline
+1.0173627186638252&Norfolk State University\\
+\hline
+1.0170597466169968&Delaware Technical Community College-Terry\\
+\hline
+1.016956784675962&St Clair County Community College\\
+\hline
+1.0160028908524223&Trinidad State Junior College\\
+\hline
+1.0159527915877016&Arkansas State University-Mountain Home\\
+\hline
+1.0152651696690542&Middle Tennessee State University\\
+\hline
+1.0150665622000503&Boricua College\\
+\hline
+1.0148728491864647&Western Kentucky University\\
+\hline
+1.0148067555260951&University of Rio Grande\\
+\hline
+1.014309966435174&Florida Atlantic University\\
+\hline
+1.0142989183942186&Lincoln Land Community College\\
+\hline
+1.0142023764442711&Kellogg Community College\\
+\hline
+1.0140924545739745&James A Rhodes State College\\
+\hline
+1.013681192057103&Indian River State College\\
+\hline
+1.013233195969765&North Carolina Central University\\
+\hline
+1.0130731923271032&Gordon State College\\
+\hline
+1.0123858069122031&Capital Community College\\
+\hline
+1.0122385527627025&Central Georgia Technical College\\
+\hline
+1.011269319883085&Eastern Kentucky University\\
+\hline
+1.0104291848483464&Southwest Virginia Community College\\
+\hline
+1.0095898655570956&Kankakee Community College\\
+\hline
+1.0094877412403942&West Shore Community College\\
+\hline
+1.0094393156211456&Indiana University-Purdue University-Indianapolis\\
+\hline
+1.009378054983545&Henderson Community College\\
+\hline
+1.009219767237632&Lehigh Carbon Community College\\
+\hline
+1.0080707227352974&Southern Maine Community College\\
+\hline
+1.0079616100093616&Allegany College of Maryland\\
+\hline
+1.0078739806412602&College of Southern Maryland\\
+\hline
+1.0073738836673918&Grayson College\\
+\hline
+1.007250402096116&Johnston Community College\\
+\hline
+1.007048729315226&Vincennes University\\
+\hline
+1.0064888568767476&John Tyler Community College\\
+\hline
+1.006483595681649&Western Nevada College\\
+\hline
+1.0063553923833612&Rock Valley College\\
+\hline
+1.0058723323618963&Luzerne County Community College\\
+\hline
+1.005439851635293&Jacksonville State University\\
+\hline
+1.0054379972768956&Howard College\\
+\hline
+1.0051195514808688&Oklahoma State University-Oklahoma City\\
+\hline
+1.0046040190758248&College of Central Florida\\
+\hline
+1.0043547004137123&Tennessee State University\\
+\hline
+1.0040269186019022&Goodwin College\\
+\hline
+1.003741601576777&Gateway Community and Technical College\\
+\hline
+1.003600006626209&Chattahoochee Valley Community College\\
+\hline
+1.0033644088930127&Indiana University-Purdue University-Fort Wayne\\
+\hline
+1.0029998984519766&Middlesex Community College\\
+\hline
+1.0029237057954&Richland Community College\\
+\hline
+1.0024662865901284&Norwalk Community College\\
+\hline
+1.0022403941206108&Carl Albert State College\\
+\hline
+1.0022245559548382&John A Logan College\\
+\hline
+1.0020418084971259&Lamar State College-Port Arthur\\
+\hline
+1.001965833959381&The University of Texas at El Paso\\
+\hline
+1.0011863260158438&University of Memphis\\
+\hline
+1.0005702731351014&Feather River Community College District\\
+\hline
+1.000475757139323&Northern New Mexico College\\
+\hline
+1.0004604251804652&Des Moines Area Community College\\
+\hline
+1.0002886316448216&Touro College\\
+\hline
+1.0000594791895168&Polk State College\\
+\hline
+0.9990813917613948&East Tennessee State University\\
+\hline
+0.9989323828522075&California State University-Northridge\\
+\hline
+0.9983543897399321&Saint Augustine College\\
+\hline
+0.9976215799179811&Davenport University\\
+\hline
+0.9970866266578536&Anoka-Ramsey Community College\\
+\hline
+0.9960696726408577&Idaho State University\\
+\hline
+0.9956065306585323&Western New Mexico University\\
+\hline
+0.9949860390200529&Connors State College\\
+\hline
+0.9943262922283991&Gwinnett Technical College\\
+\hline
+0.9937242128716921&SUNY Broome Community College\\
+\hline
+0.9935221228411382&Motlow State Community College\\
+\hline
+0.993160413811715&Alcorn State University\\
+\hline
+0.9930136419508593&West Hills College-Coalinga\\
+\hline
+0.9928457550538762&Eastern Florida State College\\
+\hline
+0.9926125828923429&Dixie State University\\
+\hline
+0.992459690396362&Owensboro Community and Technical College\\
+\hline
+0.9915135389252778&Eastern Michigan University\\
+\hline
+0.9914650575695967&University of Hawaii Maui College\\
+\hline
+0.9913372169027334&Harper College\\
+\hline
+0.9912023539566671&Kent State University at Kent\\
+\hline
+0.9911221341623406&Madison Area Technical College\\
+\hline
+0.9908410263100852&Hennepin Technical College\\
+\hline
+0.9906711584688692&Danville Community College\\
+\hline
+0.9901299809174815&Flathead Valley Community College\\
+\hline
+0.9899014640643462&Chesapeake College\\
+\hline
+0.9887327224904124&Delaware Technical Community College-Stanton/Wilmington\\
+\hline
+0.988629415996653&Cumberland County College\\
+\hline
+0.988612683241094&Mountwest Community and Technical College\\
+\hline
+0.988448162459082&Albany State University\\
+\hline
+0.9883409012373551&Red Rocks Community College\\
+\hline
+0.987956884831248&Delaware Technical Community College-Owens\\
+\hline
+0.987901830621396&Berklee College of Music\\
+\hline
+0.9872870015150866&Sullivan County Community College\\
+\hline
+0.9869106036176482&Illinois Central College\\
+\hline
+0.9866094673613196&Orange Coast College\\
+\hline
+0.9858997246819965&Virginia Highlands Community College\\
+\hline
+0.9858832025816264&Cisco College\\
+\hline
+0.98586905361994&San Juan College\\
+\hline
+0.9858397624614434&Jefferson College\\
+\hline
+0.9857526694308453&Chicago State University\\
+\hline
+0.9854011065040668&Pierpont Community and Technical College\\
+\hline
+0.985220762774782&Surry Community College\\
+\hline
+0.9851582127980036&Cape Cod Community College\\
+\hline
+0.984541024292639&Clackamas Community College\\
+\hline
+0.9842252285764866&Louisiana Delta Community College\\
+\hline
+0.9840974212162011&Middlesex Community College\\
+\hline
+0.9836154966170559&Weatherford College\\
+\hline
+0.9835459507493114&University of Houston-Downtown\\
+\hline
+0.9831781420403576&Wiley College\\
+\hline
+0.9822904214484149&Georgia Highlands College\\
+\hline
+0.9816439988665817&GateWay Community College\\
+\hline
+0.9815532113096095&Austin Peay State University\\
+\hline
+0.9815520672571506&Morrisville State College\\
+\hline
+0.9815128826403761&Southwestern Oregon Community College\\
+\hline
+0.981408831183744&Spokane Falls Community College\\
+\hline
+0.9813603988303329&Cypress College\\
+\hline
+0.9807078868147157&George C Wallace State Community College-Hanceville\\
+\hline
+0.9796677952121624&Claflin University\\
+\hline
+0.9794895919612085&SUNY College of Technology at Canton\\
+\hline
+0.9788094688381612&Craven Community College\\
+\hline
+0.9775440538635894&Spokane Community College\\
+\hline
+0.9771821643787391&East Central Community College\\
+\hline
+0.9766982502003779&Greenfield Community College\\
+\hline
+0.9757969678887621&College of Coastal Georgia\\
+\hline
+0.9757631016465984&Cossatot Community College of the University of Arkansas\\
+\hline
+0.9754440443653815&Northwestern Michigan College\\
+\hline
+0.9753137399877342&University of Arkansas-Fort Smith\\
+\hline
+0.9753066037722651&Troy University\\
+\hline
+0.9750720556185286&Seminole State College\\
+\hline
+0.974947256496746&Saddleback College\\
+\hline
+0.9746637995269679&Contra Costa College\\
+\hline
+0.9743210278566504&Lurleen B Wallace Community College\\
+\hline
+0.9742462973155728&Cleveland State Community College\\
+\hline
+0.974212367793189&Butler Community College\\
+\hline
+0.9741377859888104&Southern University at New Orleans\\
+\hline
+0.97328470918819&Golden West College\\
+\hline
+0.9728242258851527&Texas State Technical College-Waco\\
+\hline
+0.9726701076126298&University of Arkansas Community College-Batesville\\
+\hline
+0.9725088175322285&Dalton State College\\
+\hline
+0.9724653820948308&Virginia Western Community College\\
+\hline
+0.9723477885755969&Berkshire Community College\\
+\hline
+0.9721974332154886&Remington College-Dallas Campus\\
+\hline
+0.9721808227002643&Columbia State Community College\\
+\hline
+0.9721450909351909&Bucks County Community College\\
+\hline
+0.9719420331348194&Le Moyne-Owen College\\
+\hline
+0.9719141407580697&Wichita Area Technical College\\
+\hline
+0.9711740840990373&Snead State Community College\\
+\hline
+0.9709541069447349&Triton College\\
+\hline
+0.9705889928880094&Oconee Fall Line Technical College\\
+\hline
+0.9704381194828123&Columbia College-Chicago\\
+\hline
+0.9703680271074961&Santa Rosa Junior College\\
+\hline
+0.9696181532083669&Southside Virginia Community College\\
+\hline
+0.9695829829017356&East Arkansas Community College\\
+\hline
+0.9693726519960292&Finger Lakes Community College\\
+\hline
+0.9684056447529502&Northeast Mississippi Community College\\
+\hline
+0.9681544241678072&Texas State Technical College-West Texas\\
+\hline
+0.9677455384786661&Bay de Noc Community College\\
+\hline
+0.9667276027171513&Naugatuck Valley Community College\\
+\hline
+0.9665923484645745&Indian Hills Community College\\
+\hline
+0.966577983163943&Normandale Community College\\
+\hline
+0.9659370674630593&Moraine Valley Community College\\
+\hline
+0.9658990610158589&Florida International University\\
+\hline
+0.9658659440448264&Shawnee State University\\
+\hline
+0.9658652925920884&Wayne State University\\
+\hline
+0.965210921883343&Central Arizona College\\
+\hline
+0.9651938577515722&Santa Barbara City College\\
+\hline
+0.9648013180413606&Athens Technical College\\
+\hline
+0.9643859488894999&East Central College\\
+\hline
+0.9638602886554072&Murray State College\\
+\hline
+0.9626329057894233&Pasco-Hernando Community College\\
+\hline
+0.9617534961771923&Northwest State Community College\\
+\hline
+0.9615782745371397&Bethune-Cookman University\\
+\hline
+0.961191453383062&Pensacola State College\\
+\hline
+0.9608890983148279&Cowley County Community College\\
+\hline
+0.9607878013604156&Lee College\\
+\hline
+0.9590996966297117&Ventura College\\
+\hline
+0.9588339538875866&Clark College\\
+\hline
+0.9582429159288867&City Colleges of Chicago-Richard J Daley College\\
+\hline
+0.9581210447657088&South Plains College\\
+\hline
+0.9577871264632618&Baker College of Owosso\\
+\hline
+0.9570721603132115&The University of Texas at San Antonio\\
+\hline
+0.9566166325081886&Southeast Kentucky Community and Technical College\\
+\hline
+0.9558124591819689&Barstow Community College\\
+\hline
+0.9557098310889022&Kirtland Community College\\
+\hline
+0.9550318519146951&Southwest Mississippi Community College\\
+\hline
+0.9549045024319677&Arapahoe Community College\\
+\hline
+0.954842876780317&Northeastern Illinois University\\
+\hline
+0.9547913497579711&Brookhaven College\\
+\hline
+0.9545805176881699&Oxnard College\\
+\hline
+0.9542757276301576&Piedmont Community College\\
+\hline
+0.9537147994554191&Drury University\\
+\hline
+0.9532098050531238&University of the District of Columbia\\
+\hline
+0.9527399993146005&Linn-Benton Community College\\
+\hline
+0.9523754677386133&Boise State University\\
+\hline
+0.9521607412342046&College of the Canyons\\
+\hline
+0.9513922339988419&Westmoreland County Community College\\
+\hline
+0.9512979600390684&Mineral Area College\\
+\hline
+0.9510496872515339&Parkland College\\
+\hline
+0.9501821262657164&MiraCosta College\\
+\hline
+0.9497857785626916&CUNY Medgar Evers College\\
+\hline
+0.9493131499961914&Lassen Community College\\
+\hline
+0.9492951209803745&San Jose City College\\
+\hline
+0.9492114968748218&Gavilan College\\
+\hline
+0.949147140837701&Cleveland Community College\\
+\hline
+0.9488976621807559&Santa Fe Community College\\
+\hline
+0.9484312112981723&NorthWest Arkansas Community College\\
+\hline
+0.948330296245636&Quinebaug Valley Community College\\
+\hline
+0.9481936247058217&Blue Ridge Community College\\
+\hline
+0.9477477822456797&Mount Wachusett Community College\\
+\hline
+0.9474035592001885&Great Falls College Montana State University\\
+\hline
+0.9472875568307989&College of Southern Idaho\\
+\hline
+0.9467314772516631&Johnson County Community College\\
+\hline
+0.9466281870331605&Alabama A & M University\\
+\hline
+0.945832693493044&Cabrillo College\\
+\hline
+0.9457309212363595&Mohawk Valley Community College\\
+\hline
+0.9456147821988033&Elizabethtown Community and Technical College\\
+\hline
+0.9454431495403539&Crowder College\\
+\hline
+0.9448146918042064&Columbia College\\
+\hline
+0.9447317115335111&Chabot College\\
+\hline
+0.9445350410374399&Middlesex County College\\
+\hline
+0.9441778391399175&American Musical and Dramatic Academy\\
+\hline
+0.9437800074294664&Allan Hancock College\\
+\hline
+0.9437656195663459&Rockingham Community College\\
+\hline
+0.9434102238502408&State Fair Community College\\
+\hline
+0.9431742985570419&Lewis and Clark Community College\\
+\hline
+0.9428405087820656&Southeastern Community College\\
+\hline
+0.9422623976893241&Northeastern Oklahoma A&M College\\
+\hline
+0.9419886930297823&College of the Mainland\\
+\hline
+0.9415234181278116&Langston University\\
+\hline
+0.9412074886493675&Youngstown State University\\
+\hline
+0.9406458521364549&Northeast Texas Community College\\
+\hline
+0.9404729908808286&Black River Technical College\\
+\hline
+0.9403185427840451&Cerro Coso Community College\\
+\hline
+0.9400679429236221&Citrus College\\
+\hline
+0.9399069528494483&Southeast Arkansas College\\
+\hline
+0.939591428607625&Utah Valley University\\
+\hline
+0.939120905907612&Rio Salado College\\
+\hline
+0.938477070074231&Tallahassee Community College\\
+\hline
+0.9384356133204602&Brookdale Community College\\
+\hline
+0.9382850941614549&Metropolitan State University of Denver\\
+\hline
+0.9382010558926025&Southern West Virginia Community and Technical College\\
+\hline
+0.9381866858217621&Saint Augustine's University\\
+\hline
+0.937958623605597&Northampton County Area Community College\\
+\hline
+0.9374334669546692&College of Lake County\\
+\hline
+0.937215531663471&The College of New Rochelle\\
+\hline
+0.9371562936100267&Stevens-Henager College-Murray\\
+\hline
+0.9368304406535198&Schoolcraft College\\
+\hline
+0.9362863128842613&Fisher College\\
+\hline
+0.9359490372133841&Edison State College\\
+\hline
+0.9354335257150121&Savannah State University\\
+\hline
+0.935353590030091&George C Wallace State Community College-Dothan\\
+\hline
+0.9350212084043799&Walters State Community College\\
+\hline
+0.9347681122642473&Central Ohio Technical College\\
+\hline
+0.9346485985527804&Randolph Community College\\
+\hline
+0.9346233805999618&Cincinnati State Technical and Community College\\
+\hline
+0.9339032197065198&North Lake College\\
+\hline
+0.9337338966111346&West Georgia Technical College\\
+\hline
+0.933699254207107&Baker College of Cadillac\\
+\hline
+0.9333037161727156&Vance-Granville Community College\\
+\hline
+0.933260169145588&Hill College\\
+\hline
+0.9321171435399573&Southern University and A & M College\\
+\hline
+0.9318001608377994&Florida Memorial University\\
+\hline
+0.9317491387857576&Eastern Iowa Community College District\\
+\hline
+0.9316832337525612&Middle Georgia State College\\
+\hline
+0.9315278633871562&H Councill Trenholm State Technical College\\
+\hline
+0.9315003957039351&University of North Georgia\\
+\hline
+0.9309535232357381&Montgomery County Community College\\
+\hline
+0.9305123666363602&Truckee Meadows Community College\\
+\hline
+0.9296080880745394&Pasadena City College\\
+\hline
+0.9289964511407314&Meridian Community College\\
+\hline
+0.9285412067370571&Baker College of Jackson\\
+\hline
+0.9275169318286441&Belmont College\\
+\hline
+0.9268358280486809&Quinsigamond Community College\\
+\hline
+0.9267428590273464&North Central State College\\
+\hline
+0.9267098762191759&North Hennepin Community College\\
+\hline
+0.9263593210442638&Wilkes Community College\\
+\hline
+0.9260999571558345&State College of Florida-Manatee-Sarasota\\
+\hline
+0.9252031579790682&Mid Michigan Community College\\
+\hline
+0.9247069002584646&Southern Union State Community College\\
+\hline
+0.9234294394772581&Southwest Texas Junior College\\
+\hline
+0.9233436714590122&Community College of Aurora\\
+\hline
+0.922876052372677&Durham Technical Community College\\
+\hline
+0.9227851826630179&Coastal Carolina Community College\\
+\hline
+0.9219269460488005&Copiah-Lincoln Community College\\
+\hline
+0.9218540394112492&Clark Atlanta University\\
+\hline
+0.9216736123433542&Georgia Gwinnett College\\
+\hline
+0.9216517645560406&Wilson Community College\\
+\hline
+0.9215541309180361&Gateway Technical College\\
+\hline
+0.9214547372835532&Southwestern Community College\\
+\hline
+0.9214497495844128&Jones County Junior College\\
+\hline
+0.9211923720598119&North Central Texas College\\
+\hline
+0.9211522257804695&Hawaii Community College\\
+\hline
+0.9211053813632831&College of the Albemarle\\
+\hline
+0.9204804969629405&North Idaho College\\
+\hline
+0.9198449184201499&Central Carolina Community College\\
+\hline
+0.9195987078476419&University of Wisconsin Colleges\\
+\hline
+0.9195195129201011&Central Alabama Community College\\
+\hline
+0.9194866221938578&Grossmont College\\
+\hline
+0.9182331497306073&Ashland Community and Technical College\\
+\hline
+0.9179315006639744&University of Arkansas at Pine Bluff\\
+\hline
+0.9173730367586568&Massasoit Community College\\
+\hline
+0.9173106613957326&Ozarka College\\
+\hline
+0.9171808518569065&Maysville Community and Technical College\\
+\hline
+0.9165396480156017&Paine College\\
+\hline
+0.9160838422435923&Alabama Southern Community College\\
+\hline
+0.9154385890199457&University of Arkansas Community College-Morrilton\\
+\hline
+0.9154106812878219&Coconino Community College\\
+\hline
+0.9150442451172834&Hartnell College\\
+\hline
+0.9149071928646485&Mitchell Community College\\
+\hline
+0.914717678040384&Savannah Technical College\\
+\hline
+0.9140738195058938&Jackson State University\\
+\hline
+0.9139243538869847&College of the Siskiyous\\
+\hline
+0.9134264084533122&Moberly Area Community College\\
+\hline
+0.9134143469619591&Yavapai College\\
+\hline
+0.9131718647489395&Southern State Community College\\
+\hline
+0.9130927884863772&Aiken Technical College\\
+\hline
+0.9129170263217486&Cuyamaca College\\
+\hline
+0.9128571007673605&Hazard Community and Technical College\\
+\hline
+0.9128206468556678&College of the Redwoods\\
+\hline
+0.9127285238128633&North Shore Community College\\
+\hline
+0.912556666571724&Southeastern Technical College\\
+\hline
+0.9121399771387275&Kentucky State University\\
+\hline
+0.9120029838770771&Brunswick Community College\\
+\hline
+0.9114211202961269&University of Akron Main Campus\\
+\hline
+0.9109542868368565&Northwest-Shoals Community College\\
+\hline
+0.91094569517044&Kilgore College\\
+\hline
+0.9107632638411177&Keiser University-Ft Lauderdale\\
+\hline
+0.9106455899491906&Shawnee Community College\\
+\hline
+0.9105335997004367&South Arkansas Community College\\
+\hline
+0.9100979940387537&Livingstone College\\
+\hline
+0.9098825582742583&Clovis Community College\\
+\hline
+0.9095173377201968&Los Angeles Harbor College\\
+\hline
+0.9093978498380987&Onondaga Community College\\
+\hline
+0.9093157805797539&Muskegon Community College\\
+\hline
+0.9092616621740602&Northwest Vista College\\
+\hline
+0.9088089322445433&Housatonic Community College\\
+\hline
+0.908692084813883&North Georgia Technical College\\
+\hline
+0.9083347274459408&Mountain Empire Community College\\
+\hline
+0.9083135610065863&North Central Michigan College\\
+\hline
+0.9082895156431896&Arkansas Northeastern College\\
+\hline
+0.9079240352177754&Terra State Community College\\
+\hline
+0.9078909633070249&Porterville College\\
+\hline
+0.9078063219944182&New Mexico State University-Dona Ana\\
+\hline
+0.907793692502862&SUNY Westchester Community College\\
+\hline
+0.9075456553055131&Seminole State College of Florida\\
+\hline
+0.9066628172784658&Trinity Valley Community College\\
+\hline
+0.9056986014999975&Kansas City Kansas Community College\\
+\hline
+0.905688953327962&Catawba Valley Community College\\
+\hline
+0.9055586762027862&Volunteer State Community College\\
+\hline
+0.905248465432754&Kirkwood Community College\\
+\hline
+0.9052033407132033&Zane State College\\
+\hline
+0.9051286679591269&Bevill State Community College\\
+\hline
+0.9050354705727065&College of the Desert\\
+\hline
+0.9047818801616451&Berkeley City College\\
+\hline
+0.9047174899895375&North Arkansas College\\
+\hline
+0.9037592831475828&Rose State College\\
+\hline
+0.9034071222961471&Holyoke Community College\\
+\hline
+0.9030142896670121&Asheville-Buncombe Technical Community College\\
+\hline
+0.9017624496701552&Montcalm Community College\\
+\hline
+0.9008357194512809&City College of San Francisco\\
+\hline
+0.9007431854591964&James H Faulkner State Community College\\
+\hline
+0.9004746695417187&City Colleges of Chicago-Wilbur Wright College\\
+\hline
+0.8994843084808782&Century College\\
+\hline
+0.8988752772977933&Roane State Community College\\
+\hline
+0.8979552571353691&Merritt College\\
+\hline
+0.897553569596804&South Georgia Technical College\\
+\hline
+0.8970995650894751&Bergen Community College\\
+\hline
+0.8970608682895473&Beaufort County Community College\\
+\hline
+0.8970248287875373&Bristol Community College\\
+\hline
+0.895424221998281&Wiregrass Georgia Technical College\\
+\hline
+0.8951843198736613&Prince George's Community College\\
+\hline
+0.8951196369428145&South Carolina State University\\
+\hline
+0.893882574104753&Georgia Northwestern Technical College\\
+\hline
+0.8938737491770054&Lenoir Community College\\
+\hline
+0.8936725536977483&Glendale Community College\\
+\hline
+0.89327440870284&Patrick Henry Community College\\
+\hline
+0.8931794930292387&Baker College of Auburn Hills\\
+\hline
+0.8931619567876985&Nash Community College\\
+\hline
+0.8931373373843114&Moultrie Technical College\\
+\hline
+0.8924454221305513&Palm Beach State College\\
+\hline
+0.8908259041541834&Texarkana College\\
+\hline
+0.8908006846114489&Tri-County Community College\\
+\hline
+0.8902473301947426&University of Arkansas Community College-Hope\\
+\hline
+0.8893204117750335&Sampson Community College\\
+\hline
+0.8889209570897633&Isothermal Community College\\
+\hline
+0.8888417675970414&Wor-Wic Community College\\
+\hline
+0.8881423833246372&Paris Junior College\\
+\hline
+0.8876691172284167&Northern Essex Community College\\
+\hline
+0.8875837104811954&Rust College\\
+\hline
+0.8875359903934942&Northland Pioneer College\\
+\hline
+0.8873760819773554&City Colleges of Chicago-Olive-Harvey College\\
+\hline
+0.8872654692852965&Springfield Technical Community College\\
+\hline
+0.8870501370951948&Alamance Community College\\
+\hline
+0.8868342934804904&Anne Arundel Community College\\
+\hline
+0.8867602741373066&Montgomery College\\
+\hline
+0.8865040525951207&Copper Mountain Community College\\
+\hline
+0.8861377438466898&Cedar Valley College\\
+\hline
+0.8857877505107824&Delaware County Community College\\
+\hline
+0.885399378122791&Darton State College\\
+\hline
+0.8846874460668013&Haywood Community College\\
+\hline
+0.8843595140752973&Baker College of Muskegon\\
+\hline
+0.8836492414264293&Hopkinsville Community College\\
+\hline
+0.8835717832116909&Angelina College\\
+\hline
+0.8831237879682496&Navajo Technical University\\
+\hline
+0.8826519462602189&Lakeland Community College\\
+\hline
+0.8825490540080423&Palo Alto College\\
+\hline
+0.8824061851246596&Hocking College\\
+\hline
+0.8823038904836472&Ogeechee Technical College\\
+\hline
+0.8820261847160061&Western Governors University\\
+\hline
+0.881492823569657&Los Angeles Pierce College\\
+\hline
+0.8814737888971631&Estrella Mountain Community College\\
+\hline
+0.8812541567072711&Mendocino College\\
+\hline
+0.8799740874732146&Florida State College at Jacksonville\\
+\hline
+0.8793320513892032&Umpqua Community College\\
+\hline
+0.8786976419272247&Dyersburg State Community College\\
+\hline
+0.8785447863690329&El Camino College-Compton Center\\
+\hline
+0.8781343644968236&Grambling State University\\
+\hline
+0.8780985665785426&Baker College Center for Graduate Studies\\
+\hline
+0.8769832286487718&City Colleges of Chicago-Harry S Truman College\\
+\hline
+0.8757964130740246&Eastern Gateway Community College\\
+\hline
+0.8739685306869903&CUNY Kingsborough Community College\\
+\hline
+0.8735367427770789&Prairie State College\\
+\hline
+0.8727423698115516&Erie Community College\\
+\hline
+0.8712565831373045&South Mountain Community College\\
+\hline
+0.8709935812759164&San Diego Mesa College\\
+\hline
+0.8706380404780024&Jefferson State Community College\\
+\hline
+0.8691182335363911&Delta College\\
+\hline
+0.8688973672131828&Mt Hood Community College\\
+\hline
+0.8686549183810419&National Park Community College\\
+\hline
+0.8684010455605788&Central Oregon Community College\\
+\hline
+0.8679458817781986&Holmes Community College\\
+\hline
+0.8672739286194799&Daytona State College\\
+\hline
+0.8671462562032165&Big Sandy Community and Technical College\\
+\hline
+0.8670792801628407&Gateway Community College\\
+\hline
+0.8660334973778977&Three Rivers Community College\\
+\hline
+0.8659922606845245&Sandhills Community College\\
+\hline
+0.8655611556187062&Lane College\\
+\hline
+0.8654058727280778&Texas State Technical College-Harlingen\\
+\hline
+0.8648297152593467&Metropolitan Community College Area\\
+\hline
+0.8647954580061498&Laredo Community College\\
+\hline
+0.864712502440683&West Virginia Northern Community College\\
+\hline
+0.8646683161101555&CUNY Queensborough Community College\\
+\hline
+0.8644035214954096&Wayne Community College\\
+\hline
+0.8641877545649685&Jackson State Community College\\
+\hline
+0.8632563605529167&Mountain View College\\
+\hline
+0.8626506905960944&Laney College\\
+\hline
+0.8615731764128757&CUNY New York City College of Technology\\
+\hline
+0.8613817598498541&McLennan Community College\\
+\hline
+0.8613694502279281&J F Drake State Community and Technical College\\
+\hline
+0.8608578941556154&James Sprunt Community College\\
+\hline
+0.8608415228315571&Mohave Community College\\
+\hline
+0.860572713461927&Jackson College\\
+\hline
+0.8605681855739187&College of Western Idaho\\
+\hline
+0.860417658430246&Stanly Community College\\
+\hline
+0.8602482967744154&Northeastern Technical College\\
+\hline
+0.8598956311862266&Fullerton College\\
+\hline
+0.8591395308238013&Itawamba Community College\\
+\hline
+0.8579254977570069&Suffolk County Community College\\
+\hline
+0.8577051115330411&Liberty University\\
+\hline
+0.857687832122867&Technical College of the Lowcountry\\
+\hline
+0.8576575540050306&Treasure Valley Community College\\
+\hline
+0.8569107972102826&Los Angeles Mission College\\
+\hline
+0.8562354426837523&The University of Texas at Brownsville\\
+\hline
+0.8545478267461345&Gaston College\\
+\hline
+0.8540254246027911&Baker College of Flint\\
+\hline
+0.8533541863261401&Fort Valley State University\\
+\hline
+0.8533498149941089&Palomar College\\
+\hline
+0.8521394935137463&Phillips Community College of the University of Arkansas\\
+\hline
+0.851794264820929&Oglala Lakota College\\
+\hline
+0.8517616481677868&University of Maine at Augusta\\
+\hline
+0.8515846662447092&Mississippi Delta Community College\\
+\hline
+0.8501616156366437&Albany Technical College\\
+\hline
+0.8496250530526783&Amarillo College\\
+\hline
+0.84954771102774&Baker College of Allen Park\\
+\hline
+0.849145381478342&Richmond Community College\\
+\hline
+0.849017588932408&Salt Lake Community College\\
+\hline
+0.8485087201206213&Northeast State Community College\\
+\hline
+0.8484637026554331&East Mississippi Community College\\
+\hline
+0.8481156148160156&Southern Crescent Technical College\\
+\hline
+0.8478723144931074&Macomb Community College\\
+\hline
+0.8476197408961873&Imperial Valley College\\
+\hline
+0.8475640892893171&Lake Michigan College\\
+\hline
+0.8475528924154071&Mt San Antonio College\\
+\hline
+0.8469105936088146&Valencia College\\
+\hline
+0.8468315714415131&Saint Paul College\\
+\hline
+0.8466305621712218&Georgia Piedmont Technical College\\
+\hline
+0.846620270115877&Reading Area Community College\\
+\hline
+0.8463839564196478&Shaw University\\
+\hline
+0.8459882923948167&Nunez Community College\\
+\hline
+0.8457246375289373&Butte College\\
+\hline
+0.8446181816044478&Community College of Vermont\\
+\hline
+0.8444485362299171&Riverside City College\\
+\hline
+0.8435068556883522&Phoenix College\\
+\hline
+0.8432869906104701&Cheyney University of Pennsylvania\\
+\hline
+0.8431443280510343&Southwestern Michigan College\\
+\hline
+0.8426810569548652&Rio Hondo College\\
+\hline
+0.842082827592996&Spartanburg Community College\\
+\hline
+0.8418709776503195&Yuba College\\
+\hline
+0.8410946638569536&Joliet Junior College\\
+\hline
+0.8404472534342772&Columbus Technical College\\
+\hline
+0.8400793488440005&East Georgia State College\\
+\hline
+0.8397620167685058&Southeastern Community College\\
+\hline
+0.8378179002025086&Sierra College\\
+\hline
+0.83771999763846&Southwestern Illinois College\\
+\hline
+0.8371266947521818&Western Piedmont Community College\\
+\hline
+0.8370610711438081&Northwest Mississippi Community College\\
+\hline
+0.8369519686238459&Gadsden State Community College\\
+\hline
+0.8364910986772217&Union County College\\
+\hline
+0.8364373084191628&Baker College of Clinton Township\\
+\hline
+0.8359925547663704&Camden County College\\
+\hline
+0.8359144350878753&South Suburban College\\
+\hline
+0.8351051237838896&Nassau Community College\\
+\hline
+0.8350804391125836&Cosumnes River College\\
+\hline
+0.834918122414508&Front Range Community College\\
+\hline
+0.8334125783663665&Alabama State University\\
+\hline
+0.8314327394991728&Somerset Community College\\
+\hline
+0.8312980300740298&Miles College\\
+\hline
+0.8291423807065573&Hillsborough Community College\\
+\hline
+0.8257951408991243&Richland College\\
+\hline
+0.8257603016462659&University of Maryland-University College\\
+\hline
+0.8251778050680773&West Los Angeles College\\
+\hline
+0.8238940786474707&Shasta College\\
+\hline
+0.8222905105589409&St Philip's College\\
+\hline
+0.8210405877211541&Los Angeles Valley College\\
+\hline
+0.8209468808362076&College of the Sequoias\\
+\hline
+0.8208008196929891&Mississippi Gulf Coast Community College\\
+\hline
+0.8201709711383403&South Texas College\\
+\hline
+0.8199576790706189&St Petersburg College\\
+\hline
+0.8199040891727982&Santa Ana College\\
+\hline
+0.8195141401056818&Mississippi Valley State University\\
+\hline
+0.8194113824149056&Washtenaw Community College\\
+\hline
+0.8193209248894998&George C Wallace State Community College-Selma\\
+\hline
+0.8185599361415183&Monroe Community College\\
+\hline
+0.81667835375478&Central State University\\
+\hline
+0.8165027779995424&Nashville State Community College\\
+\hline
+0.8144195005475939&Atlanta Technical College\\
+\hline
+0.813278263576956&J Sargeant Reynolds Community College\\
+\hline
+0.8129401940626447&Chemeketa Community College\\
+\hline
+0.8125201422924604&Rowan-Cabarrus Community College\\
+\hline
+0.8121062017242717&Halifax Community College\\
+\hline
+0.8116740121099186&CUNY Hostos Community College\\
+\hline
+0.8114036808560104&Harris-Stowe State University\\
+\hline
+0.8111189689496928&Eastfield College\\
+\hline
+0.8108171681792234&Cerritos College\\
+\hline
+0.8105074998362549&Pitt Community College\\
+\hline
+0.8104651523557092&York Technical College\\
+\hline
+0.8101950703056797&San Joaquin Delta College\\
+\hline
+0.8101841190912008&Santa Monica College\\
+\hline
+0.8101206887565912&Edgecombe Community College\\
+\hline
+0.8092164334108954&Carteret Community College\\
+\hline
+0.8085538746734522&Oklahoma City Community College\\
+\hline
+0.8078947197450089&Clark State Community College\\
+\hline
+0.8073265652913743&El Camino Community College District\\
+\hline
+0.8072563275240966&Orangeburg Calhoun Technical College\\
+\hline
+0.8067155145351489&Lorain County Community College\\
+\hline
+0.8055815989672037&Bunker Hill Community College\\
+\hline
+0.8054889669525597&Augusta Technical College\\
+\hline
+0.8034145789361019&Pellissippi State Community College\\
+\hline
+0.8031014436349443&Glendale Community College\\
+\hline
+0.8027859156238047&Harrisburg Area Community College-Harrisburg\\
+\hline
+0.8012434826492216&Navarro College\\
+\hline
+0.7993006644615557&Cape Fear Community College\\
+\hline
+0.79841565280547&Texas Southern University\\
+\hline
+0.7982696578149576&Chattahoochee Technical College\\
+\hline
+0.7979658877323385&Del Mar College\\
+\hline
+0.7975576177489131&Davidson County Community College\\
+\hline
+0.797393092497048&Central Texas College\\
+\hline
+0.7972743745124258&Temple College\\
+\hline
+0.7966852100447436&Thomas Nelson Community College\\
+\hline
+0.796466028993574&Mid-South Community College\\
+\hline
+0.7962399529048841&Los Angeles Southwest College\\
+\hline
+0.7956318950123793&Merced College\\
+\hline
+0.7947314682782275&Southwestern College\\
+\hline
+0.794207364290061&Forsyth Technical Community College\\
+\hline
+0.7941394145521568&Atlanta Metropolitan State College\\
+\hline
+0.7940269289140234&Piedmont Technical College\\
+\hline
+0.7937292008282018&Tri-County Technical College\\
+\hline
+0.7930856673788111&John C Calhoun State Community College\\
+\hline
+0.7926887727713692&South Piedmont Community College\\
+\hline
+0.7923710002372488&Tyler Junior College\\
+\hline
+0.7917976946766343&Michigan Jewish Institute\\
+\hline
+0.7908240249401598&Bladen Community College\\
+\hline
+0.789736532036107&Atlantic Cape Community College\\
+\hline
+0.7892073545782171&Bakersfield College\\
+\hline
+0.7889538817121254&Bishop State Community College\\
+\hline
+0.7881141090818328&College of DuPage\\
+\hline
+0.7880517101774842&Chaffey College\\
+\hline
+0.7872784437687099&Robeson Community College\\
+\hline
+0.7870953254386537&El Centro College\\
+\hline
+0.7868416642686734&Central Carolina Technical College\\
+\hline
+0.7851307336552426&City Colleges of Chicago-Kennedy-King College\\
+\hline
+0.7827398443918089&Reedley College\\
+\hline
+0.781708121847953&Southern University at Shreveport\\
+\hline
+0.7810785075092823&Rogue Community College\\
+\hline
+0.7807526247765947&Pueblo Community College\\
+\hline
+0.7806210685075113&Kalamazoo Valley Community College\\
+\hline
+0.7799881397742097&Tulsa Community College\\
+\hline
+0.7790515520640178&Pikes Peak Community College\\
+\hline
+0.778252430604847&Baltimore City Community College\\
+\hline
+0.7762473995465472&Shelton State Community College\\
+\hline
+0.7746403579481741&Broward College\\
+\hline
+0.774348609203533&Blinn College\\
+\hline
+0.7742512817775088&CUNY LaGuardia Community College\\
+\hline
+0.7718659448116705&Sacramento City College\\
+\hline
+0.7714825846982245&Modesto Junior College\\
+\hline
+0.7708862137767452&Los Angeles Trade Technical College\\
+\hline
+0.7702968586670562&Minneapolis Community and Technical College\\
+\hline
+0.7698048769669451&Horry-Georgetown Technical College\\
+\hline
+0.7695062404551338&City Colleges of Chicago-Malcolm X College\\
+\hline
+0.7679940350555554&Caldwell Community College and Technical Institute\\
+\hline
+0.7677230254467685&San Bernardino Valley College\\
+\hline
+0.7673750104584003&Passaic County Community College\\
+\hline
+0.7668888818041103&Klamath Community College\\
+\hline
+0.7640309847873675&Bainbridge State College\\
+\hline
+0.76287847158212&Florence-Darlington Technical College\\
+\hline
+0.7626925911813295&Mesa Community College\\
+\hline
+0.7625008088655191&Dine College\\
+\hline
+0.7624362756143687&Columbus State Community College\\
+\hline
+0.7617182594517776&Coahoma Community College\\
+\hline
+0.761541208067873&Mt San Jacinto Community College District\\
+\hline
+0.7605655923939404&Victor Valley College\\
+\hline
+0.7601632479640146&Collin County Community College District\\
+\hline
+0.7597448661069055&Arizona Western College\\
+\hline
+0.7596636287688687&Wake Technical Community College\\
+\hline
+0.7580289655733581&San Jacinto Community College\\
+\hline
+0.7577340459051681&Community College of Denver\\
+\hline
+0.7540497517084356&Baton Rouge Community College\\
+\hline
+0.7524876772321902&Grand Rapids Community College\\
+\hline
+0.752486595063426&Texas College\\
+\hline
+0.7522488297151203&Bossier Parish Community College\\
+\hline
+0.7520907023973283&Northern Virginia Community College\\
+\hline
+0.7515096738965196&Lawson State Community College-Birmingham Campus\\
+\hline
+0.7514521158099663&Oakland Community College\\
+\hline
+0.7509403538901714&CUNY Bronx Community College\\
+\hline
+0.7505476466361878&Antelope Valley College\\
+\hline
+0.7499456703514312&Essex County College\\
+\hline
+0.7495776643193864&United Talmudical Seminary\\
+\hline
+0.7491578132324533&Hudson County Community College\\
+\hline
+0.748838427902056&Midlands Technical College\\
+\hline
+0.7487781312308963&Bluegrass Community and Technical College\\
+\hline
+0.7485613671800028&Wright Career College\\
+\hline
+0.7485256130162188&Lansing Community College\\
+\hline
+0.7480635686295842&East Los Angeles College\\
+\hline
+0.7447751769635923&Ozarks Technical Community College\\
+\hline
+0.7417141827889647&Chattanooga State Community College\\
+\hline
+0.7401546082480114&Community College of Allegheny County\\
+\hline
+0.7335097350188786&Pulaski Technical College\\
+\hline
+0.7325124783250476&San Diego City College\\
+\hline
+0.7303270312211699&Hinds Community College\\
+\hline
+0.7294276574146298&Jefferson Community and Technical College\\
+\hline
+0.7262949480062463&Greenville Technical College\\
+\hline
+0.7223714122702001&City Colleges of Chicago-Harold Washington College\\
+\hline
+0.7217149081726072&Mott Community College\\
+\hline
+0.7196755279723296&Milwaukee Area Technical College\\
+\hline
+0.7176506738654385&Metropolitan Community College-Kansas City\\
+\hline
+0.710257914370812&American River College\\
+\hline
+0.7096820280402579&Community College of Rhode Island\\
+\hline
+0.7027115452274814&Los Angeles City College\\
+\hline
+0.7022995292582577&Georgia Perimeter College\\
+\hline
+0.6994122935938056&Trident Technical College\\
+\hline
+0.6994068989287034&CUNY Borough of Manhattan Community College\\
+\hline
+0.6992249580365292&College of Southern Nevada\\
+\hline
+0.6984592176307061&Owens Community College\\
+\hline
+0.6970268177711602&Lane Community College\\
+\hline
+0.6964512189538968&Fayetteville Technical Community College\\
+\hline
+0.6943512336383717&The Community College of Baltimore County\\
+\hline
+0.6937556175526405&Long Beach City College\\
+\hline
+0.6894801390406797&Henry Ford Community College\\
+\hline
+0.6854865960730627&Fresno City College\\
+\hline
+0.6835354498437098&Sinclair Community College\\
+\hline
+0.6834229157997652&San Antonio College\\
+\hline
+0.6803043881519119&Benedict College\\
+\hline
+0.6774273509261852&Portland Community College\\
+\hline
+0.6766527133076089&Miami Dade College\\
+\hline
+0.6722175559787716&Tidewater Community College\\
+\hline
+0.6721763312333353&Stark State College\\
+\hline
+0.6672392249200509&Central New Mexico Community College\\
+\hline
+0.6670806589618044&Community College of Philadelphia\\
+\hline
+0.6656183993479486&Central Piedmont Community College\\
+\hline
+0.6650154930785404&Southwest Tennessee Community College\\
+\hline
+0.6553936592553917&Pima Community College\\
+\hline
+0.6525721366804511&Guilford Technical Community College\\
+\hline
+0.6380094476317706&Saint Louis Community College\\
+\hline
+0.6368227966248162&Cuyahoga Community College District\\
+\hline
+0.6212206049676496&Delgado Community College\\
+\hline
+0.6178310425756179&El Paso Community College\\
+\hline
+0.6069463954900789&Wayne County Community College District\\
+\hline
+0.6051748118430536&Austin Community College District\\
+\hline
+0.5964231336191671&Tarrant County College District\\
+\hline
+0.5926538350028346&Denmark Technical College\\
+\hline
+0.5775481479924196&Lone Star College System\\
+\hline
+0.5507315285361892&Houston Community College\\
+\hline
+0.45349633591774496&Ivy Tech Community College\\
+\hline

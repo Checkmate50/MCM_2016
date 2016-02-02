@@ -1,0 +1,60 @@
+2.9073614407359663	Albany College of Pharmacy and Health Sciences
+2.5756037557117057	MCPHS University
+2.498255329373365	Harvard University
+2.4911424626686687	Washington and Lee University
+2.454291073018387	University of the Sciences
+2.3523871526395483	Babson College
+2.3314744559689107	Princeton University
+2.3218279859021873	Georgetown University
+2.3189899597031634	Massachusetts Institute of Technology
+2.3062530590262558	Stanford University
+2.2471891842988025	Davidson College
+2.240695872198194	Yale University
+2.206401493411599	Claremont McKenna College
+2.182993010320524	Dartmouth College
+2.1557936894217806	Colgate University
+2.1504868980675926	Hamilton College
+2.139961738568075	California Institute of Technology
+2.1378306512812593	Bates College
+2.1325205832344283	Bentley University
+2.1256230503274893	University of Pennsylvania
+2.113696956228899	Mount Carmel College of Nursing
+2.1129177526293295	Duke University
+2.10889093439859	Lehigh University
+2.1085319199263153	Lafayette College
+2.0967383579488503	College of the Holy Cross
+2.078988172398665	Baptist Memorial College of Health Sciences
+2.07518794480507	Tufts University
+2.0621961000256035	Middlebury College
+2.057683687562533	Trinity College
+2.0522050003489376	University of Notre Dame
+2.050588165087566	Columbia University in the City of New York
+2.0455397553630457	SUNY Maritime College
+2.0446877247859305	Williams College
+2.0370195228023125	Bowdoin College
+2.0280901766413817	Franklin and Marshall College
+2.023797173964573	Muhlenberg College
+2.0165160803594984	Holy Family University
+2.0107593556982555	Pomona College
+2.0100520858421578	University of Richmond
+2.008295096188827	Haverford College
+1.9954385174840639	Stevens Institute of Technology
+1.9932483510523251	Pepperdine University
+1.9917535697062096	Saint Johns University
+1.9881386617044834	Johns Hopkins University
+1.9876734562877914	University of Connecticut-Stamford
+1.9780902104774054	Wellesley College
+1.9580879163191232	Fairfield University
+1.9579069932300075	Colby College
+1.9552777409828033	Rensselaer Polytechnic Institute
+1.9524992584078353	Stonehill College
+1.951726367695004	Christian Brothers University
+1.950937128636409	Amherst College
+1.9444500522240942	Vanderbilt University
+1.9385305422162953	Gettysburg College
+1.9335490553311792	Villanova University
+1.9321360852372886	Bucknell University
+1.9298511444019393	Worcester Polytechnic Institute
+1.9283180351860627	Rice University
+1.9176040486769885	Barnard College
+1.9001794773499592	Vassar College

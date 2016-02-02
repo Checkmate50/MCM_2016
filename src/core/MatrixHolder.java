@@ -2,6 +2,10 @@ package core;
 
 import java.util.Hashtable;
 
+/**
+ * Credit to Bo Zhu and Chong Wang for developing the model
+ * @author Dietrich Geisler
+ */
 public class MatrixHolder {
 
 	Hashtable<String, Matrix> data;
